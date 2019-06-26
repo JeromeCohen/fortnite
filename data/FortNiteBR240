@@ -1,0 +1,1147 @@
+,author,created_utc,id,num_comments,permalink,score,title,selftext,subreddit
+0,roebuck47,1534150997,96wrfq,45,/r/FortNiteBR/comments/96wrfq/probably_not_reddit_worthy_but_this_felt_so_good/,1063,probably not reddit worthy but this felt so good,,FortNiteBR
+1,BredeFrede,1534150933,96wr9j,18,/r/FortNiteBR/comments/96wr9j/dropbutton/,10,“Drop”button,"An option to drop whatever item is in your hands, so you dont have to open your inventory
+
+How is this not a thing yet",FortNiteBR
+2,suspendedload,1534150848,96wqyu,173,/r/FortNiteBR/comments/96wqyu/the_complete_console_wish_list_v6/,686,The complete console wish list - V6,"The focus of this list is on features that benefit console gameplay in particular, hence no ""Remove bloom"", ""Better vertical audio"", ""Custom crosshairs"", ""Weapon/ founder skins"", etc. Please, take a look at the controller layout concepts ([Controller layout concept 1](https://imgur.com/QA4QkE6); [Controller layout concept 2](https://imgur.com/YIQfwpP)), as these will help you understand some of the mentioned features.
+
+# The wish list
+
+* **Button remapping** \[confirmed\]
+   * ""[We’re not sure when this will land, but we’ll give you more info once its fully tested!](https://www.epicgames.com/fortnite/en-US/news/state-of-development-v5?sessionInvalidated=true)""; ""[... working on full controller customization right now.](https://www.reddit.com/r/FortNiteBR/comments/8oi3a8/give_console_players_a_button_to_instantly_edit/)""
+* **Dedicated edit button** \[confirmed\]
+   * See *'L3'* in [concept 1](https://imgur.com/QA4QkE6) and/or [concept 2](https://imgur.com/YIQfwpP)
+* **Building sensitivity** \[confirmed\]
+   * ""[It's on our list, along with dead zone configuration](https://www.reddit.com/r/FortNiteBR/comments/8lv049/state_of_development_v5/dzindi7/?context=3).""
+* **Advanced control settings** \[confirmed: dead zones\]
+   * *Aim assist window*
+   * *Aim assist strength*
+   * *Aim smoothing* \- [visual explanation](https://imgur.com/MJxfm6J)
+   * *Dead zones* \- [visual explanation](https://imgur.com/tEXU99i)
+   * *Response curve* \- [visual explanation 1](https://imgur.com/vmoVlh5); [visual explanation 2](https://imgur.com/ZElVk9b)
+   * *Thumbstick configurations -* [visual explanation](https://imgur.com/a/m75OY0I)
+   * *Trigger thresholds*
+* **KB+M and KB+M adapters (e.g. XIM) in PC/ seperate lobbies** \[\~confirmed\]
+   * ""[More info on this coming next week \[week 33\] \[..\] if you're on KB+M you'll be against KB+M](https://www.reddit.com/r/FortNiteBR/comments/95c7ps/this_man_speaks_the_truth_argue_all_you_want_kbm/e3sfapi)""
+   * ""[Developers have the choice to use APIs that detect and not allow these \[KB+M adapters (e.g. XIM)\]. It’s up to them, but the capability is there.](https://twitter.com/XboxQwik/status/965334394662567936)""
+* **Remove building delay with Builder Pro**
+   * See *preview blueprint* in [concept 1](https://imgur.com/QA4QkE6) and/or [concept 2](https://imgur.com/YIQfwpP) \- Hold circle while pressing R1/R2/L1/L2 to preview build, instead of instantly building it.
+* **Decimal increments sensitivity**
+   * From *1-2-...-9-10* to *1.1-1.2-...-9.9-10*
+* **Sprint with stick deflection** \- [visual explanation](https://imgur.com/a/cYWcHE5)
+   * See *'L3'* in [concept 1](https://imgur.com/QA4QkE6) and/or [concept 2](https://imgur.com/YIQfwpP)
+* **Dedicated buttons for traps**
+   * See *'D-pad down'* and *'R1/R2/L1/L2'* in [concept 1](https://imgur.com/QA4QkE6) and/or [concept 2](https://imgur.com/YIQfwpP) \- Press D-pad down to enter trap mode and R1/R2/L1/L2 to place a trap.
+* **Additional toggles**
+   * *Reset build direction*
+   * *Reset pre-editted build*
+   * *Reset weapon selection*
+   * *Cancel crouch when building -* Note: [concept 1](https://imgur.com/QA4QkE6)/ [concept 2](https://imgur.com/YIQfwpP) has a crouch button in Build Mode; ""[we'd really like you to be able to toggle crouch even while building ](https://www.reddit.com/r/FortNiteBR/comments/7z86xd/building_improvements_with_300/dumhs2f/)""
+* **Console specific features**
+   * PS4: *gyroscopic aiming (*[sort of relevant](https://www.reddit.com/r/FortNiteBR/comments/95c9dn/gyro_is_still_broken_on_the_switch_and_epic_has/e3s421e/?context=8&amp;depth=9)*)*, *touchbar swiping*
+   * XBOX: ?
+   * Switch: *Replay/ career tab, StW*
+* **Aim assist model adjustments**
+   * *Remove aim assist on DBNO*
+   * *Remove aim assist on dead people* (bug?)
+   * *Remove the strong pull when going ADS* \- Note: can be abused by spamming ADS and severly compresses the skill gap
+   * *Seperate adjustable aim assist for projectile weapons*
+* **Visual settings**
+   * *(Camera) motion blur*
+   * *Shadows*
+   * *FOV*
+* **Missing control settings StW**
+   * *ADS sensitivity*
+   * S*coped sensitivity*
+* **Reorganize building blueprints**
+   * ""[This \[customize order of building blueprints\] is a popular suggestion. \[...\] it's in the minds of the team here.](https://www.reddit.com/r/FortNiteBR/comments/85to0m/customize_your_order_of_wallsstairsetc_in_your/dw00d4t/)""
+* **Bug fixes, general fixes &amp; optimalization**
+   * *Trap switching automatically when trying to place trap*
+   * *Rubberbanding/ tearing/ freezes*
+   * *Slow rendering of buildings and a lot of texture pop-in in general*
+   * *Unable to build or big delays while building, only with Builder Pro+Turbo building?*
+   * *Weird placements of build pieces, mostly floors placing above you when aiming down*
+   * *Only able to edit structure same as currently equipped blueprint while in Build Mode*
+   * *Aim assist not always working when shooting through windows*
+   * *Phasing through structures that are already build*
+   * *Auto-run doesn't always activate*
+   * *Secondary accounts XBOX can't crossplay*
+   * *Unable to zoom out map while spectating, both report and zoom out are bound to L2*
+   * *Unable to fire SMG after switching from Shotgun*
+   * *Throwing grenades and trying to switch to building gets you stuck on throwing grenades*
+   * *Invisible loot and enemies*
+
+# Ps4 - Xbox One - Switch conversion
+
+1. X  = A = B
+2. □  = X = Y
+3. Δ  = Y = X
+4. O = B = A
+5. Touchpad = View button = - button
+6. R1 = RB = R
+7. R2 = RT = Zr
+8. R3 = RS = RS
+9. L1 = LB = L
+10. L2 = LT = Zl
+11. L3 = LS = LS
+
+# Already added
+
+* Ghost footsteps fixed - [V5.20](https://www.epicgames.com/fortnite/en-US/patch-notes/v5-20?sessionInvalidated=true)
+* Prefer sprint/ sprint by default - [V5.10](https://www.epicgames.com/fortnite/en-US/patch-notes/v5-10)
+* Hunting rifle aim assist reduced - [V5.0](https://www.epicgames.com/fortnite/en-US/patch-notes/v5-0)
+* Builder Pro in StW - [V4.5](https://www.epicgames.com/fortnite/en-US/patch-notes/v4-5)
+* Edit aim assist toggle - [V4.3](https://www.epicgames.com/fortnite/en-US/patch-notes/v4-3)
+
+**Closing notes**: this is likely the last update I'll post. These take too much effort for too little gain. I've been doing these updates for nearly 2 months and the list is only getting longer. Custom bindings were confirmed some 3 months ago in an official State of Development, with the message that new info would become available once tested; nothing has been posted on the topic since. Customizing the order of the blueprints was mentioned to be on the minds of the development team 5 months ago; nothing on the topic since. It was mentioned that crouching while building was deemed important in the development of the controller scheme now known as Builder Pro, 6 months ago; this is still not possible, despite some obvious solutions. Dead zone configuration and seperate building sensitivity has been confirmed to be on the development list for nearly 3 months; again, nothing since. This is not to bash Epic Games, but rather a reality check. Also, this is not limited to console play. Remember shooting test #2? That was 4-6 months ago \[[link1](https://www.reddit.com/r/FortNiteBR/comments/86base/epic_too_much_silence_about_the_shooting_test_say/dw4o7w8)\], \[[link2](https://www.reddit.com/r/FortNiteBR/comments/86base/epic_too_much_silence_about_the_shooting_test_say/dw4tzc0/)\]. Info on KB+M on console being matched against other KB+M players will drop this week (likely tomorrow?). Let's hope some other long standing issues and confirmed/ promised features are disccussed.",FortNiteBR
+3,F2PGang,1534150814,96wqvh,12,/r/FortNiteBR/comments/96wqvh/what_do_you_guys_think_of_this/,5,What do you guys think of this?,,FortNiteBR
+4,homildon,1534150348,96wpla,26,/r/FortNiteBR/comments/96wpla/probably_not_the_best_idea_to_play_fortnite_with/,6,Probably not the best idea to play Fortnite with bad temper,,FortNiteBR
+5,ThomasTwenty7,1534150093,96woxq,13,/r/FortNiteBR/comments/96woxq/i_played_a_mean_trick_on_these_kids/,1,I played a mean trick on these kids,,FortNiteBR
+6,TreeJib,1534149551,96wnft,12,/r/FortNiteBR/comments/96wnft/epic_why_is_it_so_hard_to_make_the_claps_in/,6,"EPIC, why is it so hard to make the claps in emotes line up with the music?","EPIC, please make the emotes loop correctly; you have a very skilled animation team. Spending an extra hour on each emote placing keyframes in reference to the acompanying audio is not too much to ask. There are many emotes with sync issues. Listen to and watch Work it Out and Squat Kick from within a lobby, where it can repeat more than once. This game has already earned over $1B in revenue; please commit yourself to higher standards.",FortNiteBR
+7,picklerickslady,1534149145,96wm9x,24,/r/FortNiteBR/comments/96wm9x/booby_traps/,2,Booby traps,I think there should be something like booby trapping chests or carts. Maybe they can shake for a couple seconds to let the player know what’s gonna happen and give them time to get away (or not),FortNiteBR
+8,CharlieOnFiya,1534148912,96wlnf,31,/r/FortNiteBR/comments/96wlnf/our_prayers_have_been_answered_august_15th_shop/,4,OUR PRAYERS HAVE BEEN ANSWERED. August 15th Shop!,,FortNiteBR
+9,CraaZzy__,1534148861,96wlir,17,/r/FortNiteBR/comments/96wlir/double_barrel_letdown/,0,Double barrel letdown,"Ok, im gonna say it. The new shotgun is not great as it is. Damage is great and the fact it can shot 2 shells faster than tactical is ok. But the aim is just terrible and most of the time you will deal like 30 damage because of the super huge aim.
+
+It could be actually useful if they make the bloom smaller, for example like of s tactical one when you run and jump. 
+
+Next thing is that they remove ability to aim with it and make the right click also shoot. Players would deal double the damage by clicking both mouse buttons. Kinda stupid you can't fire both shells",FortNiteBR
+10,Jvsper_b,1534148730,96wl6m,15,/r/FortNiteBR/comments/96wl6m/not_sure_if_this_is_a_bug_or/,88,Not sure if this is a bug or,,FortNiteBR
+11,anth_2003,1534148670,96wl0k,14,/r/FortNiteBR/comments/96wl0k/defaults_are_smarter_than_we_think/,10,Defaults are smarter than we think..,"When this game dies the no-skins will be the real ones laughing at us , because they havent spent a dime on this game, and we out here emptying our pockets",FortNiteBR
+12,Gandalf_thepink,1534148428,96wkbu,15,/r/FortNiteBR/comments/96wkbu/the_traps_seriously_need_to_be_addressed_couldve/,8,"The traps seriously need to be addressed, could've won this game otherwise :(",,FortNiteBR
+13,awnawnamas,1534148277,96wjxe,61,/r/FortNiteBR/comments/96wjxe/scoped_ar_is_severely_underrated/,173,Scoped AR is severely underrated,"First off, let me say, I used to hate this gun with a passion, now I'll take it over a gold scar. It's so much fun lasering someone 200m away, 3rd partying a huge build fight, or just being a pest in general to players roaming the fields. Especially with 100% accuracy, it rewards pure skill (: Anyone else feel the same way?",FortNiteBR
+14,Johnvlad47377,1534147755,96wifa,27,/r/FortNiteBR/comments/96wifa/famas_could_use_a_small_buff/,3,FAMAS could use a small buff,"The thing that makes the scar so good is that it does 35-36 damage instead of a blue AR which does 33. It could do 34 with the same effect, you can take down 100 hp with 3 body shots instead of 4, or 1 headshot 1 body shot instead of 1 headshot 2 body shots. This gap is even more noticeable when the enemy has 200hp. When most people you fight have 100/150/200 hp the FAMAS compared to just a grey burst doesn’t feel much different, it takes the same amount of shots to kill even 200hp (7 body shots for any burst rifle). In the least I feel like taking damage drop off would give it more of a purpose. If not giving the burst that crucial buff from 33 to 34 damage, giving it a 2.25x headshot could be reasonable. Hell I’d even take a gold FAMAS if it did 30 or even a few less damage with a 2.5x headshot. The gun feels outshined now especially with first shot accuracy which helped the scar more than the FAMAS. ",FortNiteBR
+15,Radiate_Shikari,1534147440,96whif,34,/r/FortNiteBR/comments/96whif/vertical_sound_location_needs_to_be_addressed/,339,Vertical Sound location NEEDS to be addressed,"I see people complaining about everything except for this. In my own opinion this is something that affects each and every one of my games, unlike a lot of trivial things that are begged to be implemented. Why is it when I hear someone right next to me I have no idea whether they are above or below me? Sound cues are so, so important in this game, its not ok to have this big of a flaw in one of the most impoertant game features. ",FortNiteBR
+16,Sneaker_Seeker,1534147202,96wgsj,20,/r/FortNiteBR/comments/96wgsj/we_have_no_one_but_our_selves_to_blame/,4,We have no one but our selves to blame,"I see countless posts everyday about the state of fortnite and the spray and pray meta, but we can't really blame epic, when the silenced smg got a buff we all loved it and praised epic for making it relevant and a legitimate competition for shotguns, so can you really blame epic for thinking we wanted more of the same? Now I'm not saying I like the new meta because I hate it but I'm not gonna sit here and bash epic about adding smgs and drum guns that completely put shotguns to sleep, but anyways that's my 2 cents if you disagree tell me don't just downvote then leave ",FortNiteBR
+17,Dara04,1534146657,96wfah,16,/r/FortNiteBR/comments/96wfah/winning_after_leaving/,2,Winning after leaving,I was recently playing with my friends and I died and left the match by mistake. They won the match but I did not get the win in my profile. Do we get wins like this or not?,FortNiteBR
+18,Sorkeysork,1534146635,96wf8r,15,/r/FortNiteBR/comments/96wf8r/when_you_both_need_the_explosive_damage_challenge/,0,When you both need the explosive damage challenge,"Splode challenges are always fun imo
+
+('scuse my horrific last sticky throw, stink bombs always stress me out)
+
+![video](va4utm2mftf11)",FortNiteBR
+19,TheRelaxingStreaming,1534146484,96weuu,17,/r/FortNiteBR/comments/96weuu/prediction_on_paradise_palms/,2,Prediction on Paradise Palms,"So this is summer time and it's hot and the Fortnite Battle Royale map features a desert climate known as Paradise Palms and was introduced in season 5. Season 7 is the beginning of snowfall and soon Christmas, I am predicting a snowy version of paradise then for the season because it can't remain a hot climate in the winter.",FortNiteBR
+20,ImWhiteTrash,1534146456,96wes8,27,/r/FortNiteBR/comments/96wes8/the_more_i_play_this_game_the_less_i_enjoy_it/,0,"The more I play this game, the less I enjoy it. [Long post, Question, and Rant]","**TL;DR** I'm really trying here, guys. I want to enjoy this game, I play it a lot, and with no other decent games out right now it's really the only thing to play. What is fun about it? When do I get to start enjoying the game? I constantly see posts on here that make the game seem fun and make me want to play, but I am only met by frustration and disappointment in the actual game.
+
+I need to understand. Why do people like Fortnite? I can't quite understand it. I've been playing this game since Day 1, and I've been on &amp; off of it a few times, but now, all I feel when I play this game is frustration. When I look at this game what I see is:
+
+- Constant nerfs/buffs (whether direct like the health adjustments, or indirect like the P90) to building due to the devs inability to simply make up their mind about whether building should be to sole factor in determining who wins a fight
+
+- A constant inconsistency in game mechanics that just make me frustrated. The amount of times I die in this game due to some bullshit (that was entirely out of my control) just makes me close the game angry.
+
+- A large amount of bugs/fps lag that just makes the game unplayable at times. We've seen videos all over this reddit, so everyone should no exactly what this is. I personally play on PC, a 1500+ gaming PC on medium graphic settings. I should not be getting FPS lag every game.
+
+-A console game that always get the short end of this stick with every update. Even though i rarely play console, I'm curious on how console players have been able to enjoy this game recently. Looking at the videos on reddit, and hearing from friends that play it on console, the game just seems unplayable at times.
+
+- A boring SPAM! meta that changes every week (but doesn't get any less boring) due to the dev intuition that nothing should be able to counter bullet spam.
+
+-The huge gap is skill between players on PC. Which is a pretty interesting problem to have for a game with such a large player base. I would call myself an average play, I can hold my own but still get stomped on by others. The problem I see with this game is I almost never learn anything from my mistakes. When I die, it's usually by someone way above my skill level. The problem is I never actually say to myself, ""Hey, I know what I did wrong in that fight, I'll try to make sure I don't do that again."" like in other games. When I die in other games it will be to someone near me skill level so I can actually understand why I died and perfect my strategy. In this game, I usually die because I fight people that can build the entirety of Hogwarts castle around themselves in a matter of milliseconds, and that's usually followed by an incredibly lucky headshot on me. I don't learn anything from that. ""Ok, I need to get better at building."" HOW?? IN WHAT WAYS?? I didn't learn anything from that. [This is why I was actually excited when I heard they were working on a competitive mode, so I could actually face people at my skill level, but it never got released.] I've bought better hardware, remapped all my buttons, practice in playgrounds, but I still don't get any better at the game, nor learn from my mistakes after 700+ solo games.
+
+- A boring solo game mode. The solo gamemode needs work. The fact that there are almost always less than 30 players left by the time the first circle even starts closing in, it creates so really slow and boring gameplay. That on top of every single person camping, is just entirely boring.
+
+-  [RANT] Boring game mechanics that are constantly praised by the Fortnite community, and a demanded to be untouched. Building doesn't take skill. It's that simple of a statement. It doesn't. There's is little to no effort, or skill, required to spam a button over, so why should it be the biggest factor in determining the winner? ""Oh no, this person broke my wall, I better spam one button over and over until I win the fight."" ""On no, I accidentally placed the ramp before the wall! Its fine tho, because this game rewards me for making mistakes and allows me to build through my structure"" There's just no skill in it. Yet, I never see it being addressed as all people do is defend it. People constantly say the P90 is a ""no skill gun"" (which it is) due to it's spam. What's the difference between spamming a button to build a wall, and spamming a button to shoot a gun? Other than the fact that people will defend ""building takes skill"" with their life, absolutely nothing. One can't take skill, and the other not. Have you ever seen a build fight? There is no strategy involved, literally just whoever spams the fastest wins. I'll end this with an example from another game. In Overwatch, Mercy is known as the ""no skill hero"" because her main function is to spam one button to heal her teammates and win the game, why is that considered ""no skill"", but spamming one button to build and win the game is considered skill in this game? Its the same mechanic.
+
+These are just the things I can think of off the top of my head.
+
+I'm really trying here, guys. I want to enjoy this game, I play it a lot, and with no other decent games out right now it's really the only thing to play. What is fun about it? When do I get to start enjoying the game? I constantly see posts on here that make the game seem fun and make me want to play, but I am only met by frustration and disappointment in the actual game.",FortNiteBR
+21,SliM1103,1534145953,96wddq,62,/r/FortNiteBR/comments/96wddq/35_ping_still_gets_glitched_of_the_building/,281,35 Ping Still Gets Glitched Of The Building,,FortNiteBR
+22,htly47,1534145458,96wbyw,14,/r/FortNiteBR/comments/96wbyw/concept_llama_landing/,66,Concept - Llama Landing,,FortNiteBR
+23,jmzofficial,1534145388,96wbqj,35,/r/FortNiteBR/comments/96wbqj/tfues_exploit_is_actually_insane_when_done_right/,82,Tfue's exploit is actually insane when done right,,FortNiteBR
+24,MoneyMammoth,1534145045,96wapn,135,/r/FortNiteBR/comments/96wapn/i_still_prefer_the_heavy_but_the_double_barrel_is/,937,I still prefer the heavy but the double barrel is definitely a force to be reckoned with,,FortNiteBR
+25,SimpleChloe,1534144891,96wabw,12,/r/FortNiteBR/comments/96wabw/can_you_send_me_your_keybinds_please/,1,Can you send me your keybinds please?,"I just won a dope gaming computer and looking to make the transition back, i cant find any keybinds that are comfortable, thanks",FortNiteBR
+26,FancyDawg,1534144594,96w9g1,58,/r/FortNiteBR/comments/96w9g1/the_community_lately/,341,The community lately,,FortNiteBR
+27,Dumm0_Lel,1534144223,96w8av,14,/r/FortNiteBR/comments/96w8av/can_we_make_something_clear_on_this/,0,Can we make something clear on this,"I’m Tired of people posting the same stuff over and over. Literally, almost everything is just “ hit a cool trick shot “ like no offense, but I don’t give a sh*t. And I see ppl talking about a new “ LTM concept that I PROMISE, will never end up being real, and it just annoys me. Back in season 3 &amp; 4, whenever there was a problem in the game, we would say something to epic and they would fix it. But at the same time, back then, we weren’t like, “ nEw lTm cOncEpt “. Maybeeeee, if we stopped doing dumb stuff like that, and talked about what we want epic to do to fix the game, epic will maybe do that, I’d rather read a paragraph about people requesting for this bug to be fixed or this glitch, not some, “ funny clip “ because right now the game is in a state where it’s literally fuCCing broken, and it out job to tell epic what’s wrong so they can fix it, not ask them for a new game mode and have nothing be changed....
+
+
+If u actually read all this then thank u and if there is anything I left out or anything that I said that was dumb plz let me know by commenting :)",FortNiteBR
+28,iraidbacon,1534143515,96w627,13,/r/FortNiteBR/comments/96w627/is_it_just_me_or_the_drift_skin_is_completely/,0,Is it just me or the drift skin is completely bugged?,"It's been going on for some days just when I reached for the stage 4. 
+
+I wanna know if it's something from my game or everybody else is having the same issue.",FortNiteBR
+29,austin27186,1534143323,96w5gu,13,/r/FortNiteBR/comments/96w5gu/allow_pick_axe_to_be_back_bling/,61,Allow Pick Axe to be Back Bling,,FortNiteBR
+30,JaiLikeDie,1534143286,96w5ct,16,/r/FortNiteBR/comments/96w5ct/season_exclusive_legendary_female_drift_or/,2,Season Exclusive Legendary? Female Drift or Ragnorak?,What do you all think about the season legendaries? In what week are they usually leaked and who will be the legendary(s)? ,FortNiteBR
+31,xXDaybreakerXx,1534143015,96w4js,18,/r/FortNiteBR/comments/96w4js/has_anyone_else_come_across_this_bug_while/,0,Has anyone else come across this bug while dancing? It happens with every emote and every skin that has a jacket gooing below their waist,,FortNiteBR
+32,PancakeBoy100,1534142961,96w4ds,30,/r/FortNiteBR/comments/96w4ds/i_just_won_an_11_kill_solosquads_game_on_mobile_i/,0,I just won an 11 kill solo-squads game on mobile. I also play on Xbox. AMA.,,FortNiteBR
+33,NiceKirby,1534142815,96w3xx,40,/r/FortNiteBR/comments/96w3xx/fortnite_sucks/,0,Fortnite Sucks,Why do people enjoy this game? It's so repetitive. And the microtransactions are so expensive,FortNiteBR
+34,fAKEs2j-,1534142289,96w2b8,17,/r/FortNiteBR/comments/96w2b8/i_wish_i_could_complete_this_challenge/,2,I wish i could complete this challenge :(,,FortNiteBR
+35,Cyodman,1534142223,96w24j,249,/r/FortNiteBR/comments/96w24j/the_noskins_fortnite_sitcom_intro/,9758,"""The No-Skins"" Fortnite Sitcom Intro",,FortNiteBR
+36,TheRelaxingStreaming,1534141184,96vyy6,16,/r/FortNiteBR/comments/96vyy6/i_play_fortnite_for_its_trees/,4,I play Fortnite for its trees,"I can't begin to tell you how much I love the trees 🎄🎄🎄 in Fortnite Battle Royale. I love how they come in so many colors and sway in the wind. Especially the ones located on hills, oh how I love how they fall down when I pickaxe them! I look at my wooden structures after a build fight and loose all control of my motor skills and simply melt in my chair in excitement. After I loot I drop all other materials and run off because the wood might get jealous. My friends say I'm weird but I know they're just sad they can't have a good solid relationship with a virtual item like I can. #Wood4ever ",FortNiteBR
+37,MizarPFG,1534140954,96vy6h,371,/r/FortNiteBR/comments/96vy6h/ladies_and_gentlemen_i_present_to_you_high/,1884,"Ladies and gentlemen, I present to you: High performance mobile gameplay on the S9!",,FortNiteBR
+38,Wuppet_,1534140540,96vwsg,24,/r/FortNiteBR/comments/96vwsg/found_this_picture_on_my_phone_from_when_i_bought/,51,Found this picture on my phone from when I bought my first skin. My friend still thinks I'm stupid for it.,,FortNiteBR
+39,commanderAIK,1534140371,96vw9e,28,/r/FortNiteBR/comments/96vw9e/cant_last_for_more_than_2_minutes_if_i_land_with/,2,Can't last for more than 2 minutes if I land with others - need early game help,"So I realized that after playing Fortnite for over a month now with about 400-500 games, it's a little concerning that I'm still averaging a good 0 kills every solo game I play. Since I've made my last post here, which was essentially me crying about having no idea what to do, I'd like to think I improved a little. I found a partner to duo/playground with, so I've been able to practice building, and I just had that feeling that I've gotten more comfortable with the game. I'm used to my keybinds, I can move around comfortably, and hell, I even thought my aim was getting better.
+
+At first, I was confused as to why it wasn't translating in my regular games, seemingly at all. I noticed the same pattern. If I don't land with anybody, the game essentially becomes a solo lootfest for a good 20 minutes until I run into somebody and end up dying, whether or not I have a chance to try and build beforehand. If I do land with others, chance are I'll die in a fight, and if I do end up getting killed, I sure know that I've taken plenty of shots that I really just don't need to.
+
+Today I was a little fed up with it. I knew something was wrong, and despite my attempts to learn from streams, I realized that my brain just isn't processing it for whatever reason. So I experimented a little and landed in extremely populated areas about 20 times, we'll say. This included tilted at points, but mostly just first stops from the bus, which was usually Pleasant, Greasy, Risky, etc. I figured that it'd stop me from getting in games where I'd start autopiloting because I'd landed alone in a city, or something along those lines.
+
+The results were disastrous. It may seem like I'm exaggerating, but I did not last ten seconds after landing in all of these attempts. My conclusion is that it really seems completely random as to whether or not you'll thrive when landing in these populated areas. Obviously, this was even more frustrating, and I'm coming back here on sort of a last resort, because I don't really know what to do, again. And yes, it's probably my mind going around in circles again, but my frustration level is urging me to find a solution, maybe desperately so.
+
+I've taken a little time to think about it. If I had to guess, I think it's something wrong with my early game capabilities. I'm self-aware enough to know that it's not actually random, that I'm clearly doing something wrong. But honestly, I'm not even necessarily talking about the experiment I tried above. I think my early game in general is just really lackluster. I find that these are where a lot of the skirmishes happen, and even though I build in every fight, I can't seem to take anything I did in playground mode and emulate that. Is there something I'm missing? A fundamental mistake, really? I just...I feel like I should be improving by now. And I know it's wrong to base progress off something like a stat, but the bagels are really, really jarring.",FortNiteBR
+40,TheRussianCosmonaut,1534139844,96vuiz,21,/r/FortNiteBR/comments/96vuiz/epic_games_everytime_a_new_meta_comes_out/,191,Epic games everytime a new meta comes out,,FortNiteBR
+41,jaybandz103,1534139581,96vtql,32,/r/FortNiteBR/comments/96vtql/no_skill/,1,No skill!!?,99% of the time when you die it’s not because someone is better than you. Experience from a season 1 player. ,FortNiteBR
+42,i_am_luis,1534139279,96vstt,13,/r/FortNiteBR/comments/96vstt/datamined_information_reveals_new_cosmetic_rarity/,5,Datamined information reveals new cosmetic rarity.,,FortNiteBR
+43,tommywiseauYT,1534139017,96vs0a,16,/r/FortNiteBR/comments/96vs0a/epic_add_rebuilding_timers_for_buildings_in_the/,0,"Epic, add rebuilding timers for buildings in the same place",Add something like a .5 second timer to rebuild in the same place as a wall just was so that people will stop spamming LMB and never getting shot.,FortNiteBR
+44,meme_master_meme,1534138491,96vqdp,11,/r/FortNiteBR/comments/96vqdp/can_someone_give_me_more_info_on_this/,6,Can someone give me more info on this?,,FortNiteBR
+45,geronimostilt,1534137688,96vnrs,14,/r/FortNiteBR/comments/96vnrs/no_skins/,60,No skins,,FortNiteBR
+46,JAD2203,1534137668,96vnpj,18,/r/FortNiteBR/comments/96vnpj/season_2_battle_pass/,14,Season 2 battle pass.,This post has nothing to do with the actual game but does anyone else regret not buying the season 2 battle pass or any Christmas skins? I regret it so much but back then I thought spending money on the game was stupid. ,FortNiteBR
+47,Pooksteblank,1534137503,96vn7b,15,/r/FortNiteBR/comments/96vn7b/could_we_go_back_to_season_3_for_just_one_day/,0,Could we go back to Season 3 for just ONE day?,Back when double shotguns were a thing and rust lords did Take the L in the lobby,FortNiteBR
+48,Joseph421,1534137115,96vlwb,14,/r/FortNiteBR/comments/96vlwb/battle_pass_buying_tiers_and_how_does_it_work/,1,Battle Pass: Buying Tiers and how does it work?,"If you buy the BP + 25 tiers, is that 25 tiers or 1-25 independent of where you are? Also is the new 900 per 10 tiers the best pricing or has it ever been lower? Thanks. ",FortNiteBR
+49,DMuhny,1534136959,96vlc3,12,/r/FortNiteBR/comments/96vlc3/fortnite_livin_large_ringtone/,1,Fortnite Livin Large Ringtone,"Here is the Living Large emote audio on Zedge for use as a ringtone.
+ https://www.zedge.net/ringtone/37d1e410-9824-4d90-bc4b-8a872e208472?utm_source=android&amp;utm_medium=item&amp;utm_campaign=sharing",FortNiteBR
+50,Darth_Korn,1534136741,96vklv,19,/r/FortNiteBR/comments/96vklv/no_skins_disrespected_by_samsung/,66,No skins disrespected by Samsung,,FortNiteBR
+51,zuccccccc,1534136402,96vjg7,23,/r/FortNiteBR/comments/96vjg7/i_was_shaking_way_too_hard/,34,I was shaking way too hard.,,FortNiteBR
+52,GetUpAndGoGirl,1534135756,96vhal,35,/r/FortNiteBR/comments/96vhal/why_are_there_so_many_mexican_americans_in_this/,0,Why are there so many mexican americans in this game?,"Like goddamn every name is pedro this, hernandez that, garcia that, jose this, juan, that every kid has a mexican accent. ",FortNiteBR
+53,Audible484,1534135193,96vfcm,21,/r/FortNiteBR/comments/96vfcm/has_epic_ever_said_why_you_cant_play_fill_when/,68,"Has Epic ever said why you can't play ""fill"" when playing cross platform?",It's an issue for me and my main duo partner so just curious if there's a reason why it's not possible? I play on PC and him on Xbox fyi,FortNiteBR
+54,B00NKERS,1534134801,96vdxp,14,/r/FortNiteBR/comments/96vdxp/people_who_use_e_to_edit_or_use_something_else_to/,3,"People who use ""E"" to edit OR use something else to interact, what button do you use to interact?","I've started trying to use E for edit instead of G and it feels really smooth, but i cant find a crisp key for interact that seems good.",FortNiteBR
+55,SawyerNotTom,1534133862,96vahn,11,/r/FortNiteBR/comments/96vahn/one_of_the_hardest_losses_ive_ever_had_to_swallow/,8,One of the hardest losses I've ever had to swallow,,FortNiteBR
+56,BeltedHarpoon,1534133634,96v9ob,15,/r/FortNiteBR/comments/96v9ob/high_quality_content_asian_fighting_away_robbers/,127,"High quality content, Asian fighting away robbers",,FortNiteBR
+57,fakiessss,1534133447,96v90v,19,/r/FortNiteBR/comments/96v90v/assault_trooper_will_return_on_august_15th_boys/,0,Assault Trooper WILL return on August 15th boys! FINALLY! Credit @MystxcLeaks,,FortNiteBR
+58,fortnitefan12,1534133356,96v8ob,214,/r/FortNiteBR/comments/96v8ob/decided_to_look_up_the_streamer_i_killed/,909,Decided to look up the streamer I killed...,,FortNiteBR
+59,OJLBillsfan,1534133148,96v7vj,29,/r/FortNiteBR/comments/96v7vj/ik_this_doesnt_have_lots_to_do_with_br_but_it/,0,Ik this doesnt have lots to do with BR but it applies to BR players...,How many people that play battle royale are gonna play STW when it comes free to farm vbucks because I play BR and STW on different accounts but when STW comes free I'm gonna start over on my BR account and I wanna be prepared before I get in STW lobbies with nubs that are just playing for vbucks and don't like the game or know the game,FortNiteBR
+60,legend27tv,1534132761,96v6eb,36,/r/FortNiteBR/comments/96v6eb/new_legendary_armadillo_emote/,822,New Legendary Armadillo Emote,,FortNiteBR
+61,RhythmRunneR,1534132636,96v5x1,19,/r/FortNiteBR/comments/96v5x1/why_is_wailing_woods_still_a_thing/,1,Why is Wailing Woods still a thing?,"They replaced Moisty Mire and Anarchy Acres, both areas that were far more interesting and had better loot than Wailing Woods... why on earth is that place still there? It's a waste of a large portion of map that could be filled with something far cooler (a carnival, for example :D)",FortNiteBR
+62,sassygamergirl,1534132600,96v5rl,11,/r/FortNiteBR/comments/96v5rl/fortnie_map/,0,fortnie map,me personally i have been getting bored of the game not sure if its cause new meta and all the extra or if its just the same old map but i think epic should totally re-do the map and make it like and arctic all snowy and make the map more city rather than all the open space (i like the open space for gun fights build offs etc.) but just to try something new and make quality over quantity on the spots on map make more like titled more big city were theres less traveling and more action,FortNiteBR
+63,Wisdom_Vender,1534131786,96v2pw,18,/r/FortNiteBR/comments/96v2pw/im_fed_up_with_this_game/,0,I'm fed up with this game.,This game has been on a steady decline ever since season 3. This season is without a fucking doubt the worst season fortnite has seen. The only unique aspect of fortnite is being trumped by a fucking submachine gun and it's getting fucking old. Since season 5 started I haven't won a single 2v1 or higher because of those fucking things. It might seem like that is normal considering I'm out numbered but Ive done exclusively solo squads since the fucking begging of season 3 so it makes no sense. Fuck this game ,FortNiteBR
+64,notmyclout,1534131751,96v2lp,13,/r/FortNiteBR/comments/96v2lp/gotta_love_defaults/,76,Gotta love defaults!,,FortNiteBR
+65,Rxliics,1534131255,96v0lh,15,/r/FortNiteBR/comments/96v0lh/renegade_raider/,1,Renegade Raider,How much would you pay for an account with renegade raider and all the Christmas skins?,FortNiteBR
+66,crazykilla1059,1534131156,96v081,33,/r/FortNiteBR/comments/96v081/this_8_year_olds_birthday_cake_looks_so_epic/,86,This 8 year old's birthday cake looks so epic!,,FortNiteBR
+67,Digglerson,1534130654,96uyac,13,/r/FortNiteBR/comments/96uyac/outplayed_again_by_some_nerd_spamming_space_bar/,0,Outplayed again by some nerd spamming space bar. Nice meme.,,FortNiteBR
+68,Castanza58,1534130397,96uxa6,11,/r/FortNiteBR/comments/96uxa6/bring_back_the_double_pump_doesnt_have_to_do_as/,0,Bring back the double pump (doesnt have to do as much damage but..),Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump. Bring back the double pump.,FortNiteBR
+69,louis_the_legend,1534130388,96ux8x,41,/r/FortNiteBR/comments/96ux8x/xbox_and_nintendo_switch_exclusive_skins/,33,Xbox and Nintendo switch exclusive skins?,Since PS4 and Samsung now have exclusive skins is there any chance Xbox or Switch would be getting something? I deal like epic could totally make some cool exclusive skins Xbox could get something similar to archetype and Nintendo switch could get something like a Mario skin. I know I’m going to get a lot of hate from this but lol ,FortNiteBR
+70,krazzysinghfortnite,1534130350,96ux3e,21,/r/FortNiteBR/comments/96ux3e/seasonal_skins/,4,'Seasonal' Skins,"Okay this is like a genuine discussion because im dumbfounded and dont see a explanation for this but , if epic refuses to release the skull trooper because its a 'seasonal' skin , why does it release the easter bunny and the wukong skin basically every month if those are also meant to be seasonal for the lunar new year and easter?
+Unless theres an explanation its just epic trying to fool you guys to spend all your money the moment they release the skull trooper.",FortNiteBR
+71,AllThingsMoist,1534130318,96uwyn,12,/r/FortNiteBR/comments/96uwyn/possible_to_get_tier_100/,0,Possible to get Tier 100?,"I just started playing this season and am almost at tier 5, is it possible to get to tier 100 by the end without spending money?",FortNiteBR
+72,trballer10,1534130231,96uwmf,14,/r/FortNiteBR/comments/96uwmf/fortnite_is_great_right_now_i_know_this_is_a/,2,"Fortnite Is Great Right Now (I know this is a common post, but still)",,FortNiteBR
+73,bdvery,1534130042,96uvuk,20,/r/FortNiteBR/comments/96uvuk/buff_the_bush_braches_should_actually_be_p90s_and/,26,Buff the bush - braches should actually be P90s and drum guns with leaves taped to them,"I've seen a lot of posts calling for the bush to be buffed. Some examples were to make the bush a healing item or to decrease how obstructing the bush is when equipped. I think the best way to bring the bush in line with the current meta is to have the branches be blue drum guns and gold P90s with leaves taped to them. The bush stays in your inventory and when you hit fire, the guns shoot in multiple directions. 
+
+I would love to hear what everyone thinks. Maybe the could be multiple types of bushes. Some can shoot rpgs or grenades! Let me know what you think!",FortNiteBR
+74,Col_Big_Boss,1534130007,96uvq9,11,/r/FortNiteBR/comments/96uvq9/new_emote_is_perfect_for_hyping_stunt_jumps/,140,New emote is perfect for hyping stunt jumps.,,FortNiteBR
+75,Notsombody,1534129997,96uvou,25,/r/FortNiteBR/comments/96uvou/can_we_please_not_forget_the_whole_ps4_debacle/,30,Can We Please Not Forget The Whole PS4 Debacle?,"It’s absolutely ridiculous that I still can’t play Fortnite on my Switch since I played on my PS4. I was hoping that this community would finally get Sony’s attention when it comes to the situation, but it seems like everyone like Sony wanted. We can’t just forget this because the only way to change this is by fighting it.
+
+I’m not doing this for karma, I’m just super frustrated right now and hope that we still have a chance to fix this.",FortNiteBR
+76,savman09,1534129893,96uvaa,170,/r/FortNiteBR/comments/96uvaa/if_you_knock_a_streamer_eliminate_them_instantly/,421,If you knock a streamer eliminate them instantly.,"This maybe a bit harsh of a post but I hope a lot of people feel the same way.
+
+So I play on ps4 and I never took too much notice on the kill feed or the persons name I knocked until now. Now that I've paid attention due to reddit posts saying it's over the top I finally get it. It really is over the top, this weekend I would've easily played against over 100 people supposedly streaming. I would put a massive bet at most 1 or 2 them actually being popular (I play on Oceania). 
+
+Typically on squads I won't kill a knocked player straight away, I will shoot them twice hopping they start screaming at their team mate causing them to second guess what to do. However, every 4th player has streamer mode on now and I highly doubt every single one I see has at least 10 concurrent viewers that they may need streamer mode. You can't even acknowledge players abilities anymore if they out play you because you don't know their name.
+
+So I'm calling upon all people who don't stream or stream but aren't up them selfs they need this function, to straight eliminate streamer mode players it's getting out of hand why even have an ID anymore.",FortNiteBR
+77,FeAr_InstYnct,1534129858,96uv58,32,/r/FortNiteBR/comments/96uv58/will_sniper_shootout_come_out_again/,118,Will Sniper Shootout Come Out again?,,FortNiteBR
+78,KyaWither,1534129840,96uv2t,17,/r/FortNiteBR/comments/96uv2t/can_i_bring_something_up_about_ninjas_no_female/,0,Can I bring something up about Ninjas “No female streamer collaboration rule”?,"Sorry this is kinda long if you don’t care just move along. 
+
+To preface this I have read the polygon article and I’ve seen almost every time he has stated anything about this in past streams but I saw a video today and in this video he talks about the issue again. 
+https://youtu.be/VW5YAmsSB0E 
+
+He says this one line about not wanting to have this clip of a flirt or giggle or whatever and then have his wife see that clip and question him about it. This gave me an interesting thought that I couldn’t not tell someone. If his marriage is that fragile that his wife would constantly question him if she saw a short clip or anything that minuscule, then how come they’re together and so “happy”. I know I’m not them and they might be happily in love. I hate questioning their marriage because I’m nobody but with all his logic, if you marriage isn’t stable enough to handle stupid online shit then why still be with someone like that. Like if it’s stable and you too are in love and nothing can break you (wish is what we see) then why not play with female streamers? It’s the internet you can’t do anything without backlash or heat. You can see that from anything he does. 
+
+Sorry it was so long. If y’all have anything to say or critics from what I said please do I want to start a discussion.
+
+",FortNiteBR
+79,LeMireglo,1534129683,96uufn,11,/r/FortNiteBR/comments/96uufn/about_the_android_version_of_fortnite/,1,About the android version of Fortnite,"So I registered for it and I got a link to an installer. I downloaded it and installed the 1.9 GB download for the actual game. Now when I launch it, it just tells me to register for the waiting list which takes me back to the original link I used. Am I missing something? I'm using a OnePlus 6 if that helps.",FortNiteBR
+80,OortClouud,1534129680,96uuf8,13,/r/FortNiteBR/comments/96uuf8/best_grenade_toss_ive_ever_done/,77,Best Grenade Toss Ive Ever Done,,FortNiteBR
+81,squalgrum,1534129342,96ut3b,15,/r/FortNiteBR/comments/96ut3b/why_hasnt_epic_added_a_confirmatio_button_yet/,1,Why Hasn't Epic Added a Confirmatio Button Yet?,"A few moments ago I accidentally bought 10 battle pass tiers from the shop. Now since they are 900 vbucks I can't get the next season using this season's vbucks nor can I get a refund on the them. 
+
+Why hasn't Epic in their 5 seasons of the game add a simple confirmation button to vbucks purchases so stuff like that dosen't happen?",FortNiteBR
+82,_Junxie_,1534128640,96uqbr,15,/r/FortNiteBR/comments/96uqbr/the_winner_of_the_10000_dollar_manhattan_forknife/,8,"The winner of the 10,000 dollar Manhattan Forknife contest",,FortNiteBR
+83,mdoeslincolndouglas,1534128333,96up50,15,/r/FortNiteBR/comments/96up50/worst_thing_youve_done_in_50_v_50/,3,Worst thing you've done in 50 v 50?,So I was playing the other day and this guy and I were stuck in that little soccer area near tilted. So theres usually a vending machine in the soccer field and there was like a splice thing for 300 bricks. So I spend like some time harvesting materials and then I put the stuff into the vending machine. As soon as I do that the other guy runs over and takes the splice. grr.,FortNiteBR
+84,BootlegAsian,1534128232,96uoqt,47,/r/FortNiteBR/comments/96uoqt/playing_on_console_how_can_i_get_better/,5,Playing on console how can I get better?,I’ve been playing since pre season 1 and I guess I can say I’m mediocre anyway how Can i improve? Ask me anything if that helps like my gun load outs and stuff ,FortNiteBR
+85,ManishBH73,1534128088,96uo6p,98,/r/FortNiteBR/comments/96uo6p/the_guy_my_team_encountered_in_the_lobby_landed/,2749,The guy my team encountered in the lobby landed in the same location as us and we shared this special moment together...,,FortNiteBR
+86,MJ26gaming,1534127458,96ulod,25,/r/FortNiteBR/comments/96ulod/rave_at_the_dance_club_812_8pm_est_oce_duos/,5,"Rave at the dance club, 8/12 8pm est, oce duos servers.",,FortNiteBR
+87,rushingtonpost,1534127053,96uk4m,17,/r/FortNiteBR/comments/96uk4m/anyone_else_experiencing_this_bug/,0,Anyone else experiencing this bug?,,FortNiteBR
+88,ZnaeW,1534126987,96ujve,12,/r/FortNiteBR/comments/96ujve/help_for_a_really_old_player/,2,Help for a really old player,"Hey Guys, I hope you are doing it well.
+
+I'm a old player, I was a kind of ""pro gamer"" of Starcraft in my country (Chile) when I was 14 years old. Now, I'm playing Fornite and I don't understand almost everything about micropayments. First, What are the Battle Pass? I should buy it or I can get everything about it without paying? Second, I'm playing in my PS4 but maybe I would build a PC, Can I play with the same account, to save my skins and other rewards? At least, at the shop there isn't the skin I like ,I've to wait for a promotion to buy it?
+
+  
+Thank you for reading me, I really don't understand a lot about the shooters and micropayments. 
+
+Regards",FortNiteBR
+89,Dusty60,1534126762,96uizk,190,/r/FortNiteBR/comments/96uizk/what_mobile_players_really_want/,980,What mobile players REALLY want...,,FortNiteBR
+90,THATSaBOLDstatement-,1534126526,96ui1l,24,/r/FortNiteBR/comments/96ui1l/what_happened_to_idropz_bodies/,6,What Happened To Idropz_bodies?,"Was he in the recent skirmishes? He was dropping 20+ kill games versus pros, why haven't we seen any more of him? Seems like he'd be the next big thing. ",FortNiteBR
+91,k_7a,1534125811,96uf6q,14,/r/FortNiteBR/comments/96uf6q/teleportation_granade/,5,Teleportation granade,What if there was a grenade that you could throw and when you threw it you teleported to that location. I feel like this could be used for defensive and offensive situations in the game. ,FortNiteBR
+92,jumbyy__,1534125675,96uel7,19,/r/FortNiteBR/comments/96uel7/food_truck_concept/,126,Food Truck Concept,,FortNiteBR
+93,Jabrishi_j1,1534125442,96udmc,19,/r/FortNiteBR/comments/96udmc/is_it_worth_learning_to_play_the_game_now/,0,Is it worth learning to play the game now?,I recently began playing and EVERYONE is hardcore legends at the game. Is it worth trying to win before the trend dies?,FortNiteBR
+94,CaptainObese,1534125194,96ucnc,11,/r/FortNiteBR/comments/96ucnc/i_think_i_have_anger_issues_turn_down_headphones/,4,i think i have anger issues... (turn down headphones),,FortNiteBR
+95,young_speccy,1534125122,96ucdc,13,/r/FortNiteBR/comments/96ucdc/balanced_btw/,0,Balanced BTW,,FortNiteBR
+96,ZVVO,1534124985,96ubuw,15,/r/FortNiteBR/comments/96ubuw/i_am_loving_this_new_update_how_bout_you_guys/,22,I am loving this new update. How bout you guys?,,FortNiteBR
+97,maxxxerrr,1534124682,96uall,11,/r/FortNiteBR/comments/96uall/dual_emotes/,3,Dual Emotes,"Dual emotes would be cool. Like hugs, high fives and hand shakes. One person would use the emote and it would say like “Accept hug (A)” or “Accept handshake (A)”. ",FortNiteBR
+98,saintIaurent,1534124167,96u8is,26,/r/FortNiteBR/comments/96u8is/what_is_the_threshold_that_seperates_ogs_and_non/,0,What is the threshold that seperates OG's and non OG's?,I would say if you played during Season 1 or 2 you're an og. But at the same time i would say you're og if you played before the Ninja and Drake duo. What do you guys think?,FortNiteBR
+99,darknep,1534124007,96u7x6,86,/r/FortNiteBR/comments/96u7x6/made_a_quick_durrr_burger_pixel_art_gif_streamed/,1560,Made a quick durrr burger pixel art gif. Streamed it but no one watched,,FortNiteBR
+100,Chantz126,1534123308,96u562,12,/r/FortNiteBR/comments/96u562/non_galaxy_mobile_invites/,2,Non Galaxy mobile invites,Has anyone received an invite for the mobile version on Android that isn't a Galaxy user?  Curious if the exclusivity of it has ended yet. Pretty sure it was today that it was supposed to open up but if I'm wrong that's okay,FortNiteBR
+101,HoodedAvenger23,1534123249,96u4xn,13,/r/FortNiteBR/comments/96u4xn/is_there_any_way_to_appear_offline/,2,Is there any way to appear offline?,"I want to appear offline, people join my game when I don’t want to play squads or duos, but I feel bad telling them to fuck off. Is there anyway I can appear offline, or make my party invite only? ",FortNiteBR
+102,ACrazySpider,1534123050,96u463,32,/r/FortNiteBR/comments/96u463/the_hitbox_for_the_wall_trap_seems_a_bit_small/,648,The hitbox for the wall trap seems a bit small...,,FortNiteBR
+103,timkx,1534122952,96u3sl,40,/r/FortNiteBR/comments/96u3sl/the_most_difficult_challenge_in_fortnitebr/,67,The most difficult challenge in FortniteBR.,,FortNiteBR
+104,XephaZ,1534122757,96u31n,411,/r/FortNiteBR/comments/96u31n/concept_spawn_item_menu_for_playground_mode/,9020,Concept - Spawn Item Menu for Playground Mode,,FortNiteBR
+105,codec92,1534122743,96u2z2,12,/r/FortNiteBR/comments/96u2z2/psa_dont_use_unlimited_fps_mode/,3,"PSA Don't use ""unlimited fps"" mode","Long story short, I was trying to boost my fps from 140ish to 200+  
+
+Tried the unlimited FPS option under menu with my GTX 980 TI on low settings  
+
+FPS skyrocketed to 300 fps and kept going up  
+
+Computer shut down, GPU fried.  ",FortNiteBR
+106,KyleNelson116,1534122644,96u2ke,16,/r/FortNiteBR/comments/96u2ke/get_rid_of_the_gray_burst_rifle_in_chests/,0,Get rid of the gray burst rifle in chests!,This weapon is more useless than a gray pistol. The absolutely worst thing to get out of a chest is a gray burst rifle! It doesn’t do anything for damage and is at best a crappy floor loot. Chests imply goods not crap. A burst should be an accurate damage dealer but this gun does nothing. Fix this!,FortNiteBR
+107,S2JT,1534122632,96u2io,31,/r/FortNiteBR/comments/96u2io/wukongs_axe_glows_when_you_farm/,256,WuKong's axe glows when you farm.,,FortNiteBR
+108,iApples_,1534122215,96u0vi,14,/r/FortNiteBR/comments/96u0vi/best_headset_for_under_50_cad/,1,Best headset for under 50$ CAD,So my headset recently broke but it wasn’t that good anyways. And I don’t know any good headsets. Im looking for good audio and pretty good mic. Thanks in advance.,FortNiteBR
+109,r9shift,1534122122,96u0i8,111,/r/FortNiteBR/comments/96u0i8/what_happened_to_the_game_looking_dark_and/,582,What happened to the game looking dark and atmospheric?,,FortNiteBR
+110,stingraysrightsact,1534121222,96twy4,33,/r/FortNiteBR/comments/96twy4/shop_looks_like_2_guys_about_to_fight/,501,Shop looks like 2 guys about to fight,,FortNiteBR
+111,gabekmc,1534121107,96twi3,13,/r/FortNiteBR/comments/96twi3/grenade_damage_not_counting/,4,Grenade damage not counting?,I was in 50v50 and got some grenade kills but no damage was counted towards the challenge from last week. Is this a known issue?,FortNiteBR
+112,morganpdodson,1534120828,96tvey,18,/r/FortNiteBR/comments/96tvey/is_a_xbox_elite_controller_worth_it/,3,Is a Xbox elite controller worth it?,"Looking at buying a new controller as I use a regular Xbox one controller. 
+
+Does anyone have any feedback about the elite controller and how does it help you in fortnite?",FortNiteBR
+113,Ray101367,1534120820,96tvds,35,/r/FortNiteBR/comments/96tvds/headhunter_is_the_best_model_change_my_mind/,44,Headhunter is the best model. Change my mind,"Her beautiful eyes, her luscious hair, the thickness, all of her skins look great. She simply outclasses every other model. Change my mind.",FortNiteBR
+114,Mythic-M,1534120462,96ttyn,15,/r/FortNiteBR/comments/96ttyn/took_this_screenshot_quite_a_while_ago_i_never/,11,Took this screenshot quite a while ago... I never got that skin :~;,,FortNiteBR
+115,JoshThomos,1534120388,96ttnn,12,/r/FortNiteBR/comments/96ttnn/performance_issues_pc/,3,Performance Issues (PC),"Does anybody else get terrible performance on Ryzen based CPU's?
+
+My frame rate fluctuates from 280-80 depending on my placement in the game, for example the starting island, tilted towers, top of build fights, looking at vast distances.
+
+Bare in mind all my settings are on low 1080p
+
+Ryzen 5 1600 3.4ghz
+Gtx 1080 
+8GB 2400mhz
+
+It's not thermal throttling as I've checked for this reseated all components cleaned out dust, reapplied thermal grease.
+
+High performance mode on, prefer maximum performance in NVIDIA CP.
+
+Anybody got similar issues or remedies?",FortNiteBR
+116,MrYacthyboat23,1534120350,96tti4,14,/r/FortNiteBR/comments/96tti4/is_the_wukong_a_buy/,0,Is the Wukong a Buy?,"I have 2,550 v bucks and never bought a skin, but is the Wokong a buy? I think the skin looks cool but its definitely not rare. I wonder i lf i should buy the Wukong. Knowing that like the last 10 days there really havent been a good legendary skin. But there are better skins like the Raven, etc... What you guys think of the Wukong personally?... Will Fortnite have more legendary skins in the item shop in the next few days?",FortNiteBR
+117,tsmithmv,1534120096,96tshi,26,/r/FortNiteBR/comments/96tshi/i_won_the_tomato_head_beef_boss_meetup_match_i/,201,"I won the Tomato Head - Beef Boss meetup match, i love u guys",,FortNiteBR
+118,lOrthol,1534119907,96trnu,14,/r/FortNiteBR/comments/96trnu/15_kills_0_damage_does_anybody_know_the_record_on/,16,15 kills 0 damage; Does anybody know the record on Xbox?,,FortNiteBR
+119,davidausman,1534119771,96tr4u,16,/r/FortNiteBR/comments/96tr4u/whos_loving_the_new_emote/,50,Who's loving the new emote?,,FortNiteBR
+120,Xeodile,1534119593,96tqgc,11,/r/FortNiteBR/comments/96tqgc/my_friend_and_i_have_different_shops_today/,7,My friend and I have different shops today,,FortNiteBR
+121,OhMyOprah,1534119512,96tq3i,307,/r/FortNiteBR/comments/96tq3i/randomly_decided_to_do_a_fortnite_themed_dinner/,5060,Randomly decided to do a Fortnite themed dinner for my son and nephew,,FortNiteBR
+122,HTXWaltDisney,1534119403,96tpn6,16,/r/FortNiteBR/comments/96tpn6/epic_why_do_you_guys_hate_shotguns/,0,"Epic, why do you guys hate shotguns?","I don’t understand the nerf to shotguns. Shotguns are meant to do heavy damage, and Fortnite was one of the first popular games I played where the shotgun was one of the strongest guns in the game that took skill to hit.
+
+I understand balancing the game out, but you’re literally ruining the game by this whole spray meta and turning away the core of your community. I can’t even play more than 3 games anymore because I’m getting sprayed down by someone because my pump takes 3 years to load and I hit him for 80.  Yes I understand the new meta is shotgun to drum, but there is no reason we should have to do that when I hit someone point blank that should do over 100 damage.
+
+TLDR: CAN TOU PLEASE BUFF THE SHOTGUN? This is so infuriating. Season 5 has been by far the worst season as far as the meta goes.",FortNiteBR
+123,Zakku_Rakusihi,1534119356,96tpf3,17,/r/FortNiteBR/comments/96tpf3/how_to_hxd_fortnite/,0,How to HXD fortnite,"HXD is how the people hack and get the leaked skins early.   I was wondering if I can use hxd for coding purposes only and change my back bling, emotes, skins etc.  Thank you!",FortNiteBR
+124,djslankman,1534119356,96tpf0,28,/r/FortNiteBR/comments/96tpf0/the_new_jingu_bang_glows_the_more_you_hit_it_so/,483,The new jingu bang glows the more you hit it. So cool,,FortNiteBR
+125,Flqmingg,1534119245,96toyf,15,/r/FortNiteBR/comments/96toyf/the_new_jingu_bang_harvesting_tool_glows_brighter/,4,"The new Jingu Bang Harvesting Tool glows brighter the more kills you have, similar to Rainbow Smash!",,FortNiteBR
+126,Um_Hello_Guy,1534119107,96tocz,73,/r/FortNiteBR/comments/96tocz/i_dont_usually_snipe_but_wanted_to_try_the_reddit/,4329,I don't usually snipe but wanted to try the Reddit snipe,,FortNiteBR
+127,elgringopepe,1534118916,96tnif,43,/r/FortNiteBR/comments/96tnif/buildings_should_be_yours_after_you_kill_that/,3,buildings should be yours after you kill that person,"buildings should become the property of whoever killed the person who built it. with the exception of traps, traps should stay the property of the person who placed it down, and should kill whoever walks into it. let me know what you think.",FortNiteBR
+128,IDanceGood13,1534118876,96tncp,17,/r/FortNiteBR/comments/96tncp/the_original_1989_aerobics_video_too_the_new_work/,54,The Original 1989 Aerobics video too the new “Work It Out” Emote,,FortNiteBR
+129,SwiftSlinger9,1534118862,96tnav,11,/r/FortNiteBR/comments/96tnav/intensity_emote_techno_viking/,2,Intensity emote? (Techno Viking),Real talk here I’ve been waiting for forever for the intensity emote to be released. I’m starting to think it’s been scrapped. Anyone else out there still have hope? ,FortNiteBR
+130,trehvis111,1534118848,96tn8y,13,/r/FortNiteBR/comments/96tn8y/the_new_jingu_bang_harvesting_tool_glows_the_more/,13,The new Jingu Bang harvesting tool glows the more you hit players with it.,,FortNiteBR
+131,ahmadtc17,1534118690,96tmol,15,/r/FortNiteBR/comments/96tmol/wtf_happened_to_my_omega/,0,Wtf happened to my Omega,,FortNiteBR
+132,YouSoTrippy,1534118621,96tmfd,26,/r/FortNiteBR/comments/96tmfd/does_the_new_pickaxe_have_the_same_type_of_kill/,147,Does the new pickaxe have the same type of kill progression as the unicorn pickaxe?,,FortNiteBR
+133,thedankest15,1534118509,96tm0c,23,/r/FortNiteBR/comments/96tm0c/why_do_i_do_good_in_squads_but_not_in_solos/,5,Why do I do good in squads but not in solos?,I get like 12-18 kills most of the time in squads I really wouldn't say I steal my teammates kills but in solo I don't do good at all really maybe 4 kills at most. Do other people have a problem with solos either it not being fun or hard to play.,FortNiteBR
+134,LeLaker,1534118491,96tlx9,17,/r/FortNiteBR/comments/96tlx9/new_work_it_out_emote_with_music/,11,New Work it Out Emote with Music!,,FortNiteBR
+135,LeonDaChameL3on,1534118485,96tlwi,64,/r/FortNiteBR/comments/96tlwi/new_work_it_out_emote/,293,New Work It Out emote,,FortNiteBR
+136,stormshieldonebot,1534118415,96tlll,609,/r/FortNiteBR/comments/96tlll/daily_cosmetic_sales_12_aug/,1743,Daily Cosmetic Sales (12 Aug),,FortNiteBR
+137,djstankdaddy11,1534118403,96tljv,21,/r/FortNiteBR/comments/96tljv/today_was_the_day/,0,Today was the day...,Today was the day I uninstalled Fortnite. After a few hundred wins what else is there to achieve? Win from a skybase.  Check. Win with no kills. Check. You name it I’ve tried it. There’s just so sense of achievement after you keep doing the same thing over and over to get nothing out of it. I had a blast playing the game between the good times and bad. I just think I’ve finally gotten enough out of it. So long fartnite. ,FortNiteBR
+138,KrootzyTV,1534118387,96tlh7,16,/r/FortNiteBR/comments/96tlh7/hey_do_you_guys_like_my_thumbnail_for_this_video/,0,hey do you guys like my thumbnail for this video,,FortNiteBR
+139,BcoxOW12,1534118387,96tlh6,43,/r/FortNiteBR/comments/96tlh6/well_thank_god_for_my_glider_to_make_a_more/,2946,Well thank god for my glider to make a more graceful fall to my death,,FortNiteBR
+140,MyUsernameIsReallyOk,1534118231,96tksm,38,/r/FortNiteBR/comments/96tksm/whats_yalls_opinion_on_the_double_barrel_shotgun/,22,What's y'all's opinion on the double barrel shotgun?,"Just want to hear some opinions, no need to upvote. 
+
+I personally think it is a bad weapon. You can deal more consistent damage with a tactical shotgun or heavy shotgun. It has 0 range. I know shotguns aren't supposed to have lots of  range, but they should have a least a tad. ",FortNiteBR
+141,MoneyMammoth,1534118150,96tkh2,49,/r/FortNiteBR/comments/96tkh2/kbm_on_console_is_getting_out_of_hand/,0,KB+M on console is getting out of hand,"It’s to a point where you can’t even compete with building anymore. Spray and pray doesn’t work when the guy is double ramping x double wall x double flooring against you in a fraction of a second. 
+
+It’s cheap and it’s unfair. Epic needs to make these lobbies already because already twice today, I’ve gotten rushed by people building the burj khalifa when that’s really not feasible on console. 
+
+We don’t need nerfs to building, we need nerfs to this unfair exploit. ",FortNiteBR
+142,OGWonton98,1534118081,96tk7m,34,/r/FortNiteBR/comments/96tk7m/1_shot_2_kills/,852,1 shot 2 kills,,FortNiteBR
+143,actuallyjake,1534117921,96tjjs,33,/r/FortNiteBR/comments/96tjjs/i_found_this_photo_that_was_posted_3_months_ago/,284,I found this photo that was posted 3 months ago and I can't stop laughing,,FortNiteBR
+144,Fishstix-,1534117594,96ti8w,12,/r/FortNiteBR/comments/96ti8w/found_a_default_with_god_mode_he_had_no_shield_by/,45,Found a default with God mode. He had no shield by the way. My clinger just did absolutely no damage to him.,,FortNiteBR
+145,Carter2158,1534117344,96th71,12,/r/FortNiteBR/comments/96th71/fortnite_twitter_in_a_nutshell/,113,Fortnite Twitter in a nutshell,,FortNiteBR
+146,Soulsice,1534116925,96tfhs,113,/r/FortNiteBR/comments/96tfhs/grinding_for_1_straight_hour/,2037,Grinding for 1 straight hour,,FortNiteBR
+147,I_Phantom_I,1534116923,96tfhd,12,/r/FortNiteBR/comments/96tfhd/legit_someone_stole_my_fucking_post_by_using/,5,"Legit, someone stole my fucking post by using their phone to hide my name XD",[Then they decide to lock my fuckin post for god knows what.](https://i.redd.it/7ruqvteozqf11.jpg),FortNiteBR
+148,ninetailsaiyan,1534116504,96tdrn,20,/r/FortNiteBR/comments/96tdrn/bring_double_pump_back_but_just_pumppump/,0,Bring double pump back but just pump+pump,How would you guys feel if they removed the shotgun delay (not the pull out) for the pump pump combo? So no heavy+pump or heavy+heavy just pump+pump because it this point we can all agree the pump needs a buff and this way we can get double pump back as I feel all of the other shotguns are strong enough on their own except the tact which may need a slight buff as well,FortNiteBR
+149,Bredstik,1534116381,96td7h,72,/r/FortNiteBR/comments/96td7h/sorry_guys_fortnite_is_cancelled/,281,"Sorry Guys, Fortnite is Cancelled",,FortNiteBR
+150,Joiiygreen,1534115891,96tb8e,11,/r/FortNiteBR/comments/96tb8e/game_ending_bang/,221,Game Ending Bang,,FortNiteBR
+151,acoc82,1534115869,96tb4r,28,/r/FortNiteBR/comments/96tb4r/aimbotters_in_fortnite/,2,Aimbotters in fortnite,"Has there been some sort of release of some aimbot that gets through Epics anti-cheat now? I have lost multiple games in the last few days due to aimbot, its always fun wondering why you died to minigun and how someone was able to predict exactly where you were when you building and then you go back into the replay system to figure out how they were tracking you so well and watch them laser everyone with aimbot. Looked up the most recent persons account, .8 KDA season 3, .75 KDA season 4 and now has a 5.3 KDA season 5 with 40 wins in the past few days alone. Swapped to PC to get a better Fortnite experience, not get killed by cheaters. Anyone else encountering more and more cheaters lately?",FortNiteBR
+152,Timmeeeeey,1534115712,96tafs,14,/r/FortNiteBR/comments/96tafs/what_is_the_reasoning_behind_the_hunting_rifle/,4,What is the reasoning behind the Hunting rifle nerf?,"What made epic say "" Hey, lets nerf the hip fire accuracy on the hunting rifle "" Did they watch too much TFue? It was never that accurate and hip firing a hunting rifle is extremely unsafe and is only really used to get a fancy clip/moment. 
+
+The gun was already a lot weaker due to the peeking change.
+I'd much rather just take the bolt now.
+
+It's honestly a pretty trash gun now. Kinda sad.",FortNiteBR
+153,bbacks26,1534115665,96ta7r,15,/r/FortNiteBR/comments/96ta7r/galaxy_skin_question/,2,Galaxy Skin Question,"I was wondering that when the galaxy note 9 releases on August 24th, if I would be able to simply walk into a Best Buy, Verizon store, etc, log onto my Fortnite account, and redeem the galaxy skin? ",FortNiteBR
+154,IM_OVER_HERE_ASS,1534115630,96ta2f,13,/r/FortNiteBR/comments/96ta2f/are_there_actual_computers_or_bots_in_battle/,0,"Are there actual computers or ""bots"" in battle Royale? I was under the impression everyone I eliminate is a real person. Is this not the case?","Sorry if this is a dumb question but I've been hearing the word ""bot"" lately and was wondering this. Thanks in advance.  ",FortNiteBR
+155,RTGAMING213,1534115523,96t9mh,14,/r/FortNiteBR/comments/96t9mh/how_to_get_better_at_and_used_to_keybinds/,3,How to get better at and used to keybinds,"I've never really been good with keybinds. I've got over 500 hours on CSGO and for all those hours I used the mouse wheel to switch weapons and grenades. But with Fornite i'm actually trying to get used to keybinds. I've got used to my weapon keybinds (1, 2, 3, 4, and X), but it's my building keybinds I can't decide on. Nothing really feels comfortable for me. I've only gotten comfortable with Q being my wall bind, everything else I can't really decide on. Give me ideas for what binds I should have for my roof, stairs and floor. I have a new mouse coming next week with thumb buttons so maybe that will help. But in the meantime I would appreciate some temporary binds. :)",FortNiteBR
+156,mpchelsea,1534115340,96t8tj,22,/r/FortNiteBR/comments/96t8tj/who_is_your_top_5/,4,Who is your top 5?,I’m looking into viewing more streams. I already watch Ninja. Looking to see who your guys top 5 streamers are ,FortNiteBR
+157,Westham43,1534115213,96t8ag,129,/r/FortNiteBR/comments/96t8ag/who_else_doesnt_enjoy_solo/,178,Who else doesn't enjoy solo?,"Is it just me? I'm an okay player at the game but solo requires way too much focus and concentration to be sustainably fun, with everyone else constantly playing full try hard mode and having perfect awareness of where everyone is it just feels so tedious to play it, these guys have never heard of a casual game. I prefer squads and 50 v 50 because it's not constant sweaty players, it's fun, and you don't have to focus so hard.",FortNiteBR
+158,conjo434,1534114563,96t5k1,27,/r/FortNiteBR/comments/96t5k1/why_do_people_hate_the_double_barrel_so_much/,2,Why do people hate the Double Barrel so much?,"Its really not as bad as you all think. It meatshots like a CHAMP (you always deal 100+ damage if your crosshair is actually on the enemy and you aren't 2 miles away, not to mention you can shoot TWO TIMES. What's with all the hate on it now?",FortNiteBR
+159,DiamondForce2,1534114181,96t3yh,12,/r/FortNiteBR/comments/96t3yh/is_it_possible_to_download_an_emulator_to_get_the/,0,Is it possible to download an emulator to get the galaxy skin?,Would I be able to download an emulator such as bluestacks and emulate a galaxy note 9 and get the galaxy skin?,FortNiteBR
+160,TheRelaxingStreaming,1534114137,96t3s6,16,/r/FortNiteBR/comments/96t3s6/are_there_real_bots_in_fortnite/,0,Are there real bots in Fortnite?,"Well to be perfectly honest, in my humble opinion, of course without offending anyone who thinks differently from my point of view, but also by looking into this matter in a different perspective and without being condemning of one's view's and by trying to make it objectified, and by considering each and every one's valid opinion, I honestly believe that I completely forgot what I was going to say. Oh wait I remember! Are there actually bots in Fortnite Battle Royale? I see a lot of ""players"" in playground hiding in shops in tilted and hiding under staircases... How come they are so bad and play on low beta sensitivity and their heads move so slow and can not hit me??? I don't want to offend anyone if they're nooby boys but there must be some hackers gaining illegal xps online in the servers, yeah? Or maybe I'm too fast for the noobs? What say you?",FortNiteBR
+161,Masterfirret124,1534114027,96t3a7,11,/r/FortNiteBR/comments/96t3a7/add_more_face_paint_characters_i_feel_like_epic/,0,"Add more ""face paint"" characters I feel like epic are sleeping on this so hard there's only 4 I can think of and they look amazing",,FortNiteBR
+162,Parenegade,1534113910,96t2tm,16,/r/FortNiteBR/comments/96t2tm/we_really_need_a_double_pistol_buff/,3,We really need a Double Pistol buff.,These remind me of the old mini gun. No one picked it up and it wasn’t very good. These are the same in that no one mains these or would have them in their optimal Loadouts. I would love for these to be a shotgun alternative rather a joke. Anyone else feel similarly?,FortNiteBR
+163,Kaloyan_Vasev,1534113731,96t234,12,/r/FortNiteBR/comments/96t234/there_is_a_leaks_for_week_6_challeneges/,3,There is a leaks for week 6 challeneges!,"-Deal 5000 damage to structures with C4
+-Harvest 3000 building pieces
+-Search betwen (not given) 
+-Search 7 chests in Lonely Lodge
+-Complete 5 time trials
+-2 eliminations with Minigun or LMG
+-Eliminate 3 opponents in Tiwted Towers
+             ",FortNiteBR
+164,Bstubbs97,1534113689,96t1x2,22,/r/FortNiteBR/comments/96t1x2/glad_to_see_my_boy_leviathan_isnt_in_this_world/,141,Glad to see my boy Leviathan isn't in this world alone,,FortNiteBR
+165,SomePigeon,1534113562,96t1dj,31,/r/FortNiteBR/comments/96t1dj/the_double_barrel/,1,The double barrel...,This thing seems to have dropped off almost immediately. Can someone tell me if it’s good? Bad? Maybe tactics to use it if you’re feeling helpful? Thanks in advance.,FortNiteBR
+166,TylerJL19,1534113511,96t15q,11,/r/FortNiteBR/comments/96t15q/this_swing_set_in_the_town_next_to_retail_is/,53,This swing set in the town next to retail is kinda creepy,,FortNiteBR
+167,Madpoli,1534113233,96t005,32,/r/FortNiteBR/comments/96t005/add_a_no_building_mode/,0,Add a no building mode,"I get that this has been suggested so much but that's a sign that there should definitely be a no building mode.
+
+The reason I think this would be good is to get rid of these sweaty tryhard builders who can somehow build huge bases in a matter of seconds. I would love to see these sweaty builders try this mode they will suck so much because they rely too much on their building.
+
+I don't see why this can't be added and it's been suggested alot so maybe at least it can be added as a limited time mode.",FortNiteBR
+168,louie002,1534113097,96szg9,11,/r/FortNiteBR/comments/96szg9/be_safe_out_there/,61,Be safe out there,,FortNiteBR
+169,onlinehumzu,1534113039,96sz70,13,/r/FortNiteBR/comments/96sz70/anyone_know_when_fortnite_for_android/,1,Anyone know when fortnite for android,"When does it come for non Samsung devices, said it was August the 12th but nothing yet. Can't get past waiting list ",FortNiteBR
+170,spacepigalliance,1534113003,96sz0k,68,/r/FortNiteBR/comments/96sz0k/season_six_the_forests_of_pandora/,1401,Season Six: The forests of Pandora,,FortNiteBR
+171,rblakeley74,1534112977,96sywq,14,/r/FortNiteBR/comments/96sywq/state_of_shottys/,0,State of shotty's...,"Shotguns are confusing me right now... the consistency of all the shotgun keeps peeking the drastically dipping. Sometimes the pump is better than the tac, sometimes the double barrel is the best but most of the time the heavy is superior. How do you order the shotguns?",FortNiteBR
+172,TheRelaxingStreaming,1534112801,96sy4q,11,/r/FortNiteBR/comments/96sy4q/if_you_say_dub_i_hate_you/,0,"If you say ""dub"", I hate you","It doesn't make you cool saying a word that's the same length as ""win"" to express your anticipation of winning a game of Fortnite Battle Royale",FortNiteBR
+173,PrimalEnt1ty,1534112578,96sx51,19,/r/FortNiteBR/comments/96sx51/i_lost_a_game_to_some_guy_hiding_in_a_bush_all/,0,I Lost a Game to some Guy Hiding in a Bush All Game with 2 Kills,All he did was hide in a bush and not take his greasy fat finger off M1 while I was building. I'm not sure if I want to strangle myself or him. ,FortNiteBR
+174,MattPlays17,1534112518,96swvo,16,/r/FortNiteBR/comments/96swvo/burst_is_really_bad/,5,Burst is really bad.,"I just feel like it gets outdone by another gun in everything.
+
+No chance in breaking down buildings compared to ARs and SMGs, It does less damage and shoots 3 bullets at once instead of AR doing more and only shooting one. This is preference I guess, but I feel like shooting 3 separate bullets is a better chance than 3 grouped bullets. It just altogether doesn't feel like it's better than an AR or Drum Gun. I feel like using those in a close fight is fine, but you'll have no chance with a burst in close combat. What do you guys think about the burst?",FortNiteBR
+175,Lewis63,1534111971,96sukd,20,/r/FortNiteBR/comments/96sukd/august_17th_shop/,1,August 17th Shop,,FortNiteBR
+176,SomeRandomPerson33,1534111757,96stnx,12,/r/FortNiteBR/comments/96stnx/something_about_skins/,2,Something about skins.,"Can some skins put you at a disadvantage in combat? Like making you easily spotted or easier to hit due to large clothing or something?
+
+I’m just really curious. If anybody could tell me, that’d be great!",FortNiteBR
+177,Maackdaddy,1534111714,96sth7,22,/r/FortNiteBR/comments/96sth7/found_a_real_life_tommy_gun_at_a_bar_in/,12,Found a real life Tommy gun at a bar in Massachusetts,,FortNiteBR
+178,ArcticTreble,1534111172,96sr02,12,/r/FortNiteBR/comments/96sr02/anyone_think_epic_should_add_a_plague_doctor_skin/,18,"Anyone think Epic should add a Plague Doctor skin? I think it would look cool. (source, an item on Etsy.com)",,FortNiteBR
+179,Timothiyyy,1534111004,96sqap,22,/r/FortNiteBR/comments/96sqap/buff_these_by_allowing_them_to_shoot_through/,0,Buff these by allowing them to shoot through structures for half damage.,,FortNiteBR
+180,besush,1534110888,96spt1,12,/r/FortNiteBR/comments/96spt1/let_players_test_out_new_weaponsitems/,0,Let players test out new weapons/items,Epic should put new weapons/items in playground so the community can find out if it's broken or not,FortNiteBR
+181,Reyna15x,1534110457,96snxm,21,/r/FortNiteBR/comments/96snxm/streaming_this_game_has_been_great_so_far/,9,Streaming this game has been great so far,"I’ve streamed for less than 7 hours in two days and I’ve gained 6 followers and 17 unique viewers. It’s been amazing so far, I love the interactions, having ppl you played against come in chat and say GG. I had 3 guys watch my stream for 3 hours straight and I appreciate those guys a lot. It just makes me want to make the stream better, since I’m streaming straight from my console. Hopefully this inspires someone else to give it a shot! ",FortNiteBR
+182,forgotmyoldaccount16,1534110253,96sn1z,30,/r/FortNiteBR/comments/96sn1z/perfectly_balanced_as_all_should_be/,152,"Perfectly Balanced, as all should be",,FortNiteBR
+183,HuskyCHEESE98,1534109827,96sl72,13,/r/FortNiteBR/comments/96sl72/heavy_sniper_leaked_footage/,12,Heavy Sniper leaked footage,,FortNiteBR
+184,johnnysdaily,1534109730,96skry,14,/r/FortNiteBR/comments/96skry/changing_my_username/,1,Changing my username,"Hi,
+
+So i’ve decided to change my epic games username and aswell as my xbox username. Anyone have any suggestions?
+
+",FortNiteBR
+185,StevetheCorgi,1534109397,96sj86,192,/r/FortNiteBR/comments/96sj86/hey_guys_still_not_great_at_this_game_but_i_still/,1093,"Hey Guys, still not great at this game, but I still like to share my headshots (and decent kills) with all of you. Hope you all enjoy!",,FortNiteBR
+186,Hqck,1534109334,96six1,66,/r/FortNiteBR/comments/96six1/i_just_took_this_screenshot_in_replay_mode_i/,1351,I just took this screenshot in replay mode. I thought it was reddit worthy,,FortNiteBR
+187,RockGamingReal,1534109280,96sino,100,/r/FortNiteBR/comments/96sino/im_not_asking_for_this_to_be_a_dance_but/,5651,"I'm not asking for this to be a dance, but. . .",,FortNiteBR
+188,PsychoHoshi,1534109097,96shrv,20,/r/FortNiteBR/comments/96shrv/mats_buff_need_to_happen/,14,Mats buff need to happen,"Saw a post suggesting for more mats and ppl were like, “mats are fine, you can get max mats in 2 mins”, or “farm a house and you get 350 wood”... WTH yall talking about? most of my friends quitting fortnite and no one wants to play, because how boring it is to farm mats. I’m asking them everyday to play, and they all say they spend most of time  farming mats and they lose all of it from the first encounter, and then they would have to start farming all over again. most of them are playing rainbow six siege and the cod beta now. 
+
+I really don’t think mats nerf catering to the casuals at all. none of casual players spend 3-5 mins farming and they end up dying, because they don’t have any mats to defend themselves. I think its more catering to the competitive scene because they don’t want players to turtle. Even watching the Summer skirmish is so boring, cause all they do is farm mats. If mats were easier to gain they would probably engage in more fights and not be afraid of losing their mats, cause they can get more quickly. 
+
+Heres couple of suggestions they could choose from
+1- buff mats so it matches 50vs50 
+2 - add a potion that is like an energy drink that makes you farm faster
+3- buff mats stacks from 20 to 60 
+
+If you disagree, please tell me how farming mats  and losing it all to a LMG or SMGS is fun for you? 
+
+Blitz is one of them most fun modes in the game, because how easy it is to farm. 
+
+if you have any other suggestion, please let me know
+
+",FortNiteBR
+189,actuallyjake,1534109096,96shrq,12,/r/FortNiteBR/comments/96shrq/bring_back_the_smoke_grenades_read_comment/,19,Bring back the smoke grenades! - Read Comment,,FortNiteBR
+190,Jacedrod2,1534109092,96shr3,12,/r/FortNiteBR/comments/96shr3/decided_to_draw_my_favorite_restaurant_in_all_of/,9,Decided to draw my favorite restaurant in all of Fortnite. Hope you like it :),,FortNiteBR
+191,while_e,1534108632,96sfod,100,/r/FortNiteBR/comments/96sfod/current_status_of_switch/,457,Current status of Switch,"Let me preface this with the fact that I am extremelly happy I have a decent FPS that i can play cross platform with friends and family. Thank you Epic. Most Nintendo systems domt get many popylar FPS that I have enjoyed. Now I'm sure this is due to the huge user base, and insane popularity of the Switch. That being said, if you want to keep a good majority of us around, you GOTTA give us some attention.  
+  
+  
+  
+  
+1) **We still cant track our stats**, and dont even know if you guys are so something will be retroactive if it ever does come out... Maybe give us a ""hey we are working on it"" at least...  Most other issues can be explained away with ""Switch doesnt have the specs"", but this is not the case here.
+  
+  
+  
+2) 80% of the time I drop, geometry is just blobs for 5-30 seconds, which means missed loot, and deaths.  
+  
+  
+  
+3) Inventory items don't show half the time. This may be a new big with 5+ patches, but is very difficult to work with. You see color and ammo, but no image.  
+  
+  
+  
+4) Lag, frame drops, all the time. I use a hard line connection so its not network. Ask buddies I'm teamed with on PC and XB and they dont see what I see.. Which is full seconds of lag. Sometime I just walk around a corner, and get one pumped by someone I dont even see for another full second.. Sure I suck but would like to at least see a line of sight on someone that kills me.  
+  
+  
+Rant over, sorry for the outburst, but I love the Switch, Fortnite, and this community. I have a mortage and 2 kids so cant afford $700+ for a new PC anytime soon... Wish i could.. Anyway if it keeps trending this way I can see at least myself and a good chunk of others losing momentum and interest.  ",FortNiteBR
+192,ChaimDaMan,1534108578,96sfey,13,/r/FortNiteBR/comments/96sfey/the_hard_truth/,0,The hard truth,,FortNiteBR
+193,Saints0508,1534108357,96sedp,89,/r/FortNiteBR/comments/96sedp/why_hitching_needs_to_be_fixed/,377,Why hitching needs to be fixed,,FortNiteBR
+194,LukeFps8,1534108208,96sdq7,13,/r/FortNiteBR/comments/96sdq7/yo_undreds_of_millions_company_when_are_u_gonna/,0,"yo undreds of millions company, when are u gonna fix bushes hitboxes so i can harvest my wood like i should?",With the money u got you should have a team just involved in minor bugs like this... i don t know what you are waiting for,FortNiteBR
+195,mrpacetv,1534107939,96scga,14,/r/FortNiteBR/comments/96scga/wallpaper_just_love_this_skin/,55,[Wallpaper] Just love this skin,,FortNiteBR
+196,MrQuacky96,1534107772,96sbpw,14,/r/FortNiteBR/comments/96sbpw/circle_is_in_the_storm/,0,Circle is in the storm,,FortNiteBR
+197,altmxlr13,1534107691,96sbb0,11,/r/FortNiteBR/comments/96sbb0/worth_buying_switch_only_for_fortnite_machine/,1,Worth buying switch only for fortnite machine?,I really love fortnite. Over 3000 ++ match played on pc. So i am looking for portable machine for fortnite. Will switch worth buy or not? ,FortNiteBR
+198,humanwastq,1534107599,96saur,20,/r/FortNiteBR/comments/96saur/amdfortniteps2/,11,amd+fortnite=ps2,,FortNiteBR
+199,FullAutoNoob,1534106510,96s5z5,110,/r/FortNiteBR/comments/96s5z5/the_most_iconic_duo_in_fortnite_history_fact/,4007,The most iconic duo in Fortnite history. FACT.,,FortNiteBR
+200,ky1e0,1534106372,96s5ek,302,/r/FortNiteBR/comments/96s5ek/did_you_say_tsm_needed_a_4th_player/,11034,Did you say TSM needed a 4th player?,,FortNiteBR
+201,michvelsimmons,1534106065,96s413,11,/r/FortNiteBR/comments/96s413/even_epic_knows_the_pump_is_a_joke/,32,Even Epic knows the pump is a joke,,FortNiteBR
+202,Beastly4k,1534105792,96s2tb,27,/r/FortNiteBR/comments/96s2tb/let_the_salt_hit_the_floor/,0,Let the salt hit the floor,,FortNiteBR
+203,Snackp1ge0n,1534105531,96s1p7,13,/r/FortNiteBR/comments/96s1p7/started_watching_fear_the_walking_dead_and_these/,0,Started watching Fear the Walking Dead and these guys doing spray paints reminded me of season 4 when the game was at its prime. (Awful picture i know omegalul),,FortNiteBR
+204,nIghts0,1534105275,96s0j5,45,/r/FortNiteBR/comments/96s0j5/what_has_fortnite_clickbait_come_to_these/,223,What has Fortnite Clickbait come to... These Fortnite YouTubers are becoming a bit annoying.,,FortNiteBR
+205,Cold_feet1,1534105167,96s010,14,/r/FortNiteBR/comments/96s010/out_of_the_4_current_existing_shotguns_wich_one/,0,Out of the 4 current existing shotguns wich one would you pick and why ?,what shotgun would you pick and why ? what makes that one better then the other ones. ,FortNiteBR
+206,Scifearious,1534105057,96rzkk,14,/r/FortNiteBR/comments/96rzkk/name_change_on_ps4_help/,1,Name change on PS4? Help!,"So my psn isnt the best of choices lets just say that... i know sony doesnt allow name changes (as of yet) but i really want my display name to show as my epic id that i chose. I heard some work arounds with making a new psn, unlinking my old account and then linking the new one? im just to nervous to try it without full confirmation from multiple people that it works, id rather not loose my skins! Thanks for the help :D",FortNiteBR
+207,ms4rr,1534104847,96ryl6,26,/r/FortNiteBR/comments/96ryl6/thank_you_reddit_for_this_d_and_if_your_wondering/,51,Thank you reddit for this :D ..and if your wondering yes thats my average ping :(FeelsBadMan,,FortNiteBR
+208,icecoldcoke319,1534104638,96rxmx,27,/r/FortNiteBR/comments/96rxmx/merry_marauder_with_a_smile/,308,Merry Marauder with a smile,,FortNiteBR
+209,Swyteh,1534104285,96rw0a,11,/r/FortNiteBR/comments/96rw0a/my_friends_omega_skin_bugged_and_it_created_this/,19,My friend's omega skin bugged and it created this hybrid badass looking m***,,FortNiteBR
+210,K4747,1534104223,96rvoh,14,/r/FortNiteBR/comments/96rvoh/revolutionary_new_use_for_the_portafort/,0,Revolutionary new use for the Port-a-Fort,,FortNiteBR
+211,I_Phantom_I,1534104177,96rvg2,26,/r/FortNiteBR/comments/96rvg2/name_a_more_iconic_duo_ill_wait/,270,"Name a more iconic duo, I'll wait.",,FortNiteBR
+212,ok2001,1534104139,96rv9o,34,/r/FortNiteBR/comments/96rv9o/teaching_my_friend_how_to_play_cheeky_1_kill_no/,2586,Teaching my friend how to play; Cheeky 1 kill no bullets fired win. Apologies if this was you,,FortNiteBR
+213,JKeo15,1534104086,96rv0c,79,/r/FortNiteBR/comments/96rv0c/when_your_last_opponent_is_a_trick_shotter/,2024,When your last opponent is a trick shotter,,FortNiteBR
+214,connordotc,1534103935,96rubj,12,/r/FortNiteBR/comments/96rubj/my_first_attempt_at_fortnite_asmr_whats_you_guys/,16,My first attempt at Fortnite ASMR whats you guys opinions on the video,,FortNiteBR
+215,Turtle_Mcturtle,1534103919,96ru8s,54,/r/FortNiteBR/comments/96ru8s/giving_us_the_l_before_the_fight_even_begins/,221,Giving us the L before the fight even begins,,FortNiteBR
+216,Gragiator,1534103858,96rtyx,15,/r/FortNiteBR/comments/96rtyx/they_should_bring_back_old_pump_if_doublepump_is/,80,They should bring back old pump if doublepump is gone..,,FortNiteBR
+217,3M1LL,1534103733,96rtcv,18,/r/FortNiteBR/comments/96rtcv/tsm_daequans_mic_setup/,142,Tsm_Daequans mic setup,,FortNiteBR
+218,madmagic008,1534103626,96rsuo,41,/r/FortNiteBR/comments/96rsuo/bring_back_this_skin_please/,1014,Bring back this skin please,,FortNiteBR
+219,kyleplays2k,1534103403,96rrtd,12,/r/FortNiteBR/comments/96rrtd/if_your_gaming_mouse_was_replaced_with_a_regular/,2,"If your gaming mouse was replaced with a regular mouse, how much will that affect your game?","How important is having a gaming mouse while playing fortnite, and how much it effects accuracy and gaming ability.",FortNiteBR
+220,The_Bosky,1534103148,96rqnt,4635,/r/FortNiteBR/comments/96rqnt/i_painted_beef_boss_first_person_to_guess_the/,1593,"I painted Beef Boss! First person to guess the right number between 1-1,000 wins it! Rules in comments (Moderator Approved)",,FortNiteBR
+221,Th3FvnnyGuy,1534103004,96rq0h,17,/r/FortNiteBR/comments/96rq0h/instructions_for_aiming/,3,instructions for aiming,"so as the title says I need some tips for aiming , especially with the X Y sensitivity settings ! 
+I play with 6 6 sensitivity right now - aim is pretty good with a shotgun but it lacks on building, its way too slow 
+I tried to switch  to 7 7 or 8 8 - great for building but very hard to aim IMO 
+What’s the best way to get used to high sensitivity - or is it even recommendable to play with high sensitivity?",FortNiteBR
+222,halofreak8899,1534102879,96rpgv,12,/r/FortNiteBR/comments/96rpgv/my_son_bought_a_founders_pack_with_my_card_can_i/,5,My son bought a founders pack with my card. Can I get a refund?,Hey guys my 4 year old son bought a founders pack with my card somehow. Does anyone know if Microsoft will refund this? Thanks. ,FortNiteBR
+223,ConsequenceTV,1534102622,96rock,13,/r/FortNiteBR/comments/96rock/fortnite_memes_in_public_real_life_fortnite_llama/,0,FORTNITE MEMES in Public + Real Life Fortnite Llama!,,FortNiteBR
+224,Muzmac16,1534102503,96rnsm,11,/r/FortNiteBR/comments/96rnsm/rant/,1,Rant,"This game is really starting to peev me off, today I’m playing and have any of you started to notice how, as soon as you finish one fight, another guy just turns up and finishes you off, or how about trying to block bullets but somehow the p90 can shoot faster than I can build at wall. Bs.",FortNiteBR
+225,FIRSTSARGEANT,1534102357,96rn5d,53,/r/FortNiteBR/comments/96rn5d/add_earnable_callsigns_to_br/,616,Add earnable callsigns to BR,,FortNiteBR
+226,DocyodaX,1534102242,96rmlf,254,/r/FortNiteBR/comments/96rmlf/fortnite_weapon_skins_concept/,5164,Fortnite Weapon Skins Concept,,FortNiteBR
+227,ucndi,1534102185,96rmc9,26,/r/FortNiteBR/comments/96rmc9/balance_changes_id_like_to_see/,0,Balance changes I'd like to see.,"Scoped AR) DMG: 23-24 -&gt; 25-26
+
+LMG) Bloom: -10%
+
+Pump) Headshot multiplier: 2.0 -&gt; 2.5, Remove pullout delay
+
+Burst) Bloom: -10%
+
+P90) Structure DMG: -25%, Fire rate: 10 -&gt; 11
+
+SMG) Structure DMG: -25%, Fire rate: 12 -&gt; 13
+
+Tommy Gun) Structure DMG: -25%
+
+Silenced SMG) Structure DMG: -20% Reduce damage dropoff
+
+All Handguns) Spread: -10%
+
+All Snipers) Slightly reduce bullet drop
+
+
+
+",FortNiteBR
+228,eshan_chow,1534102087,96rlvb,16,/r/FortNiteBR/comments/96rlvb/my_fortnite_is_really_fucked_up/,13,My fortnite is really fucked up,,FortNiteBR
+229,heakth,1534102072,96rlta,123,/r/FortNiteBR/comments/96rlta/gain_5_more_material_gain_per_storm_circle_making/,2486,"Gain 5% more material gain per storm circle, making farming less annoying.","Credit u/vexvort this man is an absolute genius. And epic, if you see this please just give it a shot within a limited time mode before you just shove it in the game.",FortNiteBR
+230,daytonrayne,1534101945,96rl89,11,/r/FortNiteBR/comments/96rl89/battle_pass_may_be_hinting_future_skins_i_just/,0,Battle pass may be hinting future skins. I just realized one of the sprays you get with the battle pass was one of the recent gliders that just came out. Have you guys noticed any?,,FortNiteBR
+231,TheBandicoot,1534101440,96rj0i,18,/r/FortNiteBR/comments/96rj0i/atks_apparently_are_springloaded_now/,99,ATKs apparently are springloaded now,,FortNiteBR
+232,Lawgamer411,1534101248,96ri35,130,/r/FortNiteBR/comments/96ri35/august_18th_shop_leak/,406,August 18th Shop Leak,,FortNiteBR
+233,FTPablo,1534101071,96rhad,31,/r/FortNiteBR/comments/96rhad/countering_the_new_gun_is_so_stupidly_easy_that_i/,0,Countering the new gun is so stupidly easy that i just tought i show you how you do it,,FortNiteBR
+234,rustyron72,1534101000,96rgz8,11,/r/FortNiteBR/comments/96rgz8/season_5_underwhelming/,0,Season 5 underwhelming?,"Anybody else think this season has been totally underwhelming compared to last season? There doesn’t really seem to be any underlying story to the season as there was last time. We’re half way through and practically nothing’s happened bar Risky Reels being rebuilt and a bit of Tilted. It started off exciting with the map changes and rifts but it looks like these could be disappearing soon and the items resetting back to their original locations, ie Tomato Head back to Tomato Town.
+Let’s hope Epic can pull something out of the bag towards the end of the season.",FortNiteBR
+235,PelicopterVEVO,1534100928,96rgn2,20,/r/FortNiteBR/comments/96rgn2/i_found_this_in_a_walmart/,21,I found this in a Walmart,,FortNiteBR
+236,exallll,1534100674,96rff7,55,/r/FortNiteBR/comments/96rff7/wake_up_call/,10,Wake up call,"Many pro players are going to become variety streamers soon (Daequan , Myth , Tennp0 , Svennos .... )  
+
+
+Fortnite became so unsatisfying to play in the season 5 it's incredible, the skill cap of the game is now lower compared to the average players that really take h1 seriously atm (haHAA)   
+
+
+  
+EPIC, please change your achievement, you don't need more players, you don't need more noobs to get into the game because it's easy and you make them feel good about themselves if they win by spraying and praying, you have to make the game good, many pro players admitted that they're not liking this meta, you did nothing about it, I bet over 60-70% of the current playerbase will agree, you have to change something, you have to understand the need of the community, you will surely make money, I AM SURE the company made a huge amount of money, but getting the game in the worst state it was since the release will lose you money, it won't make it any better, Yes, you'll get noobs start playing it, yes you'll get some money out of them, but you'll lose them aswell when they get bored of this trash meta.   
+\&gt;P L E A S E  
+",FortNiteBR
+237,RuneRedoks,1534100595,96rf28,11,/r/FortNiteBR/comments/96rf28/lack_of_complains_in_the_fortnite_subreddit/,3,Lack of complains in the Fortnite subreddit,"I don't think one post will cut it in order for Epic to get their shit back together. I'm a season 1 player even though i don't have the ''Rare skins'' that are being hyped for no reason ( Due to the fact that I didn't want to spend money on the game back then) I have never in the course of 5 seasons seen this game in such a horrible state. I went from having around 10-30 hours a week to none. You might wonder, why? Well simply because there is no skill gap whatsoever.   
+Noobies spraying you down, drum gun being better than a legendary scar, shotguns being useless. But what really pisses me off is Epic Games claiming they want to make Fortnite an Esport. Looking away from the fact that the game is heavily based around luck, they completely removed the skill gap. They are favoring the children now, but what happens when they leave? They'll move along to the next popular game like they always do. But by that time, the rest of the player base will already be dead due to the fact that they choose to be greedy. I don't blame them for wanting to make money, they are a business it obviously makes sense, but to just spit on your long time players in order to earn an extra off of kids who steal their parents credit card is a bit over the line.  
+
+
+I remember the first time I downloaded the game, it was on my ps4, and I had my friend over with his Ps4 over at my place. We stayed up until 4 am in the morning until we got the win, we played the whole day, but even though we kept dying and dying, we had fun. But now? All that fun is gone, because it doesn't encourage you to get better at the game, no, it encourages you to use the same tactic every game until you are the last one standing, just spray and pray.   
+
+
+At the moment, I don't see the point in playing this game, I see absolutely no fun, and I'm just one of the hundreds if not thousands of players who left for the same exact reason. But if we as a playerbase stand up to Epic, and actually voice out our complains like we did before (Double shotguns etc) They might actually do something about this. Funny thing is, there were far more complaints about the double shotgun than there is about the state this game is in right now, which makes me really sad. Even though double pump was OP, atleast you needed skill to abuse it. So stop posting your ideas about LTM's and Skins and Guns because the game doesn't need that, it needs a big ass patch with fixes to guns such as the Drum Gun, the fucking smg's, maybe buffing building back up so a freshly built wall won't get 1 tapped by an AR (Yes 1 bullet will take out a freshly placed wall) And imo they should either revert the shotguns back to previous damage, or remove the 2 sec timer. ",FortNiteBR
+238,Dan_1404,1534100588,96rf10,19,/r/FortNiteBR/comments/96rf10/huh_whats_that_supposed_to_mean/,1,Huh? What's that supposed to mean?,,FortNiteBR
+239,JewelsCoin,1534100225,96rdap,37,/r/FortNiteBR/comments/96rdap/finally_a_fix_to_shotguns/,82,Finally a fix to shotguns?,,FortNiteBR
+240,KinneKted,1534099911,96rbui,12,/r/FortNiteBR/comments/96rbui/bug_in_50vs50_in_switch_he_had_to_leave_match_to/,26,Bug in 50vs50 in Switch. He had to leave match to make the drop accessible. Landed on his head. Pls fix this EPIC!,,FortNiteBR
+241,aaronguo_34,1534099880,96rbpf,17,/r/FortNiteBR/comments/96rbpf/brand_new_lenevo_y520_cpu_7th_gen_i7_dedicated/,1,"Brand new Lenevo y520 CPU 7th Gen i7 Dedicated Graphics Card, but frames are are hovering around 30. Any suggestions to fix? Your thoughts?",My fps is capped at 30 all the time. I even put everything on low and still capped at 30. I set the frames to 120 on my settings since it’s a bit more powerful laptop.,FortNiteBR
+242,snt271,1534099702,96rawu,26,/r/FortNiteBR/comments/96rawu/my_teammate_got_downed_so_i_threw_some/,184,My teammate got downed so I threw some desperation clingers to try and save him and instead got the best kill of my life,,FortNiteBR
+243,All-Bizness,1534099690,96rauu,22,/r/FortNiteBR/comments/96rauu/i_truly_hope_that_only_those_who_purchase_the/,0,I truly hope that ONLY those who purchase the Note 9 or Galaxy Tab 4 get the Galaxy skin,"All of these people trying to find and exploit any way around the system to get this skin is just ridiculous really. If you sort this sub by new it's just flooded with people trying to scheme and cheat the Galaxy exclusive skin pre order. Hopefully it is limited to 1 device each so that way kids don't get scammed online and people cant exploit and duplicate an exclusive skin.
+
+I know it's a cool skin guys, but either get it legit or don't get it at all. Trying to cheat on scam the system is just lame.",FortNiteBR
+244,Optima412,1534099674,96rass,13,/r/FortNiteBR/comments/96rass/could_we_get_the_commando_skin_but_with_the/,15,Could we get the Commando skin but with the Headhunter model?,,FortNiteBR
+245,yungdaggerdxcj,1534099634,96ralk,16,/r/FortNiteBR/comments/96ralk/lmgs_are_so_fucking_overpowered/,0,LMGs are so fucking overpowered,"please epic do something about these op pieces of shit, it’s fucking atrocious having to fight against these players. stop trying to make the skill gap smaller and smaller and start making the necessary changes. the meta has gone to shit and building has been made so obsolete. 
+
+Discuss. ",FortNiteBR
+246,harwduyoi,1534099123,96r88b,58,/r/FortNiteBR/comments/96r88b/i_have_to_stop_myself_from_replying_to_these_self/,182,I have to stop myself from replying to these self entitled kids.,,FortNiteBR
+247,MonsterMayne,1534099031,96r7sy,47,/r/FortNiteBR/comments/96r7sy/demonstration_of_the_tier_5_ragnarok_ads_bug_this/,318,"Demonstration of the Tier 5 Ragnarok ADS bug (This is what you have to look forward to at 500k xp). My last low-effort post about this got removed at the #1 spot on r/fortniteBR, so here's a higher-effort post.",,FortNiteBR
+248,Tfratbat123,1534099002,96r7o5,32,/r/FortNiteBR/comments/96r7o5/switch_career_tab/,291,Switch career tab,Can we upvote this as much as possible even if you don’t have a switch? because I know a lot of people want this added. The only way for me to track high kill games or wins or cool snipes is to clip it and screenshot it and I would really like a different way to count my wins than going to my gallery and counting them all. I just really want this to happen. ,FortNiteBR
+249,Vanxsquad,1534098956,96r7gn,20,/r/FortNiteBR/comments/96r7gn/fortnite_runs_awfully_on_galaxy_s9/,4,Fortnite runs awfully on Galaxy S9,"I don't know if it's just me, but when I try to run Fortnite on my S9, it runs awfully. I get 1 frame for every 5 seconds, is that just me or does this happen to anyone else?",FortNiteBR
+250,Cduguid0034,1534098753,96r6jp,11,/r/FortNiteBR/comments/96r6jp/damage_over_200_should_be_taken_from_the_revive/,0,Damage over 200 should be taken from the revive health bar,"If you hit someone in the head with a sniper, they should have less health when they go down because you were most likely at a far distance, meaning they'll have enough time to get up. If the extra 62 damage was taken from the revive health bar, it would encourage faster reviving and reward skilled players
+
+What do you all think",FortNiteBR
+251,aryz-alt,1534098738,96r6hb,18,/r/FortNiteBR/comments/96r6hb/fastest_way_to_get_to_tier_100/,6,Fastest way to get to Tier 100?,"I’ve completed all weekly “challenges” and daily ones and grinded out for a week but it just seems to take forever to get even one tier up now. I’m tier 60 and I feel like I won’t be able to complete it before school starts.
+
+Any suggestions from people who complete battle passes quickly?",FortNiteBR
+252,BcoxOW12,1534098592,96r5ro,317,/r/FortNiteBR/comments/96r5ro/this_is_what_i_wish_to_happen_to_every_person/,12092,This is what I wish to happen to every person that uses the L dance.,,FortNiteBR
+253,DAInquisition,1534098086,96r3j3,24,/r/FortNiteBR/comments/96r3j3/i_thought_i_had_a_trap_this_works_too_i_guess/,75,"I thought I had a trap... this works too, I guess",,FortNiteBR
+254,WeeverBoi94,1534098071,96r3ge,20,/r/FortNiteBR/comments/96r3ge/fortnite_tournaments_for_console/,13,Fortnite tournaments for console,"I get that epic wants to draw in a crowd for these tournaments and the skirmish has been entertaining to say the least. Very well played by a lot of players but my question is why are there no such tournaments for the console community to get behind. Now this isn’t a post to argue which is better it’s more of a nod towards epic to say. Hey we’re here and we want to show the community that we can do it to. You know what I mean? I get nickmercs and all the others but it seems to me that it is just pc which disappoints me a lot because I know damn well a lot of console players would love to see,Xbox &amp; PS4 tournaments or maybe I’m wrong but I actually think in a way it would be more entertaining. 
+
+Idk though what do you guys think. 
+My opinion is we deserve to be recognised and we should have our own console tournaments like pc does. Enough with the pc and console and go with inviting people for purely console tournaments aswell. I mean I’d love to watch how other console players play in tough situations so I can learn from them. I can learn from pc but the playing style is different, Atleast in my opinion it is. 
+
+Tell me what you think though ",FortNiteBR
+255,Bakbak5,1534097998,96r346,20,/r/FortNiteBR/comments/96r346/everyone_joins_the_fortnite_battle/,189,Everyone Joins The Fortnite Battle!,,FortNiteBR
+256,FlippyCR,1534097505,96r0u4,11,/r/FortNiteBR/comments/96r0u4/nerfing_materials_has_gone_too_far_4_hits_instead/,2,"nerfing materials has gone too far, 4 hits instead of 1 to gather 4 wood.",,FortNiteBR
+257,alexbeeeee,1534097373,96r085,13,/r/FortNiteBR/comments/96r085/a_question_regarding_the_availability_of_the/,1,a question regarding the availability of the galaxy skin,"if i was to go into the verizon store today, download fortnite (assuming downloading stuff is not blocked), and signed in on my epic account, would i theoretically be able to attain the galaxy skin?",FortNiteBR
+258,SeeYaNoScope,1534097341,96r037,78,/r/FortNiteBR/comments/96r037/please_help_me_make_this_a_reality/,475,Please help me make this a reality,,FortNiteBR
+259,Thejunglebundle,1534096763,96qxhf,15,/r/FortNiteBR/comments/96qxhf/am_i_building_a_ramp_for_ants_please_fix_the_ramp/,10,Am I building a ramp for ants? Please fix the ramp placing so it doesnt go inside the ground..,,FortNiteBR
+260,RE77G,1534096618,96qwup,11,/r/FortNiteBR/comments/96qwup/was_this_actually_ninja_in_my_match/,0,Was this actually Ninja in my match?,,FortNiteBR
+261,Despite_zero,1534096413,96qvyq,26,/r/FortNiteBR/comments/96qvyq/sniping_last_4_for_20_kill_50v50_w/,96,Sniping last 4 for 20 kill 50v50 W,,FortNiteBR
+262,pm05,1534096327,96qvkz,30,/r/FortNiteBR/comments/96qvkz/week_6_challenges_leaked/,53,Week 6 Challenges Leaked,,FortNiteBR
+263,Dark_Knight39,1534096109,96qun1,12,/r/FortNiteBR/comments/96qun1/epic_should_take_note_of_this/,10,Epic should take note of this,,FortNiteBR
+264,setmonarch,1534095711,96qswh,69,/r/FortNiteBR/comments/96qswh/servers_when_game_knows_that_youre_on_fire/,1013,Servers when game knows that you're on fire,,FortNiteBR
+265,Jukesky,1534095336,96qr5g,385,/r/FortNiteBR/comments/96qr5g/xbox_squad_kill_world_record_52_kills/,3893,Xbox Squad Kill World Record (52 Kills),,FortNiteBR
+266,Polvltr98,1534095098,96qq3r,65,/r/FortNiteBR/comments/96qq3r/never_really_hit_noscopes_but_i_hit_a_240_jumping/,1365,Never really hit no-scopes but I hit a 240 jumping headshot on a moving ATK today....,,FortNiteBR
+267,SherlockianWolf,1534094934,96qpcn,13,/r/FortNiteBR/comments/96qpcn/gayyy/,0,Gayyy,,FortNiteBR
+268,lostsniper19,1534094541,96qnl7,12,/r/FortNiteBR/comments/96qnl7/leave_game/,275,Leave Game,,FortNiteBR
+269,BlueFingerz,1534094375,96qmtb,15,/r/FortNiteBR/comments/96qmtb/epic_what_are_you_guys_up_to/,6,"Epic, what are you guys up to?",,FortNiteBR
+270,-cmh95-,1534094160,96qlvg,21,/r/FortNiteBR/comments/96qlvg/the_bush_needs_an_upgrade/,88,The bush needs an upgrade,"Let’s face it, the bush is pretty useless to say it’s a legendary item. Once you use it, you’re pretty much stuck with it, unless you take damage. To combat this I think we should be able to put the bush away as an when we need it. I also think it should drop in stacks of 2 aswell so it can merit legendary rarity. ",FortNiteBR
+271,Mccnicksb,1534093914,96qks4,198,/r/FortNiteBR/comments/96qks4/he_might_be_right/,6868,He might be right,,FortNiteBR
+272,taran-tula,1534093507,96qiwj,17,/r/FortNiteBR/comments/96qiwj/decided_to_take_up_needle_felting_and_this_is_the/,272,Decided to take up needle felting and this is the first thing I made.,,FortNiteBR
+273,Senzafessa,1534092936,96qgc7,21,/r/FortNiteBR/comments/96qgc7/a_little_tutorial_that_took_a_bit_to_whip_up_for/,263,A little tutorial that took a bit to whip up for you aspiring Fortnite players,,FortNiteBR
+274,Austinparra,1534092852,96qfyk,11,/r/FortNiteBR/comments/96qfyk/for_anyone_who_has_or_is_getting_a_galaxy_tab_4/,0,"For anyone who has or is getting a Galaxy Tab 4, or note 9","Has many of you may or may not know, there is an exclusive Fortnite skin that is coming out called the Galaxy skin. I believe it's released officially today. All you have to do is have one of these new devices and log into it and you get the skin for free. I saw a Fivver thing today where someone would get it for you by logging into your account on their device, but it got removed by fiver not because it was breaking any rules, but because the person was scamming people, and just trying to hack their accounts rather then actually be legit. What i'm saying is if any of you have that new device and you want to make some extra money, I recommend posting on Fivver like he did. He was doing it for 12 dollars per account and you can make tons off that easily if you have the new device. Also I don't believe this is breaking any in game rules by Epic games terms of service that I went over. ",FortNiteBR
+275,MaximumGamelord,1534092714,96qfce,11,/r/FortNiteBR/comments/96qfce/suggestion_a_3_second_timer_on_chests_you_open_to/,0,"Suggestion: A 3 second timer on chests you open, to avoid this situation. Side note: The Tac sucks",,FortNiteBR
+276,JyeunJyeun,1534092494,96qed5,97,/r/FortNiteBR/comments/96qed5/durrr_burgers_disturbing_secret_a_film_i_made/,1701,"""Durrr Burger's Disturbing Secret"" - A film I made about my new favorite skin :)",,FortNiteBR
+277,DANK_F0RTN1TER,1534092207,96qd0f,21,/r/FortNiteBR/comments/96qd0f/should_the_burst_be_buffed/,1,Should the burst be buffed ?,"**Introduction** 
+
+The burst assault rifle in fornite is not widely used as its fully automatic counterpart , the regular assault rifle . What I mean by the previous statement is that in most of my early game encounters , around 46% of the time they are using burst assault rifles . At around the 3rd circle, that statistic drops to around 32 - 27% of players using the burst assault rifles .  During the endgame, that drops to around 17 - 5% often at times 0, to explain  a bit more , when I refer to the endgame in fortnite , I am implying that it is somewhere around top 6 / top 7 . Another thought is that epic want new strategies for the game so maybe if the gun is buffed .
+
+**The Statistics** 
+
+The following table will list my opinions of what the damages of the burst assault rifles should be . 
+
+||Common|Uncommon |Rare|Epic|Legendary|
+|:-|:-|:-|:-|:-|:-|
+|Headshot|60|62|64|66|70|
+|Bodyshot|30|31|32|33|35|
+
+**Conclusion**
+
+I think that this damage would be optimal and transform an under used weapon into a deadly assault rifle that , If you wait , can deal deadly damage . I think that this is fair because with the damage , I think that the fire rate  should be dropped from 2.3 rounds per second to 2.1 rounds per second to balance the weapon also to provide additional  balance , I think that the weapon could be quite noisy so that if shots are missed, the target can easily return fire. ",FortNiteBR
+278,Zerdon1,1534092024,96qc5b,28,/r/FortNiteBR/comments/96qc5b/leaked_new_rift_in_tomato_town_tomato_head/,69,"Leaked New Rift in Tomato Town, Tomato Head Possibly Returning?",,FortNiteBR
+279,playboiiicarti,1534091966,96qbvv,445,/r/FortNiteBR/comments/96qbvv/i_also_participated_in_the_possibly_worst_10000/,4511,"I also participated in the possibly worst $10,000 Fortnite Tournament ever.","I know there's already a post about this, but I feel like this needs to garner way more attention. I was one of the 30 people who made it to the finals, but this whole event felt like a huge scam. A lot of kids were waiting since 6 am in the morning, coming from far places. I'm already working on getting my refund so yeah.
+
+The original post about this event is [https://www.reddit.com/r/FortNiteBR/comments/96kk8b/i\_participated\_in\_the\_worst\_possible\_10000/](https://www.reddit.com/r/FortNiteBR/comments/96kk8b/i_participated_in_the_worst_possible_10000/)
+
+This entire event was EXTREMELY unorganized, there were probably a good 700 people who participated &amp; signed up for this event. The event was suppose to start at 11:00 AM but it ended up starting around 2:00 PM, so they ended up rushing us for our matches giving us only 10 minutes to play a match. Which basically voided the 5 points you were given for a victory royale. (Although a few people including myself got a victory royale &amp; some of the workers allowed it to happen, while others urged us to get off the laptop even though we had less than 10 people in our game &amp; high elims)
+
+Originally, on the event website we were promise custom matchmaking keys for the event &amp; 100 adequate PC's to play on. What they gave us were 30 old school laptops that could barely run the game past 30 FPS on the LOWEST settings. I swear I put all my settings to the lowest possible settings &amp; I would still get really bad frames drop. Not to mention, everyone was playing the game at like 100\~200 pings lmao. The custom matchmaking key basically wasn't even existent, they just told us to hop in a pub's match to see who could get the most elims. 
+
+The prelims literally took 4-5 hours because they simply didn't have enough laptops to supply everyone who was waiting on line to play. The ENTIRE event was suppose to end at 5, but prelims ended somewhere around 5:30, so they ended up just completely skipping the semi finals &amp; going straight to the finals.
+
+NOW this is where things really gets fucked up &amp; disorganized.
+
+We were told we only had 5 MINUTES to play in the finals, they would track our elims after the 5 minutes, that by itself is absurd if we're playing in the finals we should be given an opportunity to play a full game, but fair enough. I decided to drop tilted to get as many kills as possible but sadly only ended up with 5. Due to the them wanting us to get out of the venue due to the event was suppose to end like an hour or two ago, they were rushing us to play. I saw some kid get his laptop slammed because they were telling us to close the laptops 30 seconds after the 5 minutes were over, but the kid was trying to explain to the worker he was trying to sign out his Epic Games account. 
+
+Now you probably wanna know who won the entire event right? Well before I get to that, let me explain how they were keeping tabs on our eliminations. Many of the contenders in the finals would end their game so the workers couldn't see their elims &amp; just straight up lie about how many elims they would get. With the workers wanting to be home &amp; not being knowledgeable about Fortnite they wouldn't question it &amp; write down the score. This created A LOT of conflict between not only all the contenders but the contenders and the workers. The workers refused to look at the replay system to confirm how many kills each of the people in the finals got.
+
+So you wanna know who ended up winning first place? A girl who played on a switch who told the workers she had \*\*30 ELIMINATIONS IN 5 MINUTES\*\*
+
+So you can see how disorganized this entire shitty event is.",FortNiteBR
+280,Mivality,1534091537,96qa10,16,/r/FortNiteBR/comments/96qa10/solos_needs_to_be_worked_on/,3,Solos needs to be worked on,"Solos is by far the most boring game mode for me in Fortnite. There is constant third partying and the mid game is always boring. I can’t play more than 2-3 solo games without wanting to get off. While when I am playing squads and duos, I can play for hours without getting bored. So while I don’t really have any ideas, I’d like to hear yours and maybe if this post gains traction Epic will be able to see it!",FortNiteBR
+281,MoJozzZ,1534091376,96q9br,24,/r/FortNiteBR/comments/96q9br/week_6_of_season_5/,2,Week 6 of Season 5,"This week we should officially find out what the Road Trip skin actually is.
+
+Usually there is 2 weeks loading screens leaked at the same time. So this Tuesday it should be Week 6 screen and Week 7.
+
+And last time the week 7 screen featured the mystery skin so I don’t see why they wouldn’t do the same this time.
+
+Let’s hope and pray that this mystery skin is worth the 7 weeks of grinding challenges! (Unlike the Visitor)",FortNiteBR
+282,WTFCheeseyPoo,1534091325,96q93w,31,/r/FortNiteBR/comments/96q93w/ive_hit_a_trough_in_my_fortnite_career/,289,I've hit a trough in my Fortnite career,,FortNiteBR
+283,Thebottlemap,1534091223,96q8mf,15,/r/FortNiteBR/comments/96q8mf/fornite_in_africa/,15,Fornite in Africa,,FortNiteBR
+284,MattPlays17,1534091048,96q7v7,15,/r/FortNiteBR/comments/96q7v7/when_will_we_be_able_to_see_our_switch_stats/,17,When will we be able to see our Switch stats?,"I'm not sure if it is the same on mobile, but currently I can't see my stats for my Switch. My PC and Switch are linked to the same account but when checking on my PC it only shows games I've played on it. Will we be able to see how many Switch wins we have soon? I don't think it's very hard to do but I could be wrong. If this gets added soon I'll be so happy because I don't have many wins so every win counts as a big reward for me, and I've gotten a few wins on Switch but I can't view them :( Thanks for reading!",FortNiteBR
+285,kevinowensishot,1534091044,96q7ue,14,/r/FortNiteBR/comments/96q7ue/what_do_i_do_in_a_build_fight_when_they_take_high/,7,what do i do in a build fight when they take high ground first,i find myself sitting in a 1x1 underneath them because i have no clue what to do,FortNiteBR
+286,FalconsDude234,1534090918,96q79q,12,/r/FortNiteBR/comments/96q79q/i_think_epic_needs_to_chill_with_adding_a_new_gun/,35,I think EPIC needs to chill with adding a new gun every week.,I mean there are multiple bugs in the game now and they are concerned about adding a new gun. Before you know it there will be 100 guns in the game adding more RNG to chest and floor loot. Thoughts?,FortNiteBR
+287,TapoutKing666,1534090910,96q78d,20,/r/FortNiteBR/comments/96q78d/my_son_got_a_vaccine_and_now_he_plays_fortnite/,2,My son got a vaccine and now he plays FortNite,"My son Billy had to get a series of vaccinations to be able to play Junior Rugby. We as a family are staunch anti-vaxxers and believe in faith healing. I asked the school district if our church could pray for Billy's immune system as an alternative. They said no.
+
+One of my wives had a great idea - what if we get a syringe full of water and have it blessed by god to protect Billy? We ran this idea by the superintendent, but our seed could find no purchase.
+
+I finally had to hunker down and make a compromise. Billy has been in sports for his whole childhood, and I just hated the idea that he couldn't play just because of our holy covenant with the lord.
+
+We went to the clinic as a family, many of my girls cheeks were wet with tears. It was very crowded in the waiting room, so I stepped outside for fresh air. I looked to the sky and prayed that my boy would be alright. Then all the sudden the sky grew dark, and I heard thunder off in the distance. The wind picked up and nearly blew my NASCAR cap off my head. I ran inside, knowing that god was telling me to stop the vaccine from happening. 
+
+I was too late. Billy walked out of the office with a cotton ball taped to his arm.
+
+We put billy under supervision for a couple of days and he seemed fine. One night I awoke to the sound of thunder again. It had to be another sign. I put on my slippers and investigated the noise. It wasn't coming from outside... it was coming from Billy's room. I slowly opened the door, and couldn't believe what I saw.
+
+The thunder was gunfire coming from Billy's computer game ""FortNite"". He was screeching with joy, jumping around a pastel fantasy battlefield. I slowly backed away and shut his door. I woke one of my wives up and told her about what I saw. We both prayed and held eachother and sobbed all night.
+
+Billy came home from school early the next day. This surprised me, because it was the first day of rugby practice. I asked him why he was home so early. He informed me the following:
+
+""I don't really feel like it. I found this new show called Rick and Morty, and I think I wanna watch that instead""
+
+I just stood there jaw dropped while he attempted to walk past me. I noticed he had something in his hand. Some kind of bottle. I lightly grabbed him by his arm, just to get his attention. I asked him what was in his hand.
+
+It was a 16oz bottle of Mountain Dew. 
+
+I lost my temper. He knew we only did milk or water in this house. 
+
+Anyhow, he had some friends over that afternoon and they were doing some... interesting things in the living room. These weren't his normal friends from church. What I saw was pretty baffling. They would all stand there in front of the TV and do this strange dance. Their arms were straight, feet planted, and they'd swing their arms and hips side to side.
+
+My eldest daughter told me it was called ""Flossing""
+
+I've been very upset about all of this, and I don't know what to do. I just want my son back. Anybody have any dove approved advice for me? Thanks",FortNiteBR
+288,driveskull,1534090755,96q6jp,25,/r/FortNiteBR/comments/96q6jp/discrimination_of_animals_in_fortnite_is_really/,39,"Discrimination of Animals in Fortnite is really bad, that's why I made Ragnarok - Rabbit Edition",,FortNiteBR
+289,REDIT_I-S_A-I-D-S,1534090162,96q3z1,13,/r/FortNiteBR/comments/96q3z1/i_found_the_secret_battle_star/,0,I found the secret battle star,It's in the giant pick axe inbetween the motel and lazy links (the pick axe is visible from mini map) also battle pass members only can see it and or pick it up I think your welcome:),FortNiteBR
+290,SuperSyrup007,1534090099,96q3p0,21,/r/FortNiteBR/comments/96q3p0/i_made_a_subreddit_for_my_favorite_skin_in/,0,I made a subreddit for my favorite skin in fortnite! (r/shrineofarchetype),,FortNiteBR
+291,firerelly,1534090028,96q3d4,931,/r/FortNiteBR/comments/96q3d4/new_heavy_sniper_coming_soon/,4957,New Heavy Sniper coming soon,,FortNiteBR
+292,kkk-,1534089938,96q2z5,30,/r/FortNiteBR/comments/96q2z5/suggestion_legendary_hunting_rifle/,94,[Suggestion] Legendary hunting rifle.,,FortNiteBR
+293,BlakeyBoyyy,1534089717,96q1yb,78,/r/FortNiteBR/comments/96q1yb/suggestion_make_the_guided_missile_so_you_can/,494,Suggestion - Make the guided missile so you can actually find it and use it,,FortNiteBR
+294,HosweyStizo,1534089696,96q1uz,46,/r/FortNiteBR/comments/96q1uz/i_like_my_potatoes_mashed/,97,I like my potatoes mashed,,FortNiteBR
+295,SirLordChris,1534089532,96q13l,17,/r/FortNiteBR/comments/96q13l/oh_no/,217,oh no...,,FortNiteBR
+296,peterXO,1534089426,96q0nj,52,/r/FortNiteBR/comments/96q0nj/grenades_damage_challenge_in_nutshell/,413,Grenades damage challenge in nutshell,,FortNiteBR
+297,yeboi_ma_nems_jeff,1534088948,96pyp1,28,/r/FortNiteBR/comments/96pyp1/console_build_editing/,47,Console &amp; Build Editing,"Editing has to become easier accessible for console players. Having to hold down a button for a few milliseconds, makes editing so inefficient, it's almost not even worth using it.
+
+With how it works right now, we console players are better off smacking a wall with our pickaxes, rather than trying to edit it. 
+
+I feel like the guys at Epic can easily come up with a fitting solution for the majority of the console community.
+
+We simply just need it made so we don't waste time holding down a button for it to work. ",FortNiteBR
+298,HosweyStizo,1534088768,96pxub,58,/r/FortNiteBR/comments/96pxub/short_compilation_of_snipes_i_made/,357,Short compilation of snipes I made,,FortNiteBR
+299,IDestinia,1534088619,96px7b,508,/r/FortNiteBR/comments/96px7b/just_finished_my_fortnites_tomatohead_cosplay/,18313,Just finished my Fortnite's Tomatohead cosplay!,,FortNiteBR
+300,Papiez2137,1534088518,96pwqh,51,/r/FortNiteBR/comments/96pwqh/power_chord_skin_poster_i_made_in_sfm/,568,Power Chord skin poster I made in SFM,,FortNiteBR
+301,Sammie7891,1534088426,96pwci,15,/r/FortNiteBR/comments/96pwci/appreciation_post_for_nitelite_imo_the_best/,6,"Appreciation post for Nitelite, IMO the best uncommon skin, in the store today.",,FortNiteBR
+302,jake22xddddd,1534088357,96pw1i,16,/r/FortNiteBR/comments/96pw1i/please/,28,Please,,FortNiteBR
+303,A_Random_Guy_999,1534088198,96pvai,140,/r/FortNiteBR/comments/96pvai/we_truly_had_some_good_times_back_in_season_3/,1608,We truly had some good times back in season 3!,,FortNiteBR
+304,A14YTgaming,1534087746,96ptck,242,/r/FortNiteBR/comments/96ptck/for_the_halloween_update_extend_haunted_hills/,3917,"For the Halloween update extend haunted hills into this open space (or at least some of it, haunted is way to small right now)",,FortNiteBR
+305,mrgoodtofly,1534087662,96pt0o,11,/r/FortNiteBR/comments/96pt0o/the_snipe_them_while_they_shoot_down_your_ramp/,226,The “Snipe them while they shoot down your ramp” strategy works with shotguns too!,,FortNiteBR
+306,LaffenGas,1534086960,96pq00,192,/r/FortNiteBR/comments/96pq00/dont_mess_with_the_boss_if_you_cant_handle_the/,7021,Don't mess with the Boss if you can't handle the Beef...,,FortNiteBR
+307,Logan296,1534086943,96ppx6,20,/r/FortNiteBR/comments/96ppx6/i_think_fortnite_shouldnt_bring_season_1_2_skins/,0,I think fortnite shouldn't bring season 1 &amp; 2 skins,because they have value and people who have them like me feel cool when you wear theam.,FortNiteBR
+308,budasteelers1,1534086865,96ppl0,30,/r/FortNiteBR/comments/96ppl0/playground_spawn_with_shield/,188,Playground spawn with shield?,I’m pretty sure if you’ve done a 1v1 in playground you know how annoying it is to find shield every time you die. It would be way easier for there to be an option to spawn with it ,FortNiteBR
+309,Julianelamri10,1534086545,96po5i,26,/r/FortNiteBR/comments/96po5i/if_you_know_you_know/,137,"If you know, you know",,FortNiteBR
+310,Parkebob,1534086447,96pnpj,13,/r/FortNiteBR/comments/96pnpj/replace_the_throwable_emotes_with_blueprint_skins/,230,Replace the throwable emotes with blueprint skins (credit u/NerdCate with the original idea),,FortNiteBR
+311,D3ATHL0CKED,1534086195,96pmlf,24,/r/FortNiteBR/comments/96pmlf/how_to_uncrouch_while_building/,5,How to uncrouch while building,"So I guess it’s a common problem that a lot of people have that when they’re building, they can’t uncrouch and I’ve seen a lot of complaints about it. Literally all you have to do is press the jump button and it uncrouches you lol",FortNiteBR
+312,garrettpants,1534086189,96pmko,15,/r/FortNiteBR/comments/96pmko/beef_boss_could_be_its_own_contrail/,135,Beef Boss could be its own contrail,"alright, hear me out. you jump out of the battlebus, and you start to dive down. you see the tongue flapping on the side of his face, but wait, the faster you go, the tongue starts to get longer until it’s stretches 6 feet behind him, and as soon as you pull your chute it sucks back and returns to normal. 
+",FortNiteBR
+313,TurtleGEE360,1534086171,96pmhr,72,/r/FortNiteBR/comments/96pmhr/suggestion_skins_for_blueprints_just_imagine/,945,[Suggestion] Skins for blueprints! Just imagine bringing out a newspaper in the middle of a 12 storey build fight!,,FortNiteBR
+314,EEPKCUFLEBER,1534086170,96pmhq,15,/r/FortNiteBR/comments/96pmhq/do_the_houses_next_to_shifty_not_count_as_shifty/,2,Do the houses next to shifty not count as shifty?,"I killed 2 people near the houses but it didn't count for the challenges?
+Can anyone tell me if this is a bug or should it actually be there???",FortNiteBR
+315,Fistiekuffs,1534086072,96pm18,11,/r/FortNiteBR/comments/96pm18/this_game_is_great_it_creates_deepheated/,98,This game is great. It creates deep-heated discussions everywhere.,,FortNiteBR
+316,MAXOHNO,1534085635,96pk83,55,/r/FortNiteBR/comments/96pk83/all_visual_effects_in_fortnite_br_part_2/,1716,All Visual effects in Fortnite BR (Part 2)!,,FortNiteBR
+317,GraveSymphony,1534085608,96pk42,11,/r/FortNiteBR/comments/96pk42/how_do_you_guys_feel_about_the_game_right_now/,3,How do you guys feel about the game right now?,"This is not one of those “this meta is trash omg I hate this game” but how do you guys like it? I played a bunch this season and it’s better with the building buff and SMG nerfs but I feel like there’s no variety. Everyone’s load out is Scar/drum/heavy/explosives/heals and I think they should buff other guns to make it satisfying to try different load outs. 
+
+They need to remove the cool down and switch delay with all shotguns and add damage now that SMGs are in the game as it makes the game feel so sluggish. There is no reason to have a cool down on shotguns and not SMGs. Also buff pistols and LMG/burst to make them useable cause they are irrelevant at this point. ",FortNiteBR
+318,Noobface_,1534085534,96pjt1,23,/r/FortNiteBR/comments/96pjt1/im_calling_it_now/,3,I'm calling it now,"within the next few updates, furniture inside of buildings will take more than 1 hit to break and still give the same amount of wood. They're just going to keep making tiny changes every update (that aren't included in the patch notes) and keep nerfing materials little by little hoping we won't notice. 
+
+I don't get why they don't just release this High Tactics mode already (a mode found in the game files that has limited building) and let the people who don't like building play that. ",FortNiteBR
+319,wade-ing_birds,1534085437,96pjey,32,/r/FortNiteBR/comments/96pjey/fortnite_has_such_a_good_community/,217,"""fortnite has such a good community""",,FortNiteBR
+320,shane4002,1534085234,96pil3,56,/r/FortNiteBR/comments/96pil3/dynamic_weather_in_fortnite/,553,Dynamic weather in fortnite,"I think it would be cool if epic would add dynamic weather to fortnite battle royale to make games not feel the same all the time and make the game feel fresh. I would like to see rain, and maybe wind etc. It should only last for a few mins so it doesn't get annoying and maybe some games start off with puddles on the ground and after rain the puddles will stay and then slowly go. Please tell me what you think and if you think it should be added to fortnite BR! ",FortNiteBR
+321,hxtwo99,1534085011,96phml,31,/r/FortNiteBR/comments/96phml/just_a_reminder_that_the_roadtrip_skin_is_only_11/,59,Just a reminder that the Roadtrip skin is only 11 days away :),,FortNiteBR
+322,Yzeal,1534084600,96pfyl,13,/r/FortNiteBR/comments/96pfyl/you_know_he_had_to/,146,You know he had to,,FortNiteBR
+323,Adstar123,1534084593,96pfxn,14,/r/FortNiteBR/comments/96pfxn/new_shotgun_does_14_damage_with_all_pellets/,4,New shotgun does 14 damage with all pellets hitting point blank,,FortNiteBR
+324,wolfjeweerwolfje,1534084343,96pevo,11,/r/FortNiteBR/comments/96pevo/just_how/,2,Just how?,,FortNiteBR
+325,RHdivine,1534083825,96pcup,29,/r/FortNiteBR/comments/96pcup/a_beef_boss_wet_dream/,3476,A Beef Boss' wet dream,,FortNiteBR
+326,OmarTheDooley,1534083611,96pbzg,16,/r/FortNiteBR/comments/96pbzg/im_sorry_i_had_to_do_it_em/,84,"Im sorry, i had to do it em.",,FortNiteBR
+327,M-C_Skittles,1534083050,96paq9,23,/r/FortNiteBR/comments/96paq9/this_is_the_reason_skins_should_come_back_stop/,30,"This is the reason skins should come back, stop people getting scammed",,FortNiteBR
+328,Ramsey0321,1534082983,96pamz,11,/r/FortNiteBR/comments/96pamz/any_ways_to_improve_fps/,1,Any ways to improve FPS?,"Other than lowering settings in game, what can help to bring up my FPS? I currently run it at about 40 FPS more or less. Thanks.",FortNiteBR
+329,frankthetankmurphy,1534082785,96pafd,38,/r/FortNiteBR/comments/96pafd/lets_talk_about_xims/,0,Let's talk about XIMs,[removed],FortNiteBR
+330,hahayeahrightdude,1534082634,96paad,258,/r/FortNiteBR/comments/96paad/fortnite_have_become_pretty_boring/,1,Fortnite have become pretty boring,"Same strategy every single time. Rush down, get a weapon, drink some juice, kill the enemies bedore they get to kill you. Looong boring mid game where you collect resources and maybe stumble upon an enemy. 
+
+
+Same houses. Same cities. Same weapons. Winning a game doesnt even trigger much emotions in me anymore.
+
+
+I had loads of blast during the last explosive LTM. That was new. And the sniper LTM a month or two before that was fun as well. LTM are the only modes that makes me want to return to the game now. The rest of the game have become extremely boring. And I have barely played 100 hours, probably not that even.",FortNiteBR
+331,Swizzle00719,1534081558,96p957,559,/r/FortNiteBR/comments/96p957/ninja_is_getting_unnecessary_heat_for_saying_this/,1840,Ninja is getting unnecessary heat for saying this. Nothing wrong with this in my opinion.,,FortNiteBR
+332,ShortCut001,1534081350,96p8e7,31,/r/FortNiteBR/comments/96p8e7/playground_in_fortnite/,78,Playground in Fortnite,"I think almost all of us can agree that playground in Fortnite Battle Royale is pretty great. However, I believe that epic could do a few things to improve it.
+ 
+ 1.Keep Inventory.
+Make an option in the menu to toggle on and off keep inventory. There is nothing more annoying then if you’re in a huge battle with all your friends and 2 or 3 of you die in the same spot, and then all your stuff gets mixed up. Keep inventory would just be a little quality life improvement, and I don’t think it would be too hard to add to the game.
+
+2.Some sort of a creative inventory.
+I’m not sure how hard this would be to implement, but some sort of place to get an infinite number of materials, guns, and ammo from, would be great. Really I just want to not have to go searching for bounce pads for thirty minutes every game. :D
+
+3. The ability to save our playgrounds.
+This is the big one. There is nothing more frustrating then knowing you only have 3 more minutes before the storm comes in and you haven’t finished your project yet! Sure, we have replay mode to look back on what we built, so it’s not “gone” but it would be great to be able to save your playground, and revisit it another time to edit your creation. Maybe for this to work we would need “Playground” to be separate from BR (by this I mean like how Save the world is separate from BR, but they’re still both part of Fortnite). I’m not exactly sure how it would work but it would be cool.
+
+Thanks for reading all the way through. Sorry for the wall of text :) these are the 3 big things that would make playground great in my opinion. I’d love to hear other ideas though!",FortNiteBR
+333,Classic_ViPeR,1534081064,96p7fa,11,/r/FortNiteBR/comments/96p7fa/fortnite_is_a_great_game_with_no_graphical/,5,Fortnite is a great game with no graphical glitches what so ever!,"(My PS4 was in restmode, turned it back on logged into fortnite and then this started happening)
+
+![video](5hdqns550of11)",FortNiteBR
+334,Pixelranium5,1534080967,96p72m,14,/r/FortNiteBR/comments/96p72m/what_are_some_underrated_locations_on_the_map/,2,What are some underrated locations on the map?,"There are some very underrated spots on the map, share what you think are some of them!
+
+I personally think Greasy Grove and Lucky Landing have great loot are not visited enough.",FortNiteBR
+335,Erqzzz,1534080944,96p6z3,14,/r/FortNiteBR/comments/96p6z3/was_annoyed_i_couldnt_finish_but_then_something/,47,Was annoyed I couldn't finish but then something unexpected happened.,,FortNiteBR
+336,lavamanthegreat_,1534080714,96p654,38,/r/FortNiteBR/comments/96p654/rfortnitebr/,230,@r/FortniteBR,,FortNiteBR
+337,Coolmanax,1534080524,96p5f0,13,/r/FortNiteBR/comments/96p5f0/the_samsung_a5_fits_the_spec_req_yet_isnt/,12,"The Samsung A5 fits the spec req, yet isn't supported.","The Samsung A5 meets the android 5+ requirement, has 3gb of ram, and has the mp3 mali gpu required to run the game, yet apparently it isn't supported despite at one point being on the list. This further baffles me when people using phones from 2016 are supported",FortNiteBR
+338,bjarnuhhh,1534080023,96p3oe,12,/r/FortNiteBR/comments/96p3oe/nokia_7_plus/,0,Nokia 7 plus,I really want to play fortnite whereever i go but i just got this phone and i cant go back. It says device doesnt have a compatible gpu. But what i want to know is later when fortnite is on android for a long time can i then play it? ,FortNiteBR
+339,Flqmingg,1534079934,96p3e6,164,/r/FortNiteBR/comments/96p3e6/concept_quest_for_golden_harvesting_tools/,1107,[Concept] Quest for Golden Harvesting Tools (Reposted after wording the post better),,FortNiteBR
+340,AutoModerator,1534079620,96p2bh,891,/r/FortNiteBR/comments/96p2bh/salty_sunday_12aug2018/,268,Salty Sunday 12/Aug/2018,"
+- CAPS LOCK REQUIRED
+
+- WRITE ABOUT WHAT IS MAKING YOU ANGRY
+
+- OTHER PLAYERS WILL AGREE WITH YOU IN ALL CAPS
+
+- IF THEY DISAGREE WITH YOU IT WILL ALSO BE IN ALL CAPS
+
+- SHOUTING AT EACH OTHER ABOUT THINGS WE HATE WILL FORM A STRONG RELATIONAL BOND IN THE FORTNITEBR COMMUNITY
+
+- MODS ARE TOO LAZY TO COME UP WITH OUR OWN RANT BULLET POINTS
+
+- WHAT ARE YOUR SUPER BOWL PLANS FOR 2019? 
+",FortNiteBR
+341,survivor_ragequit,1534078788,96ozfy,16,/r/FortNiteBR/comments/96ozfy/underrated_weapons/,12,Underrated weapons?,"So i was playing solo doing the usual,farming materials killing other players,then i find an airdrop in dusty divot and get a  legendary thermal AR,at first i doubt in taking it but i say screw it and do it,and thanks to that gun i got a victory royale
+
+My point is,do you guys think some guns are underrated? Most of the time i hear the scoped AR are garbage but after that match i'll take a thermal instead of a sniper",FortNiteBR
+342,911mikey,1534078629,96oyzq,15,/r/FortNiteBR/comments/96oyzq/galaxy_skin/,7,Galaxy skin,I bought the tab s4 but I’m gonna be honest I’ve got no clue where to find the galaxy skin. Please help. ,FortNiteBR
+343,Rageract,1534078404,96oyb2,21,/r/FortNiteBR/comments/96oyb2/why_is_there_no_matchmaking_at_all/,0,Why is there no Matchmaking at all???,I am put against pros every game like wtf is going on I can't win a single game????,FortNiteBR
+344,lachlan_despawned,1534078364,96oy6e,11,/r/FortNiteBR/comments/96oy6e/galaxy_skin_in_fortnite_br/,2,Galaxy skin in Fortnite BR,I've checked out the new Note 9 in a Samsung store in Prague. No fortnite installed so no way to get Galaxy skin without buying an actual phone :(,FortNiteBR
+345,DoppelkeksJuri,1534078211,96oxo3,272,/r/FortNiteBR/comments/96oxo3/why_do_people_like_these_exist/,1690,Why do people like these exist?,,FortNiteBR
+346,LilMeta,1534078071,96oxa1,12,/r/FortNiteBR/comments/96oxa1/when_you_think_your_crush_is_waving_at_you_but/,150,When you think your crush is waving at you but it's really the guy behind you,,FortNiteBR
+347,TheGoodCoconut,1534078003,96ox1j,22,/r/FortNiteBR/comments/96ox1j/how_about_adding_sea_servers/,13,How about adding SEA servers,Currently we sea folks have to play on As servers with 100+ ping with epic getting over $300 million they could easily add sea servers. Thanks,FortNiteBR
+348,KoolDoody,1534077974,96owyf,11,/r/FortNiteBR/comments/96owyf/i_signed_up_for_the_anroid_beta_they_sent_me_a/,0,"I signed up for the anroid beta, they sent me a link to install and then this happened? Why would you send me a link in the first place ????",,FortNiteBR
+349,deadpoolbro13,1534077720,96ow5c,45,/r/FortNiteBR/comments/96ow5c/rfortnitebr_skins_survivor_day_1/,133,r/FortNiteBR Skins Survivor: Day 1,"If you frequent sports subs like r/nba and r/nfl, you know we do something there called Survivor. Basically you put all the teams in the league in a survey and people vote them out until one team remains. So I thought: why not do that with Fortnite skins? See which one r/FortNiteBR thinks is the best! So without further ado, I present to you, Day 1 of Fortnite Skins survivor.
+
+Link: https://www.surveymonkey.com/r/HP8KNG8",FortNiteBR
+350,Flqmingg,1534077506,96ovhi,18,/r/FortNiteBR/comments/96ovhi/concept_unlockable_golden_harvesting_tools/,8,[Concept] Unlockable Golden Harvesting Tools,,FortNiteBR
+351,abellow101,1534077394,96ov4z,16,/r/FortNiteBR/comments/96ov4z/loot_lake_epic_hiding_spot/,4,Loot Lake Epic Hiding Spot,"In the center of Loot Lake there is the Island with the house. There is a mine shaft thing under it, at the end of it there are 2 holes, build a staircase and crouch up there",FortNiteBR
+352,F_nix,1534076818,96oteh,22,/r/FortNiteBR/comments/96oteh/not_sure_if_this_has_been_posted_or_not_but_its/,20,Not sure if this has been posted or not but it's possible to double-ramp floor wall push on console without jumping,,FortNiteBR
+353,caponeyoutube,1534076493,96osgj,24,/r/FortNiteBR/comments/96osgj/the_new_shotgun_is_doo_doo/,0,The New shotgun is DOO DOO ?!,Who else thinks the new double barrel shotgun is DOO DOO or isit just me ?! i hate that its super close range do you guys think it needs a buff? i dont think this weapon is versatile enough. ,FortNiteBR
+354,zombre555,1534076383,96os4y,13,/r/FortNiteBR/comments/96os4y/stupidly_didnt_make_an_epic_account/,3,Stupidly didnt make an epic account.,I never made an epic account because the kids i babysit started playing the game first so i didnt get the beginning notification. Now i have skins and two battle passes under my belt and want to start playing on PC. I've messaged epic for help but no answer. Does anyone know how i can turn my xbox log in into an account without losing all of my skins? Any help would be greatly appreciated.,FortNiteBR
+355,levityhoe,1534076144,96orda,36,/r/FortNiteBR/comments/96orda/the_new_heavy_sniper_leaked_all_credit_goes_to/,61,THE *NEW* HEAVY SNIPER LEAKED!! All Credit goes to @FNBRLeaks on Twitter,,FortNiteBR
+356,Gworm,1534076103,96or8x,47,/r/FortNiteBR/comments/96or8x/made_this_a_few_seasons_ago_out_of_some_scrap/,2354,Made this a few seasons ago out of some scrap metal. Thought you guys would enjoy!,,FortNiteBR
+357,Cleyed,1534076009,96oqzd,24,/r/FortNiteBR/comments/96oqzd/the_drum_gun_needs_to_get_vaulted_hear_me_out/,0,The Drum Gun Needs to get Vaulted (Hear me Out),"I know this will get insta down voted, but take a step back from the game as you know it right now and have an open mind about what I am going to say. 
+
+
+The Drum Gun was reasonably balanced when it was introduced in Season 4. This was a little more viable than the Tac SMG, but it was still fine to use. The Drum Gun would do 5 shots (22 dmg to structures) to a wood wall to break it which was reasonable (since wood walls still spawned with 100 health respectively).
+
+
+There was also no P-90 in the game at this time. The Drum Gun had a purpose of having a large magazine size of 50 but still viable since it was good at close range and wasn’t sluggish like the LMGs... great! 
+
+
+Season 5 is where it messed with the balance of everything.
+
+
+With the nerf to building, wood walls only now spawned with 80 health. This meant it was an automatic 4 shot from an AR and a 4 shot from the Drum Gun. This was when wood materials were at it’s weakest. This in addition to the broken P-90 was toxic.
+
+
+This brings us to today with the current balances of the game. 
+
+
+I finally think that the P-90 is a balanced gun for the most part and fits its purpose of having a large magazine size of 40 but still being good close quarters. The P-90 is doing everything that the Drum Gun should be doing as an SMG... having both is redundant. Ik the P-90 is more rare but it is definitely not far superior than the Drum Gun.
+
+
+There’s also 4 types of SMGS in the game at the moment... 3 was fine since each one had its own little niche it excelled in. Silenced SMG and normal SMG are relatively balanced right now and the P-90 would earn its rarity since it would outperform the other SMGs.
+
+For those of you who think that the Drum Gun must ABSOLUTELY stay, just remember that not even 7 weeks ago, there was no Drum Gun or P-90, and you were fine without it.
+
+
+I know this post comes off as extremely negative but I really do think that we are close to having a balanced meta. Just need to fix Splodes, Farming Forever, and a few other issues. I actually don’t want the Drum Gun removed from the game! I loved when it was introduced but it is really defining the meta right now because of it’s value and for how good it can be. But I feel like it must go to help with the spray and pray meta.
+
+What are your thoughts?
+
+TL;DR - The removal of the Drum Gun would help with the spray meta and also have the P-90 serve the niche that the Drum Gun currently does. Having both is redundant. 
+
+",FortNiteBR
+358,abellow101,1534075925,96oqpl,12,/r/FortNiteBR/comments/96oqpl/solo_wins/,2,Solo Wins?,"Im Decent at the game, but ive never gotten an actual win, anyone know a way to get easy wins?",FortNiteBR
+359,Ldftw,1534075424,96op7t,45,/r/FortNiteBR/comments/96op7t/i_used_to_love_these_little_guys_now_i_hate_them/,1045,"I used to love these little guys, now I hate them",,FortNiteBR
+360,Xfifteen,1534075340,96ooyq,17,/r/FortNiteBR/comments/96ooyq/skin_concept_summer_time_brite_bomber/,8,Skin Concept: Summer Time Brite Bomber,,FortNiteBR
+361,RHdivine,1534075056,96oo6g,37,/r/FortNiteBR/comments/96oo6g/is_there_any_skin_better_than_you_beef_boss/,217,Is there any skin better than you? Beef Boss:,,FortNiteBR
+362,wot-in-ternation,1534074243,96om1h,207,/r/FortNiteBR/comments/96om1h/this_game_could_definitely_use_a_material_buff_at/,608,This game could definitely use a material buff at this point.,"I think it's safe to say that the average Fortnite player knows how to build basic structures while in battle now that the game has been out for months. 
+
+Most people realize the importance of materials and how much it really sucks when you try to place a wall for cover and you're out of material. 
+
+For this reason, many players (like me) land on the outskirts far away from others to farm up in order to feel secure with mats during any firefight. If the amount of mats per hit were increased, (like in Blitz!) that would make players like me land in more occupied places more often, making most games far more interesting and exciting. 
+
+Of course turtling is a concern but it is not as bad or effective as it was a few months back. 
+
+Another alternatives to buffing mats gained is to have eliminated players drop extra mats, or to have chests and loot drops provide random amounts of high material. 
+
+I'd love to be able to get into fights comfortable without hitting trees for 10 minutes first.
+
+*TLDR: Bring back Blitz so I can fight more than I farm*",FortNiteBR
+363,SennaAmeide,1534073966,96olc3,11,/r/FortNiteBR/comments/96olc3/secret_battle_stars_arent_showing/,4,Secret Battle Stars aren't showing,"I completed all weeks challenges but the battle star doesn't show, how can I fix it?",FortNiteBR
+364,Zannon1985,1534073922,96ol82,31,/r/FortNiteBR/comments/96ol82/my_girlfriend_made_this_awesome_loot_llama_for/,272,My girlfriend made this awesome Loot Llama for her sons birthday party.,,FortNiteBR
+365,jamesc90,1534073493,96ok25,16,/r/FortNiteBR/comments/96ok25/anyone_got_their_email_for_the_android_beta_yet/,8,Anyone got their email for the Android beta yet?,I already have the Fortnite installer app and the game on my OnePlus 5T. When I log in to my account on the game it tells me to get on the waiting list for an email to download the installer even though I'm already on the game. Will I be automatically able to play tomorrow or will I need an email still for the installer despite having it already?,FortNiteBR
+366,EST-Sickness,1534073059,96oix1,257,/r/FortNiteBR/comments/96oix1/3_people_enjoying_a_nice_moment_of_reading/,16015,"3 people enjoying a nice moment of reading ""newspapers"" before the fight",,FortNiteBR
+367,FarhanAtReddit,1534072964,96oio9,13,/r/FortNiteBR/comments/96oio9/new_heavy_sniper_gameplay_leaked_footage_credits/,2,NEW Heavy Sniper Gameplay Leaked Footage. Credits to @MystxcLeaks and @t1j8r,,FortNiteBR
+368,Quantum-Moron,1534071798,96ofoc,14,/r/FortNiteBR/comments/96ofoc/am_i_the_only_one_who_prefers_less_battle_pass/,11,Am I the only one who prefers less Battle Pass Tiers but more difficult to obtain instead of hundreds of useless emotes?,"I mean, this season's Battle Pass could do just fine with 55 Tiers. Instead, I am getting like 30 other emotes and graffitis I'm never gonna use.
+
+How about a season with 50 Tiers of exp bonuses, dances, pickaxes, backblings, gliders and skins(maybe banner icons too)?  ",FortNiteBR
+369,VenomLegend,1534070864,96odeu,21,/r/FortNiteBR/comments/96odeu/help_please_problem_on_my_game/,5,help please problem on my game,"hi guys,
+
+i'm venomlegend soo my problem is that when i play fortnite my fav game like it has no sound on it, i hear nothing literally nothing i can only hear my team mates (voice chat) that's it tryied everything... like going to color blind desactivate nothing like veryfing the game nothing nothing works plz help
+
+thanks guyzzz in advance",FortNiteBR
+370,DarkSavitar,1534070255,96obxy,23,/r/FortNiteBR/comments/96obxy/i_recently_drew_the_omega_skin_took_me_agea_but_i/,174,"I recently drew the Omega skin, took me agea but I was finally able to complete it!",,FortNiteBR
+371,boucheronbabyboy,1534070079,96objy,39,/r/FortNiteBR/comments/96objy/we_need_your_help_rfortnitebr/,262,We need your help r/FortNiteBR," the Stw Sub needs your help because epic doesn’t care about us stw players at all. Missions and rewards are bugged, birthday specials were bugged too where players grinded their asses off for hours only to receive a sneaky edit on a reddit post  by epic to make the fault look it was just us lacking reading comprehension. You cannot progress in stw right now and epic does not even care to notify players ingame leading to Players wasting 20 minutes of farming.  It’s so frustrating. Paying 20/40$ for a game that doesn’t even work.  Since epic does not visit our sub often we need you guys to help us out to get their attention. Otherwise we have to wait 2 weeks for the next patch only to give us the next bugs. 
+
+Take a look at our subreddit to see whats going on. Thank you guys!",FortNiteBR
+372,Mr_Wood1440_,1534069937,96ob5w,24,/r/FortNiteBR/comments/96ob5w/anyone_know_how_to_practise_gunfights_mainly_ars/,2,Anyone Know How To Practise Gunfights? Mainly AR's and Shotguns?,"My best idea is Tilted, but if you have any better idea it would be appreciated!",FortNiteBR
+373,BL4CKL0DGE,1534069827,96oaxp,12,/r/FortNiteBR/comments/96oaxp/what_does_the_fortnitebr_community_think_about/,3,What does the /FortNiteBR community think about the new ADS camera angle?,"I’m honestly just curious about what everyone thinks. Have seen a number of arguments regarding it, and already understand the merits of both post a pre patch, just want to know which one you guys prefer and if you like it. 
+
+I personally hate it, and think that it makes any sort of peeking out of a ramp/wall structure a lot less viable. I also think that in. The competitive scene this has led to even more turtling and campy builds/boxing and taking right peek shots now, since the right peek off of a build seems to offer a more favorable angle. 
+
+Imo dying to or getting hit by the small percentage of the community taking advantage of the ghost peek was preferable to having such a jacked up camera angle, with so much of the character blocking field of view, and so much of your players body exposed before you can shoot past your ramp. ",FortNiteBR
+374,JammyJamFam,1534069661,96oakh,14,/r/FortNiteBR/comments/96oakh/we_all_want_this_skin/,6,We all want this skin,,FortNiteBR
+375,Shashank_Narayan,1534069607,96oafy,97,/r/FortNiteBR/comments/96oafy/somebody_please_tell_what_is_going_on/,1162,Somebody please tell what is going on,,FortNiteBR
+376,Niccorazi-,1534069392,96o9xw,33,/r/FortNiteBR/comments/96o9xw/hey_where_we_goin/,1184,"Hey, where we goin?",,FortNiteBR
+377,ILikeBigBooties13,1534069096,96o98q,28,/r/FortNiteBR/comments/96o98q/will_nog_ops_ever_comeback_to_the_store/,1,Will Nog Ops ever comeback to the store?,I actually like the Nog Ops but sadly don’t have it... you guys think it will ever comeback ,FortNiteBR
+378,Somreyy,1534069041,96o94w,51,/r/FortNiteBR/comments/96o94w/footage_of_new_heavy_sniper_wtfortnite/,78,Footage of new heavy sniper! @wtfortnite,,FortNiteBR
+379,MalakiUK,1534068702,96o8bv,19,/r/FortNiteBR/comments/96o8bv/proud_of_this_considering_i_dont_build/,1,Proud of this. considering i dont build,,FortNiteBR
+380,oanamous,1534068572,96o808,15,/r/FortNiteBR/comments/96o808/bush_buff/,3,Bush Buff,make it so that the bush acts as a temporary shield and you would take damage or take less damage for a few hits until the bush gets destroyed,FortNiteBR
+381,Masterfirret124,1534068400,96o7kk,42,/r/FortNiteBR/comments/96o7kk/when_assault_trooper_comes_out_this_is_gonna_be/,23,When assault trooper comes out this is gonna be my permanent set up... if she ever does ):,,FortNiteBR
+382,Ninjarro,1534067651,96o5q9,20,/r/FortNiteBR/comments/96o5q9/enough_is_enough_epic_the_minigun_needs_a_cooldown/,0,"Enough is Enough. Epic, the minigun NEEDS a cooldown",,FortNiteBR
+383,alextunisian,1534067518,96o5eu,16,/r/FortNiteBR/comments/96o5eu/fortnite_android/,2,Fortnite android,"Was any body on non android phone able to (officially) play? I have a mate 10 pro received an invitation email but get the ""get in the invitation list"" everytime i login and i have been trying it the whole morning. Is this a problem or is it just still not available for no samsung phones? ",FortNiteBR
+384,Dacotarising,1534067346,96o51g,17,/r/FortNiteBR/comments/96o51g/switching_from_console_to_pc_experience/,12,Switching from Console to PC (Experience),"So 3 days ago I purchased a gaming PC out of frustration over the lame console frame rate and the inaccuracy with the analogue. So below I've listed things I've encountered during making the switch for anyone who's thinking the same.
+
+Pros
+
+1) OMFG the frame rate is phenomenal and graphics also too.
+2) games are soooo cheap on Steam. Just got PubG for £6.
+3) I'm 32 years old and always felt like a large majority of the console community are children. So meeting adult gamers is so cool and most of them are respectable.
+4) The modding opportunities are endless.
+5) STW no longer crashes.
+6) No more monthly subscriptions.
+ 
+Cons
+
+1) learning the mouse and keyboard is like learning from scratch, I'm hopeless with WASD.(tips anyone?)
+2) Waving goodbye to my console friends.
+3) My PC takes about 2-3 minutes to boot up.
+
+All in all I LOVE my new gaming PC, I feel like a proper gamer now even if I can't get a kill. I told myself if console prices exceed £400 I'm switching to PC because why would I want a platform that I can't upgrade over time and for the same price I can get a PC.
+
+I definitely recommend switching to PC if you have the ability, it's been so eye opening and wouldn't go back to console if you payed me. The biggest difference is easily the frame rate and graphics, after 3 days of playing I'm still shocked when I boot it up every morning.
+
+Thanks for reading 👍
+
+
+",FortNiteBR
+385,abellow101,1534067051,96o4eb,15,/r/FortNiteBR/comments/96o4eb/how_to_make_fortnite_short_films/,1,How to make Fortnite Short Films,"How do I make a short film on Fortnite,I dont understand how to do all the angle stuff. Im on xbox",FortNiteBR
+386,csWolff,1534066951,96o46y,11,/r/FortNiteBR/comments/96o46y/fortnite_now_available_for_other_than_samsung/,5,Fortnite now available for other than Samsung devices!,"Samsung exclusivity seems to have ended, installing Fortnite on my Honor 10 right now! ",FortNiteBR
+387,spaceman3600,1534066789,96o3tx,11,/r/FortNiteBR/comments/96o3tx/how_can_you_fix_the_fortnite_was_not_started/,1,"How can you fix the ""fortnite was not started correctly and needs to be closed"" error? I have to restart my pc every time I try to launch",,FortNiteBR
+388,SugarUnicorns,1534066322,96o2qf,15,/r/FortNiteBR/comments/96o2qf/am_i_going_to_get_banned/,0,am I going to get banned,I was in playground and these kids reported me for not having a build game with them,FortNiteBR
+389,dopout,1534065990,96o1ze,18,/r/FortNiteBR/comments/96o1ze/1x1_instantly_built_a_whole_tile_to_the_side_of/,1,1x1 INSTANTLY built a whole tile to the side of player. Legit?,,FortNiteBR
+390,TheMewZe,1534064811,96nz4a,33,/r/FortNiteBR/comments/96nz4a/the_weapon_that_has_needed_the_most_buffing_since/,0,The weapon that has needed the most buffing since day 1... why does nobody talk about it?,,FortNiteBR
+391,Sswoppin,1534063289,96nvg2,89,/r/FortNiteBR/comments/96nvg2/ingame_look_at_the_heavy_sniper_rifle_spoiler/,92,Ingame look at the Heavy Sniper Rifle SPOILER,,FortNiteBR
+392,Roozy1999,1534062670,96nu02,20,/r/FortNiteBR/comments/96nu02/fortnite_lags_on_my_laptop_while_some_other_games/,1,"Fortnite lags on my laptop, while some other games are working indeed fine.","Hello. Just wanted to say that I still have problems with the game as well.
+
+The problem was Fortnite was lagging very bad on my laptop, so I decided to go find a patch for fixing lag spikes. But they didn't work, and it still has lag spikes everywhere.
+
+Some games like Amnesia The Dark Descent (with texture filters Trilinear, Anisotropy settings x16, and bloom on), and the old 2007 game Sumotori Dreams (I'm pretty sure you've never heard about that game, but okay) works at about 60fps uncapped (however almost both games go in around 50-40fps, but that's fine).
+
+The laptop type is Dell Latitude E6420.
+
+And the internet connection is also the problem that I'm getting lagged out of the game.
+
+Here are the specs:
+
+GPU: Intel HD 3000
+
+CPU: i5-2520M 2.50Ghz
+
+RAM: 8 GB
+
+Sincerely, Roozy.",FortNiteBR
+393,DeactivateYourAcc,1534062591,96nttb,51,/r/FortNiteBR/comments/96nttb/what_could_i_have_done_better/,0,What Could I have Done Better?,"Aim for the head with my shotgun
+- Oh wait, green pumps some how do 90 damage to the head point blank. Shotguns are trash.
+
+Aim better with my AR
+- Oh wait, long range AR vs AR fights boil down to who gets the less shittier end of bloom. Complete random bullet pattern spray fest. Bloom makes for a competitive eSport, especially as a Battle Royale game! &gt;:)
+
+Just build better I guess
+- Oh wait, they phased through my builds lol. So much for that. I guess I just have to turbo build faster next time like every other player in this game..
+
+Well I could have positioned myself better
+- Lol, 3rd partied btw from every angle.
+
+Maybe I should just stop playing solo squads and go to solo's
+- Good idea, getting sprayed by 4 people with drum guns, P90s, ARs and explosives isn't very fun. 
+
+Maybe I should make sure I'm on my correct server region
+- OH wait, I am. Epic Games only has 8+ billion in revenue / net worth and still hasn't implemented central servers in their game. 
+
+
+Maybe this game is just broken and trash. &gt;:)
+
+
+How do kids enjoy swinging a pick axe gathering materials for 15-20 minutes and killing a few people every game.. fun? ?XD 
+
+Fortnite!!!!!! Support your streamers who put on a fake persona for your money. Support Epic Games who releases over priced skins, feeds off your money and releases game breaking buggy patches every other week. Fortnite worth over 2 billion, still in Early Access btw. ?XD 
+
+Sheep kids.",FortNiteBR
+394,RunDavid,1534061803,96nrwf,22,/r/FortNiteBR/comments/96nrwf/tomato_head_coming_back/,4,Tomato head coming back?,,FortNiteBR
+395,Sharkyslayer,1534061069,96nq1z,75,/r/FortNiteBR/comments/96nq1z/jonesy_timeline/,1593,Jonesy timeline.,,FortNiteBR
+396,troncrash7,1534060973,96npt6,15,/r/FortNiteBR/comments/96npt6/does_anyone_know_when_the_cape_physics_will_be/,8,does anyone know when the cape physics will be reactivated?,"i read that they disabled physics on certain skins  and capes (like drift stages 4 and 5 as well as skins like huntress, sleuth, etc) for a while to fix a bug that caused the game to crash with beef boss.
+Does anyone know more or less how long its going to take to fix? i got the drift stage 4 the day before the bug and haven't gotten a chance to actually play with it.",FortNiteBR
+397,Naresss_,1534060550,96nose,12,/r/FortNiteBR/comments/96nose/ninja_faces_john_wick/,114,Ninja Faces John Wick,,FortNiteBR
+398,m0nday_,1534060436,96noij,12,/r/FortNiteBR/comments/96noij/am_i_the_only_one_yet_to_receive_a_double_barrel/,1,Am I the only one yet to receive a Double Barrel from a chest?,"Like, seriously. This gun refuses to drop for me - only had it twice from killing people. Not even from a supply drop. ",FortNiteBR
+399,Snozeberries,1534060329,96no89,12,/r/FortNiteBR/comments/96no89/heavy_sniper_vs_player_leak_150_base_damage/,4,Heavy sniper vs player leak. 150 base damage,,FortNiteBR
+400,mightyplate,1534059973,96nnef,19,/r/FortNiteBR/comments/96nnef/what_if_the_cozy_campfire_prioritized_health_and/,33,What if the Cozy Campfire prioritized health and then shields like the slurp juice?,,FortNiteBR
+401,ilovephodou2,1534059714,96nmrd,11,/r/FortNiteBR/comments/96nmrd/veteran_fps_player_maneuvers_experience_matters/,2,Veteran FPS player maneuvers. Experience matters.,,FortNiteBR
+402,PM_ME_INTERNET_SCAMS,1534058622,96nk0o,48,/r/FortNiteBR/comments/96nk0o/the_culture_around_the_shop_in_a_nutshell/,624,The culture around the shop in a nutshell,"* New item gets released
+
+FortniteBR day 1: Meh I don't like it, I'll pass and make an annoying wallet is safe comment
+
+FortniteBR day 2: Why is this still in the shop lmao
+
+FortniteBR day 8: Hey, anyone got an idea of when the item is going to come back?
+
+FortniteBR day 11: No seriously when is it going to be back?
+
+FortniteBR day 17: Oh look not the item! Wallet is safe
+
+FortniteBR day 20: People start asking epic, as if they're going to tell you
+
+FortniteBR day 28: Let's ask u/CarlosTheCar!
+
+FortniteBR day 40: Seriously, when the fuck will it be back? I've been waiting for this forever!
+
+Epic on day 60: *Puts item in the shop again*
+
+FortniteBR: wHaT tHe fUcK iT'S noT rArE AnYmORe ePic, i'M SuINg. oNly OG's sHouLd hAvE iT
+",FortNiteBR
+403,PeaceRex,1534058407,96nji8,11,/r/FortNiteBR/comments/96nji8/which_shotgun_is_left_to_use/,1,Which shotgun is left to use!!!?,I am getting clear 12 headshots and no shoutgun can help with that.Pump used to give 237 headshot last season! What is this!I aint a fan of Spamming p90.I wanna hit that perfect shot but now I gotta do it 4 times.,FortNiteBR
+404,XxSledge,1534057794,96nhvs,12,/r/FortNiteBR/comments/96nhvs/i_neeed_help_please/,0,I neeed help please,So I play battle Royale on my pc but I play save the world on my PS4 cause my pc is gonna be sold and I wanted to see how can I get all of my skins from pc to PS4 and I know that you can just link the account on the epic account but can’t you get banned for that ? Please I need help ,FortNiteBR
+405,FruFruLOL,1534057679,96nhj0,19,/r/FortNiteBR/comments/96nhj0/increased_material_farming_every_storm_shrink/,5,Increased material farming every storm shrink,"Full credit for this idea goes out to u/VexVort  
+Just gonna copy/paste his idea here.  
+&gt;I had the idea that per storm shrink material gain from gathering could go up maybe 5% per new circle or something so that towards the end of the game the less you have time to farm the faster you can get the resources. I think something like this would work best so that early game isn’t just instantly loaded with mats. I really feel like a increase mat gain as the game progresses would possible make you spend less time getting loads of mats of the start and then have a huge advantage over other that have had to use their resources in build battles. Lmk your opinions I really think is could be a good way to fix the current mat problem or make it less of a problem",FortNiteBR
+406,Daeqotaz,1534057260,96ngfo,13,/r/FortNiteBR/comments/96ngfo/when_i_play_fortnite_i_sweat_alot/,3,When I play Fortnite I sweat ALOT,"Yeah, you read the title right but I’m sure a few of you relate. I play Fortnite on PS4 and I am an above average player but this problem just decreases my ability to build and aim as best as I can and I’m just wondering if anyone has some tips for me. Before you go commenting this, no this isn’t a case of me being a sweaty try hard this like literally happens to me 5 minutes into picking up my controller when I am just looting a building or something but in build battles it gets really bad. Any tips for this problem would be greatly appreciated, thanks for reading!",FortNiteBR
+407,Weefboi,1534057088,96nfyw,11,/r/FortNiteBR/comments/96nfyw/just_wondering/,1,Just Wondering,"So I play about 30-40 games a day of fortnite every day and about 5-8 of those games I find a llama, just me ?",FortNiteBR
+408,vaillllllllex,1534056377,96ne35,19,/r/FortNiteBR/comments/96ne35/on_august_the_15th_assault_trooper_will_come_back/,0,On August the 15th Assault Trooper will come back. On the 16th Batsickle will come back. Save this post and check it.,Don’t believe me? I use a secret method to predict future item shops. DM me if you want to know more future item shops. Screenshot this post or save it and check on the 15th. Save your v bucks. ,FortNiteBR
+409,GGX_ArtSpecialist,1534055767,96nchd,28,/r/FortNiteBR/comments/96nchd/uninstalled/,0,Uninstalled,"Spray META, 250 damage sniper shots, explosions, camping, 7 - 30 damage shotgun shots, Tommy gun doing 25 - 50 damage a bullet. Let me know when the skill gap is back.",FortNiteBR
+410,Shelltanium,1534055314,96nb8u,18,/r/FortNiteBR/comments/96nb8u/out_for_a_ride/,577,Out for a Ride,,FortNiteBR
+411,omdalvii,1534054811,96n9we,23,/r/FortNiteBR/comments/96n9we/til_the_sun_doesnt_give_off_any_heat/,375,TIL the sun doesn't give off any heat,,FortNiteBR
+412,LandR527,1534054526,96n93n,28,/r/FortNiteBR/comments/96n93n/pleasant_postmatch_discussion_that_my_squad_won/,35,Pleasant post-match discussion that my squad won. Love good-sports like this.,,FortNiteBR
+413,RareBlazes,1534054435,96n8uz,17,/r/FortNiteBR/comments/96n8uz/lets_admit_it_steady_storm_is_better_than_normal/,11,Lets admit it: Steady Storm is better than normal BR,"This is an opinion of mine and anyone is 100% entitled to disagree with my opinion, but Steady Storm feels like a better version of normals. It can start slow, but quickly escalates into fight after fight. I believe that the fact that not one knows exactly where the storm is going deters people from playing around the storm (i.e camping at the edges of the next circle).
+
+I'm sure not everyone would want this, but I'd like to see steady storm as a permanent game mode (much like how 50v50 has become). I'm not sure how this game would work for solos and duos (I can imagine they'd be worse), but for squads it works amazing.
+
+Just a week ago, my friends and I have diverted our attention from Fortnite BR to play other games because we've just lost interest in the BR playstyle. But lo and behold, Steady Storm came out, and we've been having a blast playing it every time. I think that the slow storm that applies slow pressure is better because it makes all places a viable location. What I mean by this is that no matter where you drop, you'll always be able to run towards the center, wherever that may be. In normals, you could drop junk junction and have an unlucky circle that ends in paradise. You could drop 6 kills, but ultimately die to the storm. The storm in normals doesn't apply that constant pressure of always closing in and players can forget about getting to the next circle. 
+
+With Steady Storm, the players can never be out paced and cheesed by the storm and can ALWAYS outrun it. I've yet to come across a scenario where I couldn't outrun the storm. Taking this cheese out of the game makes it very fun. As the circle gets smaller, there is, for reasons I can't think of, much more constant fighting. Without being able to know where storm is going, turtling and camping in buildings all of a sudden become highly discouraged. 
+
+Maybe the problem isn't the building or SMG or what not. Maybe it's the way the storms work.
+
+*TL;DR Steady Storm applies constant pressure and can no longer cheese people who drop at the outskirts. More skirmishes towards the end of the game. Storm discourages camping and encourages pushing and fighting others.*",FortNiteBR
+414,TheIcePheonix,1534054406,96n8rv,19,/r/FortNiteBR/comments/96n8rv/why_is_moto_g6_not_supported/,0,Why is moto g6 not supported,Why is Moto g6 not supported? And why are you not trying to make it compatible? It is one of the newer phones that came out this year that sold over 70 million copies? I saw that  you wanted to make Moto z2 compatible buy why not g6? One of the best rated phones on amazon!,FortNiteBR
+415,Ethan_5625,1534054210,96n882,16,/r/FortNiteBR/comments/96n882/noms_sign_wallpaper_should_i_make_more_wallpapers/,101,Noms sign wallpaper. Should I make more wallpapers like these?,,FortNiteBR
+416,Kirton178,1534053544,96n6by,12,/r/FortNiteBR/comments/96n6by/god_it_must_feel_so_good_to_kill_players_dropping/,4,"God, it must feel so good to kill players dropping to get challenges...","So I’ve been landing at Lazy Links to get my golf ball challenges done, I land at the tee off spot and I’m hitting golf balls constantly, but someone always has to start shooting immediately. Hope it’s worth the zero loot kill assholes!",FortNiteBR
+417,ThaRoastKing,1534052931,96n4ms,169,/r/FortNiteBR/comments/96n4ms/leaked_heavy_sniper_footage/,620,Leaked Heavy Sniper Footage,,FortNiteBR
+418,gyblan,1534052572,96n3n7,17,/r/FortNiteBR/comments/96n3n7/pyramid_ramps/,0,Pyramid ramps???,"It’s well into season 5 and I’m still seeing pyramid ramps like crazy. I don’t know how or why this technique is in the game. I know everyone is able to use it, but what is the point of having two sets of ramps. At the same time, I am not quite sure what epic can really do to stop the use of them. ",FortNiteBR
+419,YouCanCallMeToxic,1534052514,96n3gr,15,/r/FortNiteBR/comments/96n3gr/unpopular_opinion_i_prefer_the_guy_skins/,0,Unpopular Opinion: I prefer the guy skins.,"Why is it that it seems everyone enjoys the woman skins, and I've always preferred the guy skins, idk if it just sucks me into the game more or what.",FortNiteBR
+420,ethwal22,1534052476,96n3cy,19,/r/FortNiteBR/comments/96n3cy/please_not_everything_is_epics_fault_repost/,129,"Please, not everything is epic's fault. [repost]",,FortNiteBR
+421,awnawnamas,1534051854,96n1ly,12,/r/FortNiteBR/comments/96n1ly/assualt_trooper_or_scarlet_defender/,5,Assualt Trooper or Scarlet Defender?,"Since Assault Trooper was leaked to appear in the item shop, I'm debating on which one to buy. I love headhunter skins and these are both 800vbucks. ",FortNiteBR
+422,hydra877,1534051794,96n1fc,15,/r/FortNiteBR/comments/96n1fc/apparently_bringing_double_pump_back_is_becoming/,0,"Apparently, bringing double pump back is becoming a popular opinion","What do you guys think? And, all I can ask right now is: WHY?
+
+Personally, double pump completely removes any skill you have from using a pump shotgun. You SHOULD be penalized for missing with a pump, not bypass it by toggle switching some bind or macro to make you fire high damage shots with no low rate of fire penalty.
+
+Tbh, anyone that defends or wants double pump brought back wasn't good enough to one pump people consistently.",FortNiteBR
+423,Azaliak_,1534050789,96myeb,21,/r/FortNiteBR/comments/96myeb/way_too_enraged_to_make_an_accurate_title/,269,Way too enraged to make an accurate title,,FortNiteBR
+424,GMToaster,1534050673,96my2r,11,/r/FortNiteBR/comments/96my2r/ps4_pc_am_i_insane/,3,PS4 ==&gt; PC (Am I insane?),"I took the leap a year into the game and switched platforms!  Keybinds, sensitivity, gear... Anyone have any advice for me on how to improve fast.  It is hard to start back over but I am loving this game!",FortNiteBR
+425,muchawesomemyron,1534050666,96my2a,14,/r/FortNiteBR/comments/96my2a/something_seems_wrong_with_skins_that_have_a_skirt/,0,Something seems wrong with skins that have a skirt,,FortNiteBR
+426,Nik20021,1534050244,96mwon,13,/r/FortNiteBR/comments/96mwon/dance_choice/,1,Dance choice,What do u guys think is the best epic emote right now to buy?I already have electro shuffle should I go for fresh or boogie down?,FortNiteBR
+427,PoignantPizza,1534049811,96mvak,12,/r/FortNiteBR/comments/96mvak/epic_please_add_a_pizza_glider_for_tomato_head/,4,"EPIC, please add a pizza glider for Tomato Head","Sucks that beef boss gets a dope glider, but tomato head didn't (although he did get the better pickaxe).
+
+Just have a pizza box deploy a big pizza parachute like in SpongeBob. Make it epic rarity. That's all we ask! ",FortNiteBR
+428,Heriosu,1534049534,96mufq,254,/r/FortNiteBR/comments/96mufq/knocked_down_a_player_and_decided_to_let_him_live/,5562,"Knocked down a player and decided to let him live, also gave him a Jug chug. He did the same thing by letting me live and giving me a med-kit.",,FortNiteBR
+429,ajphillips96,1534048039,96mpjs,14,/r/FortNiteBR/comments/96mpjs/got_my_first_bit_of_fan_mail_today_lol/,9,Got my first bit of fan mail today lol,,FortNiteBR
+430,WussPoppinJimbo2,1534047543,96mnta,16,/r/FortNiteBR/comments/96mnta/fnbrleaks_on_twitter_said_this_is_how_the_rift/,22,FNBRLeaks on twitter said this is how the rift will be on August 18 3 days before its complety gone,,FortNiteBR
+431,HeinrichAdolf,1534047516,96mnqq,12,/r/FortNiteBR/comments/96mnqq/what_just_happened/,0,What just happened?,"All four of my squads game lagged out into a connection timeout. After about two minutes of 1100 ping and the game being frozen, we got unfrozen with 24 people left: there was 80 left when it I
+Unfroze. In addition, the storm was moving while we lagged, but when we were back it was how it was before, along with the storm timer going back to what it was before the lag kicked in. Did anyone else experience this?",FortNiteBR
+432,realDuzzie,1534047461,96mnki,20,/r/FortNiteBR/comments/96mnki/6_layer_ramp_rush_on_mobile_progress_double_tfue/,3,6 layer ramp rush on mobile progress (double tfue rush)// yt; FroGzY Duzzie,,FortNiteBR
+433,aomo,1534047367,96mn9j,13,/r/FortNiteBR/comments/96mn9j/new_season_6_lobby_background/,44,nEW sEaSoN 6 loBBy BaCkgROund,,FortNiteBR
+434,AmadeusCrumb,1534047076,96mmat,19,/r/FortNiteBR/comments/96mmat/how_would_you_rank_the_default_skins_in_your/,3,How would you rank the default skins in your opinions? (and what metrics are you using to decide?),"List the default skins... give them names if you want, but be sure we know to whom you're referring.  And tell us why you ordered them the way you did.  Thanks!",FortNiteBR
+435,Tarienx,1534046798,96mlbb,75,/r/FortNiteBR/comments/96mlbb/spray_and_pray/,2529,Spray and Pray,,FortNiteBR
+436,BlueBallistic1,1534046551,96mkfm,22,/r/FortNiteBR/comments/96mkfm/your_preferred_loadouts/,1,Your preferred loadouts,"Personally I run drum gun, SMG/P90, pump or heavy, splodes or sniper, then minis.",FortNiteBR
+437,colbywill27,1534045933,96mib8,19,/r/FortNiteBR/comments/96mib8/unpopular_opinion_pumps_should_not_one_tap/,0,Unpopular Opinion: Pumps should not one tap,"I hated the fact that pumps could one tap from the moment I’ve played it. It was very unrewarding to get screwed over chest after chest just to get full shield, just for a noob to turn around and 1 shot you. I felt it wasn’t that much skill, and more rng, as most of the time it doesn’t even hit 200+. I hope epic never brings it back, as there are other ways to make the pump viable again. Take out delay, bring back double shotty, make initial damage higher with lower headshot multiplier, etc..",FortNiteBR
+438,corey_cobra_kid,1534045915,96mi9c,43,/r/FortNiteBR/comments/96mi9c/so_this_instagram_account_just_stole_my_image/,270,So this Instagram account just stole my image,,FortNiteBR
+439,AutisticBluBerry,1534045801,96mhuc,16,/r/FortNiteBR/comments/96mhuc/first_thing_i_thought_when_seeing_this/,35,First thing I thought when seeing this,,FortNiteBR
+440,Yogsther,1534045716,96mhjr,20,/r/FortNiteBR/comments/96mhjr/fn_rate_timeline_update_see_rating_history/,23,"FN Rate ""Timeline"" update, see rating history.",,FortNiteBR
+441,Niccorazi-,1534045536,96mgy2,33,/r/FortNiteBR/comments/96mgy2/i_played_a_hole_of_golf_with_a_random_john_wick/,986,I played a hole of golf with a random John Wick instead of fighting,,FortNiteBR
+442,repfam99,1534045499,96mgts,12,/r/FortNiteBR/comments/96mgts/am_i_a_cool_kid_yet/,3,Am I a cool kid yet?,,FortNiteBR
+443,SugarUnicorns,1534045499,96mgtq,23,/r/FortNiteBR/comments/96mgtq/this_has_to_be_the_best_headhunter_skin_there_is/,12,This has to be the best headhunter skin there is,,FortNiteBR
+444,S2JT,1534045207,96mfsv,12,/r/FortNiteBR/comments/96mfsv/is_it_just_me_or_is_the_headhunter_character/,23,Is it just me or is the headhunter character model cross-eyed?,,FortNiteBR
+445,seth1299,1534045163,96mfno,27,/r/FortNiteBR/comments/96mfno/what_are_the_best_feelings_in_the_game_to_you_guys/,4,What are the best feelings in the game to you guys?,"For me, it’s seeing a teammate in 50v50
+Taunt at you and laugh while you’re downed then they get downed right before you bleed out.
+
+It’s very satisfying.",FortNiteBR
+446,yeanayea,1534045153,96mfmb,14,/r/FortNiteBR/comments/96mfmb/in_game_crown_for_highest_eliminations/,48,"In game ""crown"" for highest eliminations","The character with the most eliminations in the lobby wears a gold crown until another player ""steals the crown"" by getting more kills. If you win with the crown you get a decent xp bonus (1000? 2000? 5000?) (incentive to go for higher kills)",FortNiteBR
+447,DictatorShadow,1534045012,96mf3c,174,/r/FortNiteBR/comments/96mf3c/reminder_mythic_weapons_were_a_rarity_in_br_maybe/,2388,"Reminder: Mythic weapons were a rarity in BR, maybe one day we'll get another one",,FortNiteBR
+448,DeMVP_DeMar,1534045008,96mf2n,18,/r/FortNiteBR/comments/96mf2n/can_i_use_a_mouse_and_keyboard_on_xbox_to_play/,0,Can I use a mouse and keyboard on XBox to play fortnite?,"I haven't played the game for weeks now, because my computer was a piece of garbage and would constantly lagged and etc... I've gotten used to using a mouse and keyboard, so I ordered an Xbox to play with while using my keyboard. I've hooked it up and I'm not able to use it.
+
+Is there a way to do this or will I have to learn a whole new system?
+
+thanks in advance",FortNiteBR
+449,MartyParty12x,1534044568,96mdji,12,/r/FortNiteBR/comments/96mdji/uhhhh_my_jackets_broken/,0,Uhhhh.... My Jackets Broken,,FortNiteBR
+450,DictatorShadow,1534044103,96mbyn,11,/r/FortNiteBR/comments/96mbyn/i_could_snap_my_fingers_and_youd_all_cease_to/,68,"""I could snap my fingers, and you'd all cease to exist""",,FortNiteBR
+451,Toebey,1534043884,96mb83,11,/r/FortNiteBR/comments/96mb83/does_anybody_have_a_photo_of_tomato_head_with/,1,Does anybody have a photo of tomato head with rift edge?,I would like to see if the rift edge pick axe goes well with the tomato head skin because I can’t afford the pizza cutter pick axe.,FortNiteBR
+452,OnTheNightly,1534042898,96m7ms,29,/r/FortNiteBR/comments/96m7ms/i_could_have_possibly_stumbled_upon_the_road_trip/,7,I could have possibly stumbled upon the Road Trip skin and season 5 info.,,FortNiteBR
+453,SebbyTV,1534042499,96m65s,30,/r/FortNiteBR/comments/96m65s/bmingthirsting_problem/,1,Bming/Thirsting Problem,"Yes I know this is stupid and the common reply from some dumb\*\*\* will just be ""dont die and git gud"" but its really annoying when youre having fun playing duos/squads and you get downed and the opponent IMMEDIATELY kills you. Even if your alive teammate is fighting him, they will go out of their way to just ruin your fun. Can EPIC please add something where when you are in DBNO state, you can't be hit for another 10-15 seconds?",FortNiteBR
+454,soMbadGG,1534042292,96m5ga,19,/r/FortNiteBR/comments/96m5ga/fortmate_app_is_this_overwolf_app_legit_am_i/,3,"FORTMATE app. Is this overwolf app legit, am i allowed to use it?",,FortNiteBR
+455,dodecapotamus,1534042079,96m4o2,371,/r/FortNiteBR/comments/96m4o2/if_you_stream_fortnite_with_a_stretched/,1765,"If you stream Fortnite with a stretched resolution, please follow this single piece of advice.",,FortNiteBR
+456,corey_cobra_kid,1534041643,96m33t,11,/r/FortNiteBR/comments/96m33t/omg_its_drake_lmao/,6,OMG it's Drake lmao,,FortNiteBR
+457,Validatorian,1534041484,96m2j3,16,/r/FortNiteBR/comments/96m2j3/bug_unable_to_open_fortnite_since_mystery_update/,3,[BUG] Unable to open fortnite since mystery update.,,FortNiteBR
+458,Ninebreaker420,1534041457,96m2g5,12,/r/FortNiteBR/comments/96m2g5/just_a_question/,2,Just a Question....,"When getting to the last 30-10 players, i start to feel major anxiety and stress, and thats what kills me in-game. and after getting off, i start seeing things moving, like tiny things moving on my table. can someone tell me whats the best solution for this problem?",FortNiteBR
+459,NonaBona,1534040750,96lzt4,33,/r/FortNiteBR/comments/96lzt4/now_that_we_have_desert_areas_can_we_get/,214,"Now that we have desert areas, can we get gunslinger characters? Here's my concept.",,FortNiteBR
+460,Username460,1534040509,96lyw2,12,/r/FortNiteBR/comments/96lyw2/question_about_usernames/,3,Question about usernames,So I was watching Landon’s new video with happy power and happy power changed his name to ninja and some other cool usernames. I was wondering how does he do it?,FortNiteBR
+461,Phyc0delic,1534040230,96lxwq,12,/r/FortNiteBR/comments/96lxwq/backbling_problem/,0,Backbling Problem,"So, I was recently thinking about all the skins I like in Fortnite. Something came up when I thought about this. I realized all the skins I like have shitty backblings or no backbling. This is my opinion and I also don't want to come off annoying but I made a list of these instances.
+
+1. Aerobic Assassin 
+
+2. Funk Ops
+
+3. Archetype
+
+4. Noir
+
+5. Burnout
+
+6. Toxic Trooper
+
+7. Ghoul Trooper
+
+8. Rapscallion
+
+9. Shade
+
+10. Raptor
+
+These are again my opinion and if some of the people in this post with no backbling get one, don't complain about. Also my first Reddit post!
+
+",FortNiteBR
+462,cbd2103,1534039834,96lwe5,108,/r/FortNiteBR/comments/96lwe5/beef_boss_and_tomato_man_meetup/,391,Beef Boss and Tomato Man Meetup!,,FortNiteBR
+463,Vercyx,1534039582,96lvdc,13,/r/FortNiteBR/comments/96lvdc/posted_this_right_when_season_5_was_released_and/,63,"Posted this right when season 5 was released and it got removed, hoping for the best on this one. Thanks you Epic, Lazy Links!",,FortNiteBR
+464,astroworld44,1534039449,96luvj,39,/r/FortNiteBR/comments/96luvj/damn/,997,Damn,,FortNiteBR
+465,chrisasst,1534039318,96ludi,21,/r/FortNiteBR/comments/96ludi/silenced_ar_and_sniper/,0,Silenced AR and sniper,"Aren’t we way over due for a silenced AR or sniper? Why would these not be in the game yet? 
+",FortNiteBR
+466,ZietsyYT,1534039242,96lu2r,13,/r/FortNiteBR/comments/96lu2r/my_problem_with_battle_royale/,2,My Problem with Battle Royale,"I have been playing BR on PS4 since launch and have loved the game ever since my first win. Even though I do love the game I feel like it isn’t nearly as fun as it was in S3 or S2. One of the biggest reasons for this in my opinion is the games disappearing skill gap. In season 3 I had around 300 wins and I was consistently getting 15+ kill games and a good amount of 20+, and the last time I had a 20+ kill game was midway through season 4. The game is becoming easier and easier for the casual players with new guns like the Drum gun and the compact smg. I’ve found it harder and harder to have those clutch moments and it really disappoints me. I used to have hours of fun on this game alone or with friends and now it seems like I really only enjoy Playground and Save the World :/",FortNiteBR
+467,colbywill27,1534039199,96ltx5,19,/r/FortNiteBR/comments/96ltx5/10_minis_or_2_slurps/,3,10 minis or 2 slurps?,"Curious, as slurps are very strong, but you can only hold 2. Lmk what you carry in your loadout and why. Want to know the best med to carry",FortNiteBR
+468,BlockyMiner,1534038736,96ls79,13,/r/FortNiteBR/comments/96ls79/my_suggestion/,0,My Suggestion,,FortNiteBR
+469,Millkshakes,1534038546,96lrgh,14,/r/FortNiteBR/comments/96lrgh/this_is_what_you_call_nightmare_fuel/,40,This is what you call nightmare fuel,,FortNiteBR
+470,Swizzle00719,1534038476,96lr72,30,/r/FortNiteBR/comments/96lr72/the_complete_switch_in_viewer_count_is_insane/,69,The complete switch in viewer count is insane,,FortNiteBR
+471,GetCPA,1534038235,96lq8m,30,/r/FortNiteBR/comments/96lq8m/grace_period_between_knock_and_finish/,0,Grace period between knock and finish.,"Right now playing squads is unbelievably toxic. The amount of players that just want to thirst your downed teammates is pathetic. I understand finishing downed players, but going out of your way to finish someone while you’re in a fight/being shot at is disgusting. 
+
+I suggest a 5-10 second grace period between knock and finish. Maybe not a perfect recommendation but imo something should be done. ",FortNiteBR
+472,Ravenbaguio,1534038150,96lpx7,30,/r/FortNiteBR/comments/96lpx7/i_was_practicing_some_bouncer_tricks_and_this/,509,I was practicing some bouncer tricks and this happened,,FortNiteBR
+473,Entity001,1534037794,96lojs,24,/r/FortNiteBR/comments/96lojs/switching_from_ps4_to_xbox_is_my_epic_account/,2,"Switching from PS4 to Xbox, is my epic account fucked?","Had black knight, sparkle specialist, complete season 2-5 battle pass. Is this account non transferable?",FortNiteBR
+474,Shlaboza,1534037711,96lo8j,23,/r/FortNiteBR/comments/96lo8j/vector_drawing_of_archetype/,259,Vector Drawing of Archetype,,FortNiteBR
+475,MrZooManX,1534037237,96lmi2,13,/r/FortNiteBR/comments/96lmi2/this_tweet_requesting_middle_east_servers_got_41k/,2,This tweet requesting Middle east servers got 41k retweets and 31k likes,,FortNiteBR
+476,ThaRoastKing,1534036844,96lkz0,13,/r/FortNiteBR/comments/96lkz0/he_called_it_tho/,139,He called it tho,,FortNiteBR
+477,malhammers,1534036223,96lilx,39,/r/FortNiteBR/comments/96lilx/currently_downloading_fortnite_at_verizon_to_get/,0,Currently downloading Fortnite at Verizon to get the skin,,FortNiteBR
+478,cnote54321,1534036087,96li1n,52,/r/FortNiteBR/comments/96li1n/a_screenshot_my_cousin_took_back_in_season_3_it/,400,A screenshot my cousin took back in Season 3. It looks like his soul left his body.,,FortNiteBR
+479,claytonf2,1534035955,96lhjp,12,/r/FortNiteBR/comments/96lhjp/stretched_streamers/,0,Stretched streamers,"Are the streamers streaming with stretched gameplay playing like that because they prioritize their gameplay over money (good) or because they prioritize their gameplay over their viewers (bad)?
+
+pls dscus",FortNiteBR
+480,Warlock9510,1534035775,96lguv,16,/r/FortNiteBR/comments/96lguv/unpopular_opinion_tsm_daequan_is_wrong_about/,0,[UNPOPULAR OPINION] TSM_Daequan is WRONG about Reddit.,"Before you read, this post is very long. 
+
+In a previous stream, TSM_Daequan said that the devs need to interact more with the community. I agree with this statement. But, he said that Reddit ruined the game. While this may seem true to a degree, I feel like this statement neglects some facts. Please note: I am in no way an enemy of Daequan. I’m a two month subscriber to him.
+
+Fact 1: Reddit can give a voice to the voiceless. 
+
+Reddit can give the power to reach hundreds of thousands of people in a matter of minutes. With power like that, huge issues and current ones can be solved by typing a post and clicking post. That way, Epic Games developers can notice a problem and start working on a way to fix it. The reason they don’t seem to acknowledge the fact that some bugs exist, may be due to the fact that previous posts have been made, or after an update, they realize too late that problems have been created. So, they start working on a fix. While it would be nice to hear updates constantly, that may just be unable to happen. 
+
+Fact 2: Reddit is a gold mine for finding game-breaking bugs and other things that even the developers might not have noticed. 
+
+This subreddit gets posted to constantly. People find bugs and can post it here, and boom. It can be fixed fast, or slow. We just have to be patient. These bugs can be so game breaking and could go under the radar completely without being noticed, but thanks to Reddit, it can be shared and noticed. 
+
+Counter-argument: Reddit bitches too much 
+
+Sure. I can agree that a lot of people complain about things too much. So much so, that epic over fixes an issue because of the mass amounts of complaints. This can cause more issues and that’s why I think Daequan made this statement. This subreddit can be so powerful, it can make issues worse by complaining so much that Epic has no choice but to rush to fix the issue, causing more issues. This can be fixed as long as people can stop over posting an issue to the point where it seems like an issue that needs to be patched ASAP. For example, people that complain about more bugs that are caused after a patch need to realize that the only way it can be fixed properly is to calm down and wait for the issue to be fixed properly. 
+
+I hope some of you can agree with what I had to say, and I would love to see some more discussion and criticisms about what I said in the comments. ",FortNiteBR
+481,Mr-Mee666,1534035452,96lfms,11,/r/FortNiteBR/comments/96lfms/pros_of_fortnite_help/,3,"Pros of fortnite, help","Recently I have started getting worse at fortnite, my games usually have me in the 30-40 area with 1-4 kills, any of you pros have any tips to make me get a higher spot/victory royale ",FortNiteBR
+482,imapotato03,1534035117,96ledt,15,/r/FortNiteBR/comments/96ledt/clay_pidegons/,6,Clay pidegons,Is anyone else havknf trouble with hitting clay pigeons Ive tried following all the tips and still cant manage to hit them,FortNiteBR
+483,Jacedrod2,1534034811,96ld76,32,/r/FortNiteBR/comments/96ld76/came_up_with_this_idea_and_my_friend_put_it/,154,Came up with this idea and my friend put it together. How do you all like it? Its the new overtaker backbling with arctic assassin,,FortNiteBR
+484,MasonIsSoFat,1534034467,96lbxb,75,/r/FortNiteBR/comments/96lbxb/they_put_yung_gravy_in_the_game/,962,they put yung gravy in the game,,FortNiteBR
+485,BurritoPlanet,1534034364,96lbir,101,/r/FortNiteBR/comments/96lbir/limited_time_charity_skin/,751,Limited time charity skin,"I think epic should add a skin/starter pack for like a week where all the proceeds go towards a cause or a charity. Many companies do this for things like (RED), or breast cancer awareness, etc. I think it would be a cool thing to have going on now that fort is a well-known game",FortNiteBR
+486,PM-Me_Your_Eyes,1534034300,96lba7,19,/r/FortNiteBR/comments/96lba7/add_the_tusken_raider_taunt_as_an_emote_shake/,82,Add the Tusken Raider taunt as an emote - shake your pickaxe to strike fear into the heart of your opponents.,,FortNiteBR
+487,-hilfigernoah-,1534034290,96lb84,16,/r/FortNiteBR/comments/96lb84/is_nitelite_worth_it/,0,Is nitelite worth it?,"I have 1,600 vbucks in my account and i’ve been waiting for assault trooper or tower recon specialist. But i don’t know if i should save up for both of them or get nitelite. thoughts?",FortNiteBR
+488,penpenbrady,1534034194,96lavc,32,/r/FortNiteBR/comments/96lavc/campers_are_awful/,0,Campers are awful.,"Campers are the worst in gaming. Let me just lay out a scenario for everyone. You're in a great match, you have a good amount of kills, and then you walk into a random house and then a stair camper just comes out as you're running down the stairs and destroys you. It's not a matter of skill, camping requires no skill",FortNiteBR
+489,AhmedTheOriginal,1534034118,96lakj,27,/r/FortNiteBR/comments/96lakj/blonde_dr_disrespect/,307,Blonde Dr disrespect,,FortNiteBR
+490,tonyL-101,1534033779,96l996,13,/r/FortNiteBR/comments/96l996/shotguns/,3,Shotguns,"What have they done to shotguns they are actually pathetic now I can shoot someone in the face with a pump from point blank range and by the time it takes you to shoot the next bullet you get mowed down instantly by a smg or drum gum. Especially the heavy shotgun, its actually GUMF purple and legendary shotgun and someone with a gray silenced smg can mow you down before yourve fired 2 shots this game has literally turned into just spraying at people. I dunno maybe im just salty af but im sure some people will agree that this pellet rubbish is trash.",FortNiteBR
+491,jonzilla2012,1534033496,96l86q,16,/r/FortNiteBR/comments/96l86q/the_worst_luck_with_bloom/,23,The worst luck with bloom,,FortNiteBR
+492,MrGreatPotato,1534033287,96l7do,448,/r/FortNiteBR/comments/96l7do/atk_course_i_worked_on_for_a_few_hours/,15439,ATK course I worked on for a few hours,,FortNiteBR
+493,Moosemaster21,1534033144,96l6u7,16,/r/FortNiteBR/comments/96l6u7/could_we_get_a_little_more_heads_up_about/,174,Could we get a little more heads up about non-weekly updates? I was going to use this replay from ~14hrs ago for a montage and now it's gone forever.,,FortNiteBR
+494,LaChase-Ball,1534032687,96l51s,19,/r/FortNiteBR/comments/96l51s/anybody_hate_wearing_a_halloween_christmas_or/,2,"Anybody hate wearing a Halloween, Christmas, or Season 1 skin etc. and you get danced on every time you die?",Every game I go into if I’m wearing one of those skins and I die I get danced on and I hate it,FortNiteBR
+495,lSkyJax,1534032687,96l51q,16,/r/FortNiteBR/comments/96l51q/anyone_else_scared_of_being_banned_for_no_reason/,0,Anyone else scared of being banned for no reason?,"To preface this, I have absolutely no reason to be banned. I've never hacked, scammed, bought an account, teamed in solo and I'm not ""too friendly with other players"". However, I feel like my fear is justified judging from all the people on the internet who claim that they've had their accounts banned for no reason. All you need to do is search it on YouTube and you'll find plenty of people who claim the same thing. Main reason I bring this up is because I came across a specific post from a good few months back on some forum website, and the guy who wrote it stated that he was banned for 'using VPN' after using his account on a different pc. This was probably some kind of auto ban feature which has been lifted by now but it weakens my trust for Epic especially since I'm planning on installing a new GPU and a new hdd/ssd. It makes me fear that if I install Fortnite on a fresh hard drive I'll be banned for no reason knowing my luck. Call me paranoid as hell but I really don't want to lose my time and investments on this game just because I wanted to upgrade my PC. Someone please reassure me :(",FortNiteBR
+496,Azaliak_,1534032403,96l3xx,13,/r/FortNiteBR/comments/96l3xx/if_everyone_in_50v50_ramprushed/,92,If everyone in 50v50 ramp-rushed,,FortNiteBR
+497,Phonix666,1534032306,96l3lx,13,/r/FortNiteBR/comments/96l3lx/fnbrleaks_just_predictedor_leaked_the_shop/,0,@FNBRleaks just predicted(or leaked) the shop,,FortNiteBR
+498,BDPeck5,1534032168,96l32t,42,/r/FortNiteBR/comments/96l32t/where_is_state_of_development_v6/,540,Where is State of Development v6?,The last one came out about this time last season? They always build some sort of hype and can't wait for the next one to come out.,FortNiteBR
+499,xIanxWright,1534032141,96l2yx,132,/r/FortNiteBR/comments/96l2yx/fnbrleaks_have_found_a_new_method_to_find_out/,661,"FNBRLeaks have found a new method to find out future items, this was predicted before the shop was released.",,FortNiteBR
