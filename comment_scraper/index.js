@@ -17,6 +17,7 @@ const r = new snoowrap({
 const batchComments = async articles => {
   let promises = articles.map(async id => {
     return r.getSubmission(id).comments.map(comment => {
+      console.log(id);
       return comment;
     });
   })
@@ -40,6 +41,8 @@ const getAllComments = ids => {
     if (err) throw err;
     let comments = JSON.parse(data);
     console.log(checkpoint)
+
+
     let x = checkpoint.batch_no;
     let y = Math.ceil(ids.length / BATCH_SIZE)
 
@@ -49,7 +52,8 @@ const getAllComments = ids => {
       let batch = ids.slice(lo, hi);
 
       let results = batchComments(batch).then(result => {
-      commentData = JSON.stringify(comments)
+        console.log(result);
+        commentData = JSON.stringify(comments)
         fs.writeFile('fortniteCompComments.json', commentData, (err) => {
           if (err) throw err;
           console.log('Data written to file');
@@ -63,18 +67,20 @@ const getAllComments = ids => {
   });
 }
 
-const main = (file) => {
-  let ids = []
-  fs.createReadStream(file)
-    .pipe(csv())
-    .on('data', (row) => {
-      ids.push(row['c5vyi4'])
-    })
-    .on('end', () => {
-      console.log('CSV file successfully processed');
-      console.log('Length is ' + ids.length);
-      getAllComments(ids);
-    });
-}
+// const main = (file) => {
+//   let ids = []
+//   fs.createReadStream(file)
+//     .pipe(csv())
+//     .on('data', (row) => {
+//       ids.push(row['c5vyi4'])
+//     })
+//     .on('end', () => {
+//       console.log('CSV file successfully processed');
+//       console.log('Length is ' + ids.length);
+//       getAllComments(ids);
+//     });
+// }
+
+getAllComments('9jb0y4')
 
 main('comp_ids.csv');
