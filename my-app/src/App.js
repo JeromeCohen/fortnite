@@ -1,12 +1,9 @@
 
 import React from 'react';
 import logo from './logo.svg';
-// import './App.css';
+import './App.css';
 import { makeStyles } from '@material-ui/core/styles';
-import Radio from '@material-ui/core/Radio';
-import RadioGroup from '@material-ui/core/RadioGroup';
-import FormHelperText from '@material-ui/core/FormHelperText';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
+import Button from '@material-ui/core/Button';
 import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
 import InputLabel from '@material-ui/core/InputLabel';
@@ -19,12 +16,15 @@ function App() {
       flexWrap: 'wrap',
     },
     formControl: {
-      margin: theme.spacing(1),
+      margin: theme.spacing(3),
       minWidth: 120,
     },
     selectEmpty: {
       marginTop: theme.spacing(2),
     },
+    button: {
+      margin: theme.spacing(3),
+    }
   }));
 
   const [values, setValues] = React.useState({
@@ -40,12 +40,19 @@ function App() {
     }));
   }
 
+  function addVis(event) {
+    console.log('TODO: Add Vis');
+  }
+
+  function removeVis(event) {
+    console.log('TODO: remove Vis');
+  }
+
   return (
     <div className="App">
       <header className="App-header">
         <h1>LDA Visualizations</h1>
       </header>
-      <body>
         <form className={classes.root} autoComplete="off">
           <FormControl className={classes.formControl}>
             <InputLabel htmlFor="subreddit-auto-width">Subreddit</InputLabel>
@@ -77,8 +84,13 @@ function App() {
               <MenuItem value={'1.2'}>1.2</MenuItem>
             </Select>
           </FormControl>
+          <Button variant="contained" color="primary" className={classes.button} onClick={addVis}>
+            Add
+      </Button>
+          <Button variant="outlined" color="secondary" className={classes.button} onClick={removeVis}>
+            Remove
+      </Button>
         </form>
-      </body>
     </div>
   );
 }

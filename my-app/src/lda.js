@@ -54,8 +54,10 @@ class LDA extends React.Component {
 
 export default class PyLDAvis extends React.Component {
   render() {
-    const {id, data} = this.props
+    const {id, data, subreddit, patch} = this.props
     return (
+      <h1>{subreddit}</h1>
+      <h2>{patch}</h2>
       <div id={id}>
         <LDA data={data} />
       </div>
