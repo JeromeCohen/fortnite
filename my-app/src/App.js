@@ -1,6 +1,5 @@
 
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
@@ -8,6 +7,8 @@ import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
 import InputLabel from '@material-ui/core/InputLabel';
 import { Select } from '@material-ui/core';
+import Test from './data/FortNiteBR_1.6.3.json'
+import PyLDAvis from './lda.js'
 
 function App() {
   const classes = makeStyles(theme => ({
@@ -42,6 +43,7 @@ function App() {
 
   function addVis(event) {
     console.log('TODO: Add Vis');
+    console.log(Test);
   }
 
   function removeVis(event) {
@@ -91,6 +93,7 @@ function App() {
             Remove
       </Button>
         </form>
+        <PyLDAvis data={Test}></PyLDAvis>
     </div>
   );
 }

@@ -1,12 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-/*global LDAvis - https://github.com/antisrdy/pyldavis_dash/blob/master/src/components/pyLDAvis.react.js */
+import { LDAvis } from './ldavisv1';
+
+
+// global LDAvis - https://github.com/antisrdy/pyldavis_dash/blob/master/src/components/pyLDAvis.react.js
 class LDA extends React.Component {
   constructor (props) {
     super(props);
     this.load = this.load.bind(this);
     this.update = this.update.bind(this);
     this.onRef = this.onRef.bind(this);
+  
   }
 
   load (url, callback) {
@@ -20,16 +24,7 @@ class LDA extends React.Component {
 
   componentWillMount () {
     this.id = `ldavis_elt_${Math.round(Math.random() * 1e20)}`;
-
-    if (typeof(LDAvis) !== 'undefined') {
-      return this.update();
-    }
-
-    this.load('https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js', () => {
-      this.load('https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.js', () => {
-        this.update();
-      });
-    });
+    this.update()
   }
 
   update (props = this.props) {
@@ -37,6 +32,7 @@ class LDA extends React.Component {
     if (document.getElementById(this.id) && typeof(LDAvis) !== 'undefined') {
       new LDAvis('#' + this.id, props.data);
     }
+
   }
 
   componentWillUpdateProps (nextProps) {
@@ -56,10 +52,13 @@ export default class PyLDAvis extends React.Component {
   render() {
     const {id, data, subreddit, patch} = this.props
     return (
-      <h1>{subreddit}</h1>
-      <h2>{patch}</h2>
-      <div id={id}>
-        <LDA data={data} />
+      <div>
+        <h1>{subreddit}</h1>
+
+        <h2>{patch}</h2>
+        <div id={id}>
+          <LDA data={data} />
+        </div>
       </div>
     );
   }
