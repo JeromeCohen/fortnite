@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+ 
 }
 
 
@@ -11,6 +12,11 @@
   align-items: center;
   justify-content: center;
   color: white;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 

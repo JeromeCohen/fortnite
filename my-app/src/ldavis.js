@@ -2,11 +2,10 @@
 /* Copyright 2013, AT&T Intellectual Property */
 /* MIT Licence */
 
-import * as d3 from 'd3';
+// Pulled code from PR #154 so d3 v5 could be used 
+// Added fill (black) to basebars (line 546), otherwise text was invisible 
 
-/* Original code taken from https://github.com/cpsievert/LDAvis */
-/* Copyright 2013, AT&T Intellectual Property */
-/* MIT Licence */
+import * as d3 from 'd3';
 
 export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
 
@@ -118,7 +117,7 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
 
         // a (K x 5) matrix with columns x, y, topics, Freq, cluster (where x and y are locations for left panel)
         mdsData = [];
-        for (var i = 0; i < K; i++) {
+        for (let i = 0; i < K; i++) {
             var obj = {};
             for (var key in data['mdsDat']) {
                 obj[key] = data['mdsDat'][key][i];
@@ -129,9 +128,9 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
         // a huge matrix with 3 columns: Term, Topic, Freq, where Freq is all non-zero probabilities of topics given terms
         // for the terms that appear in the barcharts for this data
         mdsData3 = [];
-        for (var i = 0; i < data['token.table'].Term.length; i++) {
+        for (let i = 0; i < data['token.table'].Term.length; i++) {
             var obj = {};
-            for (var key in data['token.table']) {
+            for (let key in data['token.table']) {
                 obj[key] = data['token.table'][key][i];
             }
             mdsData3.push(obj);
@@ -141,7 +140,7 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
         // Contains all possible terms for topics in (1, 2, ..., k) and lambda in the user-supplied grid of lambda values
         // which defaults to (0, 0.01, 0.02, ..., 0.99, 1).
         lamData = [];
-        for (var i = 0; i < data['tinfo'].Term.length; i++) {
+        for (let i = 0; i < data['tinfo'].Term.length; i++) {
             var obj = {};
             for (var key in data['tinfo']) {
                 obj[key] = data['tinfo'][key][i];
@@ -543,6 +542,7 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
             .append("text")
             .attr("x", -5)
             .attr("class", "terms")
+            .attr("fill", "black")
             .attr("y", function(d) {
                 return y(d.Term) + 12;
             })
@@ -732,7 +732,7 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
                 return d.Category == "Topic" + vis_state.topic;
             });
             // define relevance:
-            for (var i = 0; i < dat2.length; i++) {
+            for (let i = 0; i < dat2.length; i++) {
                 dat2[i].relevance = vis_state.lambda * dat2[i].logprob +
                     (1 - vis_state.lambda) * dat2[i].loglift;
             }
@@ -1030,7 +1030,7 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
             });
 
             // define relevance:
-            for (var i = 0; i < dat2.length; i++) {
+            for (let i = 0; i < dat2.length; i++) {
                 dat2[i].relevance = lambda.current * dat2[i].logprob +
                     (1 - lambda.current) * dat2[i].loglift;
             }
@@ -1208,18 +1208,18 @@ export var LDAvis = function(to_select, data_or_file_name, color1, color2) {
             var k = dat2.length; // number of topics for this token with non-zero frequency
 
             var radius = [];
-            for (var i = 0; i < K; ++i) {
+            for (let i = 0; i < K; ++i) {
                 radius[i] = 0;
             }
-            for (i = 0; i < k; i++) {
+            for (let i = 0; i < k; i++) {
                 radius[dat2[i].Topic - 1] = dat2[i].Freq;
             }
 
             var size = [];
-            for (var i = 0; i < K; ++i) {
+            for (let i = 0; i < K; ++i) {
                 size[i] = 0;
             }
-            for (i = 0; i < k; i++) {
+            for (let i = 0; i < k; i++) {
                 // If we want to also re-size the topic number labels, do it here
                 // 11 is the default, so leaving this as 11 won't change anything.
                 size[dat2[i].Topic - 1] = 11;

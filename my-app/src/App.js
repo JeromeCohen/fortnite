@@ -1,4 +1,3 @@
-
 import React from 'react';
 import './App.css';
 import { makeStyles } from '@material-ui/core/styles';
@@ -7,8 +6,11 @@ import MenuItem from '@material-ui/core/MenuItem';
 import FormControl from '@material-ui/core/FormControl';
 import InputLabel from '@material-ui/core/InputLabel';
 import { Select } from '@material-ui/core';
-import Test from './data/FortNiteBR_1.6.3.json'
-import PyLDAvis from './lda.js'
+import MenuItems from './items'
+import PyLDAvis from './lda'
+const startingVis = require('./data/FortNiteBR_163');
+const patches = require('./data/patches.json');
+
 
 function App() {
   const classes = makeStyles(theme => ({
@@ -31,8 +33,26 @@ function App() {
   const [values, setValues] = React.useState({
     subreddit: 'r/FortNiteBR',
     patch: '1.1',
-    name: 'subreddit',
+    newSubreddit: 'r/FortNiteBR',
+    newPatch: '1.6.3',
+    data: startingVis
   });
+
+
+  function getJsonURL(subreddit, patch) {
+    //all json files are hosted in a s3 bucket 
+    const baseURL = 'https://fortnite-lda-vis.s3.amazonaws.com/'
+
+    //reformat patch string to how it will look in the url (remove '.' and whitespace)
+    patch = patch.replace(' ', '');
+    patch = patch.replace('.', '');
+
+    //remove r/ from subreddit
+    subreddit = subreddit.replace('r/', '');
+
+    //append strings to form final url
+    return baseURL + subreddit + '_' + patch + '.json';
+  }
 
   function handleChange(event) {
     setValues(oldValues => ({
@@ -42,8 +62,24 @@ function App() {
   }
 
   function addVis(event) {
-    console.log('TODO: Add Vis');
-    console.log(Test);
+    let url = getJsonURL(values.subreddit, values.patch);
+    
+    fetch(url)
+      .then(response => response.json())
+      .then((jsonData) => {
+        // jsonData is parsed json object received from url
+        setValues(oldValues => ({
+          ...oldValues,
+          newSubreddit: values.subreddit, 
+          newPatch: values.patch,
+          data: jsonData,
+        }));
+        console.log(values.data)
+      })
+      .catch((error) => {
+        // handle your errors here
+        console.error(error)
+      })
   }
 
   function removeVis(event) {
@@ -55,6 +91,7 @@ function App() {
       <header className="App-header">
         <h1>LDA Visualizations</h1>
       </header>
+      <div className="container">
         <form className={classes.root} autoComplete="off">
           <FormControl className={classes.formControl}>
             <InputLabel htmlFor="subreddit-auto-width">Subreddit</InputLabel>
@@ -73,31 +110,29 @@ function App() {
           </FormControl>
           <FormControl className={classes.formControl}>
             <InputLabel htmlFor="patch-auto-width">Patch</InputLabel>
-            <Select
-              value={values.patch}
+            <MenuItems
+              patchValues={patches}
               onChange={handleChange}
-              inputProps={{
-                name: 'patch',
-                id: 'patch-auto-width',
-              }}
-              autoWidth
-            >
-              <MenuItem value={'1.1'}>1.1</MenuItem>
-              <MenuItem value={'1.2'}>1.2</MenuItem>
-            </Select>
+              patch={values.patch}>
+            </MenuItems>
           </FormControl>
           <Button variant="contained" color="primary" className={classes.button} onClick={addVis}>
             Add
-      </Button>
+        </Button>
           <Button variant="outlined" color="secondary" className={classes.button} onClick={removeVis}>
             Remove
-      </Button>
+        </Button>
         </form>
-        <PyLDAvis data={Test}></PyLDAvis>
+        <PyLDAvis
+          id='LDAvis1'
+          subreddit={values.newSubreddit}
+          patch={values.newPatch}
+          data={values.data}>
+        </PyLDAvis>
+      </div>
     </div>
   );
 }
-
 export default App;
 
 
