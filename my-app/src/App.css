@@ -2,8 +2,6 @@
   text-align: left;
  
 }
-
-
 .App-header {
   background-color: #282c34;
   display: flex;
@@ -17,6 +15,16 @@
 .container {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.form {
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+.labels {
+  margin-right: 1em; 
 }
 
 

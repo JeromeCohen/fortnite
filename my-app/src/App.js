@@ -26,7 +26,7 @@ function App() {
       marginTop: theme.spacing(2),
     },
     button: {
-      margin: theme.spacing(3),
+      marginLeft: 200000
     }
   }));
 
@@ -63,14 +63,14 @@ function App() {
 
   function addVis(event) {
     let url = getJsonURL(values.subreddit, values.patch);
-    
+
     fetch(url)
       .then(response => response.json())
       .then((jsonData) => {
         // jsonData is parsed json object received from url
         setValues(oldValues => ({
           ...oldValues,
-          newSubreddit: values.subreddit, 
+          newSubreddit: values.subreddit,
           newPatch: values.patch,
           data: jsonData,
         }));
@@ -82,57 +82,52 @@ function App() {
       })
   }
 
-  function removeVis(event) {
-    console.log('TODO: remove Vis');
-  }
-
   return (
     <div className="App">
       <header className="App-header">
         <h1>LDA Visualizations</h1>
       </header>
       <div className="container">
-        <form className={classes.root} autoComplete="off">
-          <FormControl className={classes.formControl}>
-            <InputLabel htmlFor="subreddit-auto-width">Subreddit</InputLabel>
-            <Select
-              value={values.subreddit}
-              onChange={handleChange}
-              inputProps={{
-                name: 'subreddit',
-                id: 'subreddit-auto-width',
-              }}
-              autoWidth
-            >
-              <MenuItem value={'r/FortNiteBR'}>r/FortNiteBR</MenuItem>
-              <MenuItem value={'r/FortniteCompetitive'}>r/FortniteCompetitive</MenuItem>
-            </Select>
-          </FormControl>
-          <FormControl className={classes.formControl}>
-            <InputLabel htmlFor="patch-auto-width">Patch</InputLabel>
-            <MenuItems
-              patchValues={patches}
-              onChange={handleChange}
-              patch={values.patch}>
-            </MenuItems>
-          </FormControl>
-          <Button variant="contained" color="primary" className={classes.button} onClick={addVis}>
-            Add
-        </Button>
-          <Button variant="outlined" color="secondary" className={classes.button} onClick={removeVis}>
-            Remove
+        <form className='form' autoComplete="off">
+          <div className="labels">
+            <FormControl className={classes.formControl}>
+              <InputLabel htmlFor="subreddit-auto-width">Subreddit</InputLabel>
+              <Select
+                value={values.subreddit}
+                onChange={handleChange}
+                inputProps={{
+                  name: 'subreddit',
+                  id: 'subreddit-auto-width',
+                }}
+                autoWidth
+              >
+                <MenuItem value={'r/FortNiteBR'}>r/FortNiteBR</MenuItem>
+                <MenuItem value={'r/FortniteCompetitive'}>r/FortniteCompetitive</MenuItem>
+              </Select>
+            </FormControl>
+            <FormControl className={classes.formControl}>
+              <InputLabel htmlFor="patch-auto-width">Patch</InputLabel>
+              <MenuItems
+                patchValues={patches}
+                onChange={handleChange}
+                patch={values.patch}>
+              </MenuItems>
+            </FormControl>
+            </div>
+            <Button variant="contained" color="primary" className={classes.button} onClick={addVis}>
+              Change
         </Button>
         </form>
-        <PyLDAvis
-          id='LDAvis1'
-          subreddit={values.newSubreddit}
-          patch={values.newPatch}
-          data={values.data}>
-        </PyLDAvis>
+          <PyLDAvis
+            id='LDAvis1'
+            subreddit={values.newSubreddit}
+            patch={values.newPatch}
+            data={values.data}>
+          </PyLDAvis>
       </div>
-    </div>
-  );
-}
-export default App;
-
-
+      </div>
+      );
+    }
+    export default App;
+    
+    
