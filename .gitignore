@@ -14,7 +14,7 @@ data/
 
 # misc
 .DS_Store
-.env/
+/Analysis/env.sh
 .env.local
 .env.development.local
 .env.test.local
