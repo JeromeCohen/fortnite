@@ -32,5 +32,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "http://jeromecohen.github.io/fortniteLDA-app"
+  "homepage": "http://jeromecohen.github.io/fortnite",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
