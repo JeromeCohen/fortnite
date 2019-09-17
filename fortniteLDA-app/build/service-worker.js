@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fortnite/precache-manifest.342de7ad3f47d9d3188a5d86b63fe29b.js"
+  "/fortnite/precache-manifest.4644c5c651693e3d67a43a5d63d3c322.js"
 );
 
 self.addEventListener('message', (event) => {
