@@ -4,8 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Run Locally
 To recreate this app, cd into the cloned directory then run: 
 
-`npm install
- npm run` 
+`npm install`  
+
+ `npm run` 
 
  The app should be hosted on port 3000. 
 
