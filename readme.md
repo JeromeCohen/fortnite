@@ -11,7 +11,9 @@ Finally, if one wanted to implement a machine learning approach, the post ids co
 ## Data 
 All data for this project was scraped from Pushshift, Reddit, and the Fortnite website with original scripts. The data can be found in a S3 bucket which I link to below: 
 
-[Posts](https://fortnite-lda-vis.s3.amazonaws.com/posts.csv) 
-[Comments](https://fortnite-lda-vis.s3.amazonaws.com/comments.csv) 
+[Posts](https://fortnite-lda-vis.s3.amazonaws.com/posts.csv)  
+
+[Comments](https://fortnite-lda-vis.s3.amazonaws.com/comments.csv)  
+
 [Patches](https://fortnite-lda-vis.s3.amazonaws.com/patches.csv)
 
